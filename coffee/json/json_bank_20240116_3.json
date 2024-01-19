@@ -1,0 +1,902 @@
+[
+    {
+        "blend_name": "The Blend",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Red Bourbon",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "astringent",
+        "user_id": "add679de-f3e7-4c40-ba6f-d22df3321d57",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "S288",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "soft",
+        "user_id": "1800609c-23cf-4d9f-8bf4-c7c680b35705",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Java",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "deep",
+        "user_id": "3f5ac875-17e3-4cdc-aa31-ff75a720e8b6",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Java",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "soft",
+        "user_id": "d630d856-0c09-4751-b40f-7f40badd9877",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Liberica",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "soft",
+        "user_id": "c976dd89-42d8-4628-8366-c82833865487",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Java",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "juicy",
+        "user_id": "9ea49d18-9774-4f11-ad9e-0f71bed900c2",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mattari, Yemen",
+        "variety": "Java",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "pointed",
+        "user_id": "5586bb21-a407-4f19-99f2-b605b8927e91",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mattari, Yemen",
+        "variety": "Liberica",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "pointed",
+        "user_id": "5a65e9c8-b7aa-4971-8ad5-ad8232796064",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Pink Bourbon",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "astringent",
+        "user_id": "7b4d9344-ad9c-4ff4-badc-0d223f9e2a4d",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Java",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "deep",
+        "user_id": "5798a88a-9121-4536-baa8-1034427911d4",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Java",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "deep",
+        "user_id": "46108fd0-2db4-4d6a-a9aa-c3923a9aec88",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Red Bourbon",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "soft",
+        "user_id": "85c567d6-e450-4a9b-97df-44629d623c82",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mattari, Yemen",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "pointed",
+        "user_id": "e4e7c165-0760-4949-99df-278049d967a6",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Java",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "pointed",
+        "user_id": "9b843709-219d-4928-9ddf-54bced92dd13",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Mattari, Yemen",
+        "variety": "Red Bourbon",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "deep",
+        "user_id": "f60af6de-6a1b-4968-a195-bc22d82aaa64",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mattari, Yemen",
+        "variety": "Liberica",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "pointed",
+        "user_id": "e61a653f-9418-4bba-93fa-90a0e66860df",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Java",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "soft",
+        "user_id": "0b17c183-a696-4243-94a9-6966ec7a7cf1",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Red Bourbon",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "juicy",
+        "user_id": "b33913f2-cbe9-4132-8a02-c4f5d4ee643d",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Pink Bourbon",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "pointed",
+        "user_id": "77d3d2ab-58ee-4964-b232-6bdc472bdc6e",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "juicy",
+        "user_id": "cc2c1ce6-898b-45e5-a778-07d58e619a67",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Red Bourbon",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "pointed",
+        "user_id": "95a32c11-aea4-4b18-b42c-e3e83fd1bb7e",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Liberica",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "juicy",
+        "user_id": "06d06416-ec8c-4d6d-addd-7247eb000ec1",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "soft",
+        "user_id": "4b809d6d-7e9b-4382-aecd-c2c5134c955d",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Pink Bourbon",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "soft",
+        "user_id": "1dc6149a-d366-4b25-99aa-7000cb185432",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Granada, Nicaragua",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "pointed",
+        "user_id": "fad3a13f-fbc6-40ac-8146-c0b1acb4ee1c",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "deep",
+        "user_id": "f7a9c783-6e7c-42a6-91b4-123acb4fb8cb",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mattari, Yemen",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "soft",
+        "user_id": "944d7a59-625a-4ff3-837d-9386d77401de",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Sul Minas, Brazil",
+        "variety": "S288",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "astringent",
+        "user_id": "50f6338f-a125-4eaf-8251-5edbd966e385",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Red Bourbon",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "juicy",
+        "user_id": "ed2dadda-09ce-4e94-9107-f99e1ed8c9a6",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "pointed",
+        "user_id": "d9202a07-30c6-4b45-b45d-8cceefb766ee",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Mattari, Yemen",
+        "variety": "Red Bourbon",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "soft",
+        "user_id": "2442dec7-3a87-4d94-aa23-ab44c76b4d5f",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Pink Bourbon",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "pointed",
+        "user_id": "ce615021-431d-4a20-aeaf-d8e37330dd25",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Sul Minas, Brazil",
+        "variety": "S288",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "juicy",
+        "user_id": "2a7de911-4ae0-4dbc-927c-fc5523a2eb01",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "deep",
+        "user_id": "a9bffb59-1fd0-491d-baf2-89dcf68f15d5",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Granada, Nicaragua",
+        "variety": "Pink Bourbon",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "soft",
+        "user_id": "59419a33-0f7e-4ff5-abe7-53284898c612",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "astringent",
+        "user_id": "4c32e9e1-a951-4bbb-9a47-81c15d4b4097",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Java",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "juicy",
+        "user_id": "7922e6ad-46c0-45da-90b3-4a8cd0852530",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "deep",
+        "user_id": "3ae1c98e-64c0-4fc3-996a-0e58439af6fa",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "deep",
+        "user_id": "6a780881-dfc3-4415-86c9-59213928e572",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Pink Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "astringent",
+        "user_id": "40869200-b277-4cdb-aa65-1847690673a1",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Granada, Nicaragua",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "deep",
+        "user_id": "cfce04f8-575d-484d-909a-c3bb896c7d3e",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Java",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "pointed",
+        "user_id": "f8161cd7-09bc-4a67-8a60-7f3ca5e3a873",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Pink Bourbon",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "juicy",
+        "user_id": "8b544838-169e-4dce-a186-a5f837390bc4",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Java",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "juicy",
+        "user_id": "6f286029-f95f-45a5-ae77-6f74fea34c65",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Liberica",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "juicy",
+        "user_id": "f41b947d-7d9e-4277-b76f-0ff107e1c68f",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Mattari, Yemen",
+        "variety": "Pink Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "soft",
+        "user_id": "fd733daf-21b0-4109-b609-28870a53fff5",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "S288",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "soft",
+        "user_id": "9704d1a5-b350-430e-a742-9a12eeb4e9b7",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "juicy",
+        "user_id": "24eeea71-316e-4492-bc39-9a2a5b9c0011",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Liberica",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "juicy",
+        "user_id": "8b9e6a5a-d904-4f5f-bfe5-78ddb793653a",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Java",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "pointed",
+        "user_id": "5981e045-a62b-4df9-8c92-2baac45a9fc5",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Red Bourbon",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "pointed",
+        "user_id": "124a2070-33d7-47c7-bcbe-2d0b3a6c5611",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Mattari, Yemen",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "deep",
+        "user_id": "ebfb555c-c899-423d-98e0-cd5543937377",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mattari, Yemen",
+        "variety": "Java",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "astringent",
+        "user_id": "471248e9-df80-4992-82d9-50c544700983",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "soft",
+        "user_id": "4e230943-0634-489f-9e62-d25730853e45",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mattari, Yemen",
+        "variety": "S288",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "pointed",
+        "user_id": "02bbefc4-401a-47e4-8462-dab274e41f40",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "S288",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "soft",
+        "user_id": "16c8232d-4a88-4237-8d9d-3d67dba8f2df",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mattari, Yemen",
+        "variety": "Java",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "pointed",
+        "user_id": "788478b5-ffa7-4fbe-b814-b99a50f1a1c4",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mattari, Yemen",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "soft",
+        "user_id": "bf425931-2a98-4096-97ce-5a6ab4da9c94",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Liberica",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "pointed",
+        "user_id": "2b4dccd5-be10-402f-a9e7-aa63f144ece8",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Java",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "astringent",
+        "user_id": "802dd58d-1410-4b2b-8449-8db2aed8db27",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Granada, Nicaragua",
+        "variety": "S288",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "juicy",
+        "user_id": "42f6b369-0428-4bc9-a298-5394b44ccd7f",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mattari, Yemen",
+        "variety": "Pink Bourbon",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "juicy",
+        "user_id": "6abd0b7b-abcd-43ce-a52d-d1b4d1d1873a",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Mattari, Yemen",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "soft",
+        "user_id": "498b821d-ec61-4094-a11d-63b5f9479638",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Granada, Nicaragua",
+        "variety": "Liberica",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "soft",
+        "user_id": "5f425ecb-65c4-46a9-a190-6a68e8c55418",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "S288",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "soft",
+        "user_id": "167120fc-aa57-495f-95c2-3fde36d48071",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Granada, Nicaragua",
+        "variety": "Pink Bourbon",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "deep",
+        "user_id": "1a3f04d0-f558-420e-a98f-520ea9b99e9f",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "deep",
+        "user_id": "6a1ca0dd-c1f2-4041-bb89-f2b464995c94",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Mattari, Yemen",
+        "variety": "Java",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "pointed",
+        "user_id": "1349a254-2315-4b03-8d00-78916c2539a6",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "S288",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "deep",
+        "user_id": "560d5e99-5c01-478e-b7fe-d9ee9942762d",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "soft",
+        "user_id": "726a2cd8-d431-4757-bf84-8f4be8eb095f",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "S288",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "pointed",
+        "user_id": "2330f58a-3274-494a-9106-576aca118a22",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Granada, Nicaragua",
+        "variety": "Liberica",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "soft",
+        "user_id": "446332d9-6e5a-4911-ae86-8685f75c63ef",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "astringent",
+        "user_id": "21d55943-15ec-42b7-b36c-22c875a33ee7",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Red Bourbon",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "soft",
+        "user_id": "06c8536d-235d-4c06-91ab-18b8a4bc05dc",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Pink Bourbon",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "soft",
+        "user_id": "b035909b-9e90-408b-9ca5-1c1d461513e4",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Granada, Nicaragua",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "astringent",
+        "user_id": "af4e84e1-aa18-446e-a382-ea4ea645366c",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Mattari, Yemen",
+        "variety": "Pink Bourbon",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "astringent",
+        "user_id": "5c5ff3d3-78ff-4454-869d-4a2d4286840a",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "juicy",
+        "user_id": "01bd1878-23fc-47d2-80a2-398455b20e6a",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Liberica",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "astringent",
+        "user_id": "b15971c9-d904-4b73-ae2e-834198c7f51a",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mattari, Yemen",
+        "variety": "Red Bourbon",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "soft",
+        "user_id": "757a3e8e-b76a-408a-8f5e-7fd407e7abec",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Java",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "deep",
+        "user_id": "22c4d37f-29c7-4dfb-aadb-ccde43a78b8b",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Granada, Nicaragua",
+        "variety": "S288",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "juicy",
+        "user_id": "73f6adf8-a33e-47ce-832a-51f15d0e0a2d",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "pointed",
+        "user_id": "5647b2c9-5711-4a65-8f61-afcd3f274878",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Mattari, Yemen",
+        "variety": "Java",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "pointed",
+        "user_id": "6db57a5f-f586-460b-9f13-4f445bccd14e",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Liberica",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "deep",
+        "user_id": "95675d73-9403-4f8c-8277-3fa1836aa5d5",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Sul Minas, Brazil",
+        "variety": "Java",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "astringent",
+        "user_id": "de245399-512d-48b1-b454-9bb1f55217b3",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Mattari, Yemen",
+        "variety": "Red Bourbon",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "soft",
+        "user_id": "fecb7633-9d14-41ba-af1a-d75ea948c66c",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mattari, Yemen",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "juicy",
+        "user_id": "01517a9b-2ae9-4e76-b099-fbf70a1c79a3",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "deep",
+        "user_id": "946bc9d1-6fc3-4179-a202-2ee44b5bfa2e",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Mattari, Yemen",
+        "variety": "Java",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "juicy",
+        "user_id": "52114217-6081-403f-8424-8f208318df0d",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Mattari, Yemen",
+        "variety": "Pink Bourbon",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "astringent",
+        "user_id": "e3afbaaf-f50e-4d22-a0b9-e999dda8f956",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "deep",
+        "user_id": "0a514e3f-5f25-4fc5-b95b-207d951a3c8f",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Java",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "pointed",
+        "user_id": "f0ce8775-6650-4ecc-af56-659551552459",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Granada, Nicaragua",
+        "variety": "Liberica",
+        "notes": "bright, velvety, liquorice, red currant, bakers chocolate",
+        "intensifier": "astringent",
+        "user_id": "ee0c61aa-f2a6-45dc-b9c1-c797dfa59a47",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Major Solstice",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Java",
+        "notes": "astringent, tea-like, green grape, wheat, rubber",
+        "intensifier": "soft",
+        "user_id": "0f35a613-06e7-4612-a229-e24fa1db7108",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Liberica",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "astringent",
+        "user_id": "03220aec-3a6e-4b75-aeb5-233da63cd4dd",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "American Volcano",
+        "origin": "Granada, Nicaragua",
+        "variety": "Pink Bourbon",
+        "notes": "astringent, tea-like, toast, cacao nibs, barley",
+        "intensifier": "pointed",
+        "user_id": "8221f891-c55e-4bfb-bf53-8c6eef9fc1be",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "The Blend",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "S288",
+        "notes": "delicate, coating, sundried tomato, grapefruit, coriander",
+        "intensifier": "astringent",
+        "user_id": "affc5fa2-762d-4b98-b833-51ac056f1529",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Strong Forrester",
+        "origin": "Mount Elgon, Uganda",
+        "variety": "Java",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "soft",
+        "user_id": "6412be83-bd01-466f-b763-adbea1833880",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    },
+    {
+        "blend_name": "Melty America",
+        "origin": "Kigeyo Washing Station, Rwanda",
+        "variety": "Red Bourbon",
+        "notes": "mild, coating, cinnamon, dill, dates",
+        "intensifier": "astringent",
+        "user_id": "90f74189-c3c4-45c7-ab7d-77e30564df4b",
+        "dt_current_timestamp": "2024-01-17 00:03:38"
+    }
+]

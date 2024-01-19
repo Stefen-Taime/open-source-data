@@ -1,0 +1,101 @@
+brand,name,style,hop,yeast,malts,ibu,alcohol,blg,user_id
+Heineken,Lager,Sour Ale,Saaz,1056 - American Ale,Munich,62 IBU,8.4%,12.7°Blg,a9e7f4c0-3d79-446b-b44e-55ae3ee05b9f
+Carlsberg,Porter,Strong Ale,Cascade,1056 - American Ale,Chocolate,45 IBU,6.7%,19.5°Blg,1ff091de-d15c-480c-917f-9ed7442ad73e
+Brewdog,Imperial Stout,Sour Ale,Mosaic,W34/70 - Lager,Caramel,66 IBU,8.7%,14.0°Blg,094bd1b3-540e-4129-9d58-8c11e31625f6
+Guinness,Porter,Wheat Beer,Millennium,W34/70 - Lager,Victory,38 IBU,5.6%,12.2°Blg,91701ee9-5b0a-411c-82a6-112f3a0c1145
+Brewdog,Pale Ale,Sour Ale,Galaxy,1056 - American Ale,Victory,42 IBU,7.0%,18.6°Blg,608f4b82-69f5-4c6e-8734-9b5d5b4c7788
+Guinness,Imperial Stout,Sour Ale,Saaz,1388 - Belgian Strong Ale,Caramel,44 IBU,9.7%,11.9°Blg,9e410645-96ff-4964-93bf-53a1ea42252f
+Guinness,Porter,Sour Ale,Millennium,WLP001 - California Ale,Munich,23 IBU,5.7%,17.5°Blg,15ecf9b6-769f-400e-8174-a1963254a5bd
+Carlsberg,Lager,Sour Ale,Galaxy,1056 - American Ale,Munich,63 IBU,4.5%,13.6°Blg,1028627a-cb0f-4e34-84ed-f950a5f8f4a1
+Heineken,Pale Ale,Session IPA,Millennium,1388 - Belgian Strong Ale,Chocolate,56 IBU,7.0%,17.6°Blg,54e08e9e-cf86-4a36-830f-306d1c030fec
+Brewdog,Lager,Sour Ale,Cascade,1056 - American Ale,Victory,43 IBU,5.5%,14.9°Blg,c8f68cbf-cc2d-459a-8a43-803159dc69d4
+Budweiser,Lager,Sour Ale,Millennium,S04 - English Ale,Victory,33 IBU,6.1%,17.8°Blg,75408989-3d96-453a-8820-4034967afe5f
+Guinness,Porter,Sour Ale,Saaz,1388 - Belgian Strong Ale,Munich,34 IBU,9.5%,11.7°Blg,78bced13-a288-402f-bfc1-daa3821a9e06
+Carlsberg,Lager,Wheat Beer,Mosaic,1056 - American Ale,Chocolate,57 IBU,5.5%,17.5°Blg,814a91eb-b265-4ab2-ab45-f483883090db
+Heineken,Lager,Strong Ale,Galaxy,S04 - English Ale,Munich,20 IBU,9.3%,14.2°Blg,0cfd47b2-5724-4576-8dfc-af3cc54c8dd3
+Guinness,Pilsner,Sour Ale,Cascade,W34/70 - Lager,Victory,59 IBU,6.8%,14.2°Blg,fb24c384-57b4-49cb-8b8f-744712ab3955
+Guinness,Porter,Session IPA,Saaz,S04 - English Ale,Pilsner,70 IBU,4.2%,18.9°Blg,a64d4e8f-8c92-41dd-850b-999d32ab356f
+Budweiser,Porter,Belgian Dubbel,Mosaic,S04 - English Ale,Caramel,40 IBU,7.7%,15.6°Blg,1d3e46b9-6033-4df1-88a0-4d364df83183
+Brewdog,Porter,Strong Ale,Cascade,1056 - American Ale,Victory,40 IBU,4.9%,12.3°Blg,478ab6e6-d34f-492c-abd4-122609e4ebe1
+Brewdog,Imperial Stout,Wheat Beer,Millennium,S04 - English Ale,Pilsner,27 IBU,6.7%,13.6°Blg,2f583958-0e38-4a13-83b9-a84ae893fd67
+Budweiser,Imperial Stout,Belgian Dubbel,Saaz,W34/70 - Lager,Munich,53 IBU,6.1%,11.9°Blg,2fed7efd-b80e-41e4-bb53-f9b530af95c7
+Heineken,Porter,Wheat Beer,Mosaic,1056 - American Ale,Victory,30 IBU,5.2%,19.5°Blg,0c104669-9c2e-4ec7-9d8c-62729a0d7138
+Carlsberg,Pale Ale,Wheat Beer,Mosaic,1388 - Belgian Strong Ale,Victory,36 IBU,8.8%,12.1°Blg,acd835a2-af25-4248-aab3-0d10e5c164bc
+Budweiser,Lager,Wheat Beer,Cascade,1056 - American Ale,Chocolate,66 IBU,5.8%,16.6°Blg,0665e6b7-4473-4f8e-8efb-ceed13a56bf0
+Carlsberg,Lager,Session IPA,Galaxy,1056 - American Ale,Victory,38 IBU,5.8%,14.5°Blg,ee0e1914-ebb5-441d-ada0-208788563e1e
+Budweiser,Pilsner,Wheat Beer,Mosaic,W34/70 - Lager,Chocolate,56 IBU,5.1%,13.1°Blg,5be51729-ebf9-4990-9bcc-a1b8fcc83e79
+Brewdog,Pilsner,Sour Ale,Saaz,WLP001 - California Ale,Chocolate,68 IBU,8.3%,14.1°Blg,efab600e-8e6d-40bb-b42f-6d8f700602ff
+Brewdog,Lager,Session IPA,Saaz,WLP001 - California Ale,Caramel,22 IBU,6.8%,10.6°Blg,71da65cf-48ce-4e01-b7f0-b15c8791803f
+Budweiser,Porter,Wheat Beer,Cascade,WLP001 - California Ale,Pilsner,57 IBU,6.0%,18.2°Blg,a7b01227-ca09-493f-8fd3-dc8d14a4195b
+Guinness,Porter,Strong Ale,Galaxy,WLP001 - California Ale,Munich,69 IBU,5.3%,18.5°Blg,ce518211-e4e5-4899-a936-9d43295a2b2e
+Heineken,Lager,Session IPA,Millennium,1388 - Belgian Strong Ale,Caramel,34 IBU,5.4%,17.6°Blg,ade693b4-350d-4704-9dab-58cd60ca2668
+Guinness,Imperial Stout,Belgian Dubbel,Mosaic,WLP001 - California Ale,Victory,67 IBU,4.9%,11.3°Blg,5094c72b-6c23-4ad4-b2a9-769253ac342b
+Guinness,Pale Ale,Session IPA,Millennium,W34/70 - Lager,Munich,41 IBU,6.9%,12.1°Blg,40ad9fb1-0c57-4bc3-a4d3-50d4cfe58021
+Heineken,Pale Ale,Strong Ale,Saaz,S04 - English Ale,Caramel,33 IBU,8.9%,14.0°Blg,8ddeec69-b4fa-4246-acea-fc8f273b5c59
+Brewdog,Lager,Sour Ale,Mosaic,S04 - English Ale,Victory,24 IBU,8.3%,15.8°Blg,148a912a-5c2e-49d7-a4cf-6502aad4db4f
+Budweiser,Porter,Sour Ale,Millennium,1388 - Belgian Strong Ale,Munich,39 IBU,6.9%,16.1°Blg,60a8ef55-2666-407a-9d78-78b7e8c33e1f
+Heineken,Pilsner,Wheat Beer,Mosaic,1388 - Belgian Strong Ale,Munich,28 IBU,8.7%,12.1°Blg,1622a9a5-e094-4f61-be0a-43faf36506f6
+Carlsberg,Porter,Sour Ale,Mosaic,1388 - Belgian Strong Ale,Caramel,21 IBU,7.6%,12.1°Blg,70dd62d3-0080-4b07-82dd-0a62628728bc
+Heineken,Lager,Sour Ale,Saaz,WLP001 - California Ale,Pilsner,35 IBU,6.9%,10.5°Blg,e9a94db2-c927-4093-b403-ab55cdd58ab0
+Budweiser,Pale Ale,Wheat Beer,Saaz,WLP001 - California Ale,Chocolate,52 IBU,4.6%,17.6°Blg,fb6756f5-672e-4d83-aee5-9bd5a765bea5
+Carlsberg,Porter,Belgian Dubbel,Galaxy,1056 - American Ale,Caramel,28 IBU,5.5%,18.2°Blg,17bbbb39-be82-44ee-aadd-75ac699395f5
+Budweiser,Imperial Stout,Strong Ale,Saaz,1056 - American Ale,Munich,24 IBU,7.3%,16.0°Blg,1c968d84-763e-42d5-99bb-9369b8996019
+Heineken,Pilsner,Strong Ale,Millennium,1056 - American Ale,Pilsner,67 IBU,5.0%,18.7°Blg,9d5eb260-b0c9-4cfa-a3d8-adeabf043f39
+Budweiser,Pilsner,Sour Ale,Saaz,W34/70 - Lager,Chocolate,41 IBU,6.7%,10.9°Blg,c016fba7-7053-4a25-b4b3-2e4c3a40ccc1
+Carlsberg,Porter,Wheat Beer,Cascade,W34/70 - Lager,Chocolate,37 IBU,8.9%,15.2°Blg,152807b4-f8b8-4e1d-be76-2a45ef782659
+Heineken,Pale Ale,Belgian Dubbel,Galaxy,1388 - Belgian Strong Ale,Munich,56 IBU,4.4%,10.7°Blg,a0358dca-2a1b-4f8e-bc69-6e01594f5f3d
+Carlsberg,Imperial Stout,Strong Ale,Galaxy,WLP001 - California Ale,Munich,70 IBU,5.3%,13.5°Blg,d2a41ccb-be09-4765-becd-a55074c13ef6
+Guinness,Pale Ale,Sour Ale,Mosaic,W34/70 - Lager,Victory,62 IBU,4.8%,15.7°Blg,7186c85c-f2be-46ca-8065-98c4c0189bfe
+Budweiser,Imperial Stout,Strong Ale,Millennium,S04 - English Ale,Munich,47 IBU,5.3%,13.0°Blg,de1cb292-a6e7-4fd3-9038-9aaedef9b26d
+Guinness,Porter,Wheat Beer,Saaz,W34/70 - Lager,Chocolate,65 IBU,7.3%,17.3°Blg,8b1d07f9-c73d-4bbc-b3be-a0a1187fa94e
+Brewdog,Porter,Wheat Beer,Mosaic,W34/70 - Lager,Chocolate,64 IBU,4.9%,16.8°Blg,5e157048-3d84-4221-9126-9e0edfccba75
+Heineken,Pale Ale,Session IPA,Galaxy,1388 - Belgian Strong Ale,Chocolate,33 IBU,6.1%,13.3°Blg,9e88d0b8-563f-4575-bf3f-d0e3c3525348
+Budweiser,Porter,Session IPA,Saaz,WLP001 - California Ale,Chocolate,40 IBU,8.6%,12.2°Blg,74398328-a9b4-4c91-a205-8de841ba979f
+Carlsberg,Pilsner,Wheat Beer,Saaz,1056 - American Ale,Pilsner,52 IBU,4.8%,17.5°Blg,bf26ba48-fb77-42d7-9023-773b00f2b855
+Heineken,Pale Ale,Session IPA,Galaxy,1388 - Belgian Strong Ale,Caramel,61 IBU,6.9%,14.8°Blg,3178ff57-5bde-4212-a3f4-2bb42f730aec
+Budweiser,Porter,Belgian Dubbel,Saaz,1056 - American Ale,Victory,50 IBU,5.0%,15.2°Blg,2d085a55-ed5b-477f-98ac-0ce5b00f79ba
+Guinness,Pilsner,Sour Ale,Saaz,WLP001 - California Ale,Pilsner,65 IBU,5.9%,15.5°Blg,90fc001c-7886-4dc5-8a36-a079890bf7df
+Brewdog,Porter,Sour Ale,Cascade,WLP001 - California Ale,Caramel,63 IBU,7.8%,19.3°Blg,a8d84c09-9c27-49bc-a05b-da8b99b0f08a
+Carlsberg,Lager,Sour Ale,Galaxy,W34/70 - Lager,Munich,44 IBU,5.4%,18.9°Blg,62798906-1543-416a-9483-cd43498c7a31
+Guinness,Lager,Strong Ale,Cascade,1056 - American Ale,Munich,36 IBU,4.3%,12.3°Blg,3dd043c1-59b3-40c8-b1c0-dc8c9e87b72d
+Carlsberg,Pilsner,Session IPA,Millennium,W34/70 - Lager,Chocolate,50 IBU,4.4%,19.7°Blg,8c172af4-3f12-4c2a-bac8-3bb6d3862a6d
+Brewdog,Pilsner,Belgian Dubbel,Mosaic,W34/70 - Lager,Victory,55 IBU,8.0%,16.7°Blg,dfbea2bf-8989-451b-abc6-eb56fb017b57
+Guinness,Pilsner,Session IPA,Saaz,W34/70 - Lager,Chocolate,31 IBU,5.3%,13.8°Blg,b2d9f349-e263-49a0-99c1-3d8bf0173543
+Brewdog,Imperial Stout,Belgian Dubbel,Millennium,1388 - Belgian Strong Ale,Victory,22 IBU,4.9%,19.3°Blg,3a95201e-16e9-4181-8fbe-46f511cad3d6
+Carlsberg,Pilsner,Sour Ale,Galaxy,WLP001 - California Ale,Caramel,37 IBU,4.0%,12.6°Blg,8a7bf245-4d02-497d-9426-d95045a92090
+Carlsberg,Porter,Wheat Beer,Millennium,1388 - Belgian Strong Ale,Pilsner,29 IBU,9.2%,16.5°Blg,370f629d-bde9-4b0d-81bf-03d39b7aa00f
+Brewdog,Porter,Session IPA,Mosaic,1056 - American Ale,Chocolate,46 IBU,4.2%,13.9°Blg,60aed699-92fb-4558-a465-52b33b271f83
+Budweiser,Pilsner,Sour Ale,Cascade,1388 - Belgian Strong Ale,Caramel,32 IBU,6.0%,13.3°Blg,22c3a4be-010b-4201-b2c9-38b5730e7b92
+Heineken,Pale Ale,Sour Ale,Cascade,WLP001 - California Ale,Chocolate,50 IBU,7.3%,15.0°Blg,2e918cf3-1096-46bc-98b3-81ed9009e47e
+Heineken,Imperial Stout,Session IPA,Cascade,1388 - Belgian Strong Ale,Chocolate,40 IBU,6.4%,16.4°Blg,6cbcbff7-5f5a-49c9-ae14-824e3edd8356
+Budweiser,Pale Ale,Session IPA,Saaz,1056 - American Ale,Victory,43 IBU,4.2%,13.5°Blg,2deac742-3e4b-453c-985d-17a13b5927d5
+Carlsberg,Imperial Stout,Wheat Beer,Saaz,1388 - Belgian Strong Ale,Pilsner,20 IBU,7.3%,16.9°Blg,dd7f50c0-3a1e-44a8-beee-67fe6d9e7ee1
+Budweiser,Porter,Wheat Beer,Cascade,1388 - Belgian Strong Ale,Caramel,53 IBU,5.3%,11.4°Blg,eb138417-0e5b-4b50-b13f-1a4796a42839
+Budweiser,Porter,Strong Ale,Cascade,W34/70 - Lager,Pilsner,65 IBU,4.3%,14.3°Blg,28929484-47a3-4da4-bbe3-45bff8e48934
+Brewdog,Pale Ale,Strong Ale,Mosaic,1056 - American Ale,Chocolate,40 IBU,6.4%,17.5°Blg,23fe3aba-d2d6-4ee6-8247-6dc7f6366655
+Budweiser,Porter,Sour Ale,Mosaic,W34/70 - Lager,Munich,63 IBU,7.2%,12.8°Blg,420aca79-f3ab-4aae-9949-7e813a17e436
+Brewdog,Pale Ale,Sour Ale,Saaz,1056 - American Ale,Chocolate,36 IBU,7.1%,15.7°Blg,552bf07a-1c87-4741-97ce-fb1f3a9817e4
+Carlsberg,Lager,Belgian Dubbel,Galaxy,1388 - Belgian Strong Ale,Pilsner,32 IBU,7.0%,10.9°Blg,8faebdb2-92bf-46c6-becb-4b9cd5a3f014
+Guinness,Lager,Sour Ale,Mosaic,1056 - American Ale,Munich,61 IBU,5.1%,19.5°Blg,118d3683-ce10-4f5c-9789-6182b9bc9af7
+Brewdog,Porter,Belgian Dubbel,Millennium,W34/70 - Lager,Munich,66 IBU,9.8%,17.9°Blg,d6b3062b-7710-450d-91bb-5e9ad1729bff
+Heineken,Porter,Wheat Beer,Mosaic,1056 - American Ale,Chocolate,51 IBU,5.1%,12.6°Blg,cac78d65-1f64-4050-be5b-406bd3f52ae6
+Budweiser,Lager,Strong Ale,Mosaic,S04 - English Ale,Victory,60 IBU,6.0%,12.5°Blg,123b4c17-f374-47f6-8727-6c7e0cc64d13
+Brewdog,Porter,Sour Ale,Saaz,WLP001 - California Ale,Pilsner,20 IBU,5.8%,14.8°Blg,b2174361-9414-4d6c-8547-345f293adce1
+Budweiser,Pale Ale,Sour Ale,Millennium,W34/70 - Lager,Caramel,57 IBU,7.0%,18.3°Blg,87862ed2-41ff-416f-b1ad-b8434593594b
+Budweiser,Lager,Session IPA,Millennium,S04 - English Ale,Caramel,42 IBU,7.0%,15.7°Blg,0f9e3bb4-32d2-4acf-be57-40de486cbffb
+Budweiser,Lager,Wheat Beer,Cascade,1056 - American Ale,Pilsner,32 IBU,8.5%,12.4°Blg,6dc989de-8986-4a12-8f2d-cc76815fe0ae
+Carlsberg,Lager,Belgian Dubbel,Mosaic,1056 - American Ale,Victory,27 IBU,4.1%,10.4°Blg,80c52f1f-adf4-4e4f-8d3a-0b506347d4ff
+Budweiser,Porter,Sour Ale,Mosaic,1056 - American Ale,Caramel,63 IBU,6.1%,18.7°Blg,382d39f5-a06d-41dd-8ad3-597b635e8003
+Budweiser,Pilsner,Wheat Beer,Galaxy,WLP001 - California Ale,Caramel,23 IBU,7.4%,13.2°Blg,918ceef0-fc18-437e-9ed3-383868d70a78
+Brewdog,Pilsner,Session IPA,Millennium,W34/70 - Lager,Munich,49 IBU,4.1%,12.9°Blg,20d49bf1-f1cf-4a3b-acf1-f118d2dc621a
+Guinness,Imperial Stout,Session IPA,Mosaic,WLP001 - California Ale,Munich,31 IBU,5.3%,13.2°Blg,e039023c-bb0a-4667-9c20-0d311c55dcf2
+Heineken,Porter,Strong Ale,Cascade,W34/70 - Lager,Chocolate,34 IBU,8.4%,12.5°Blg,6e709265-61be-48c8-8865-65f1a0bc98e4
+Budweiser,Pale Ale,Belgian Dubbel,Saaz,WLP001 - California Ale,Pilsner,62 IBU,9.5%,16.4°Blg,e73142f4-3906-464b-a64b-119cbe42a779
+Brewdog,Pilsner,Sour Ale,Millennium,W34/70 - Lager,Chocolate,42 IBU,4.1%,17.3°Blg,afae0514-9b98-4ede-a049-a129d6ab5eec
+Guinness,Imperial Stout,Strong Ale,Mosaic,S04 - English Ale,Victory,67 IBU,4.3%,10.8°Blg,3836650b-9d84-4e8e-aba0-b80b51d06553
+Heineken,Pilsner,Sour Ale,Mosaic,S04 - English Ale,Pilsner,64 IBU,5.8%,10.2°Blg,ef17db95-619c-49a9-9657-1a51a3581e5d
+Heineken,Imperial Stout,Wheat Beer,Galaxy,1056 - American Ale,Caramel,26 IBU,7.1%,14.6°Blg,63f114ca-2c7d-4cae-9c95-c14263b9a5e2
+Guinness,Pale Ale,Belgian Dubbel,Millennium,WLP001 - California Ale,Pilsner,44 IBU,7.8%,18.1°Blg,05899654-638f-49e6-a9f7-2b3c4827eb73
+Guinness,Pilsner,Strong Ale,Cascade,1388 - Belgian Strong Ale,Chocolate,43 IBU,9.1%,17.9°Blg,277d905e-3e5f-49ef-9ade-f73426c335eb
+Guinness,Porter,Belgian Dubbel,Mosaic,1388 - Belgian Strong Ale,Caramel,61 IBU,4.5%,17.3°Blg,24e4edc4-ae4f-4a83-870e-79ebf3cfc4c4
+Guinness,Pilsner,Sour Ale,Saaz,S04 - English Ale,Chocolate,67 IBU,6.3%,10.4°Blg,fb31505c-dfa5-4af1-8f92-773edf1ae8cb

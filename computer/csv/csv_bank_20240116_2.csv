@@ -1,0 +1,101 @@
+id,uid,platform,type,os,stack,user_id,dt_current_timestamp
+4218,6b51e626-011f-4087-a5f5-7373d646a927,Linux,workstation,RHEL 7.7,"RHEL, Linux",6808a3b8-2230-4027-97d3-e2eb67a2d3e2,2024-01-17 16:57:33
+4094,9fed9c2d-1131-4ce2-92c8-b55db0e42939,Windows,server,High Sierra (10.13),"RHEL, Linux",a94c130f-fc56-4f58-ac71-c7ef4b0a446a,2024-01-17 16:57:33
+8521,a48c4853-1104-448b-b5eb-82d6af67de5c,Linux,workstation,Ubuntu Desktop 18.04,"RHEL, Linux",24cf2eea-b334-40f8-bd56-d5da6b6cf291,2024-01-17 16:57:33
+2308,27c010ab-2597-4966-b310-0267f9c5fb40,Linux,workstation,Windows 10,"Linux, macOS",5db08085-3b32-4ad8-b5bf-de23d33db48a,2024-01-17 16:57:33
+5876,d97ee722-4df8-40ec-ac93-59e68f40cb22,macOS,server,CentOS 8,"Windows, RHEL",6aae6fbf-1a35-428f-9d72-ed1f2378fcf5,2024-01-17 16:57:33
+2982,a9025e01-a06d-4d17-8a03-547a25973bbc,Linux,server,RHEL 7.7,"Linux, Ubuntu",d4daf90e-92ec-411e-a8fd-cc67847b4c8b,2024-01-17 16:57:33
+6152,f29a51b6-9d05-4617-94d6-62e665f48df8,Windows,server,Windows 10,"Ubuntu, RHEL",1de5f09a-10c6-4bc1-a7fd-3f5fd4628e60,2024-01-17 16:57:33
+6552,2485278e-1fa0-499c-84f1-241bb6326e26,Linux,workstation,Windows 10,"RHEL, macOS",83110bd1-8c45-4d58-a7a9-71c74a4bfdec,2024-01-17 16:57:33
+2237,de87e4af-c033-4b69-9bda-493769044d96,macOS,server,Ubuntu Desktop 18.04,"macOS, Windows",51266c9c-c77f-4afd-af22-4d3a14b7fa3f,2024-01-17 16:57:33
+8347,89d4fa29-6943-4479-9027-7f9cf3102c95,Linux,server,CentOS 8,"Windows, RHEL",ae22a074-813a-4a50-b3da-cb6f880c82a9,2024-01-17 16:57:33
+3484,9e65f97d-e888-4f23-8ee3-88358737f89d,Linux,server,RHEL 7.7,"macOS, RHEL",052acbd1-43f7-4d59-8213-f91fafc0bf98,2024-01-17 16:57:33
+1913,b7183071-8e96-4808-8b9a-6edfa87acf7f,Windows,workstation,Ubuntu Desktop 18.04,"RHEL, Ubuntu",c4c04ad5-18c7-4095-853e-0875496ee797,2024-01-17 16:57:33
+6809,d5c5ce82-e9b9-4148-bdd7-7f82bff82d99,Windows,server,Windows 10,"RHEL, Linux",9d460064-ec5a-4881-a01b-ea4b2dd36bbf,2024-01-17 16:57:33
+8779,a16944e7-b1c6-4c9d-8a20-ae96efaf6f3b,Linux,workstation,CentOS 8,"RHEL, Linux",ffbc1596-f012-4146-9161-0e26b261e429,2024-01-17 16:57:33
+3458,79269910-eac6-4372-ab2a-7affbdcf5428,Windows,workstation,High Sierra (10.13),"RHEL, macOS",12012cfa-1418-443c-ba71-a2685df8f16d,2024-01-17 16:57:33
+2014,89907aa8-f3ec-41e1-ab99-f18cf7a5649c,macOS,workstation,High Sierra (10.13),"macOS, Ubuntu",a4028cf7-f3fb-44f4-b4cb-eb3832b3a2fa,2024-01-17 16:57:33
+8609,243c44a6-8f60-4df0-bdde-7211548ba506,macOS,server,CentOS 8,"Windows, Ubuntu",506020a3-79fd-444a-9c36-f6f9e9c41406,2024-01-17 16:57:33
+6656,4d4f6a71-8b47-4eb4-bd72-add42e4d7fdb,Windows,workstation,High Sierra (10.13),"Windows, macOS",ba18e60c-ad21-4a5b-9d12-ddbe1301cc4f,2024-01-17 16:57:33
+4697,126b5650-6f6e-464d-9139-c64249989127,Windows,server,CentOS 8,"RHEL, Linux",46d228b2-a4f7-4d2b-954e-a34eda44265f,2024-01-17 16:57:33
+1428,e5eb3458-59ea-44ad-b985-e8b3fff6fe49,Linux,server,Windows 10,"Linux, macOS",b51214d0-e547-4fee-8d14-9edc6ad2f307,2024-01-17 16:57:33
+4988,1831f674-b5b3-4283-8398-ab362db174f3,Linux,server,CentOS 8,"Linux, Ubuntu",d50468f0-b34d-4c9f-8967-b3c955d69f4d,2024-01-17 16:57:33
+4070,4349274e-654b-4e50-92ba-32e5875cc102,macOS,workstation,Windows 10,"Linux, Ubuntu",ca5e9370-6fe5-4814-afea-9bdcc5e0f9c1,2024-01-17 16:57:33
+4462,7fecf5ac-6a1c-4522-b46b-b8b09582f3e2,macOS,server,Ubuntu Desktop 18.04,"macOS, RHEL",45f283fc-589c-41a6-9e7a-493a6ce70ab9,2024-01-17 16:57:33
+6619,cf89f65b-b3ae-4e52-a76d-370c5a58bb70,Windows,server,High Sierra (10.13),"macOS, Linux",835d9f2d-70ee-4636-8193-ac1567ccf3d6,2024-01-17 16:57:33
+2308,2a240e72-4718-4449-b591-1daf63efbda6,Windows,server,Ubuntu Desktop 18.04,"macOS, Windows",ce60ae86-6ba3-454e-8ee4-769c7b51b8f6,2024-01-17 16:57:33
+9384,d7135543-b097-4e9c-92cd-15c5f0b8193b,macOS,server,Ubuntu Desktop 18.04,"RHEL, Linux",7590b474-617c-4de5-8340-c8d1ba524ead,2024-01-17 16:57:33
+7402,5273f736-bb65-4c2a-9793-1006510df83f,macOS,server,High Sierra (10.13),"Windows, Linux",912510c3-b8d7-4ab3-8c47-1a27849c56a9,2024-01-17 16:57:33
+3807,a84e8e47-564d-43cb-91fc-79abb4beb369,macOS,workstation,CentOS 8,"Windows, Linux",cdb02f64-618c-4476-9312-ebba41c1af73,2024-01-17 16:57:33
+8697,02073bca-3769-40ac-bea6-51e949edf19e,macOS,server,Windows 10,"Windows, RHEL",82181457-bcfb-497e-b488-b389e03e0e7c,2024-01-17 16:57:33
+2131,a6b77e07-30bc-4a51-ad19-d04d748e8b55,Linux,server,CentOS 8,"Linux, macOS",295245a7-995c-4d42-b999-73d8971430fd,2024-01-17 16:57:33
+9357,1f8a278b-a6e9-42a1-977b-08b0121cae8f,macOS,workstation,RHEL 7.7,"RHEL, Linux",b15abf57-30b6-4ee1-810d-80da94102743,2024-01-17 16:57:33
+7429,3e4e9cad-3573-4df3-8bc2-7ee1327d2de2,Linux,server,CentOS 8,"macOS, Windows",c26209a7-2fdc-451a-be7f-93e9f16c3ff6,2024-01-17 16:57:33
+8211,138a003f-bbe1-4c60-9a5a-9a2ef0399929,macOS,server,RHEL 7.7,"Windows, macOS",016994b9-81b3-43bb-89c2-ad7b7ca618fb,2024-01-17 16:57:33
+6157,fc982afb-8a5b-45ca-b795-701eabd6a8b6,macOS,server,High Sierra (10.13),"RHEL, macOS",fdeb734d-1d9f-4e6a-8b40-be31107058cc,2024-01-17 16:57:33
+4652,3b1a32c9-8982-4dee-af95-f0d9a1cfc84e,macOS,server,RHEL 7.7,"macOS, Linux",0923af98-d7fe-4c1f-a709-0277141ca13a,2024-01-17 16:57:33
+8465,6636848a-8eac-4f56-90a2-85f4bd60bab4,Linux,server,High Sierra (10.13),"Windows, RHEL",15f26fb1-7eb6-4e65-abac-237c7c3ad0ac,2024-01-17 16:57:33
+8596,9be0f021-88cd-492a-b032-90ae0e0fee8e,Linux,server,High Sierra (10.13),"Linux, Windows",758a6310-8614-4f59-9840-1f6af29f1370,2024-01-17 16:57:33
+3865,8d03efd3-52c7-411e-b710-2e44b05da474,Linux,workstation,High Sierra (10.13),"Linux, Windows",749ccb51-c9d5-4ac3-9f54-f48aad27e001,2024-01-17 16:57:33
+4125,f53349c5-d340-41c8-9b05-8daeac4e3395,Windows,server,CentOS 8,"RHEL, Ubuntu",c3129008-781d-473a-ac4f-8e47a0187998,2024-01-17 16:57:33
+9415,4fc64285-5ef5-4ce5-a80d-8c092e8a76c4,Windows,server,Ubuntu Desktop 18.04,"Linux, Ubuntu",71df473c-4fb2-4df8-9c8e-1842ed7920ef,2024-01-17 16:57:33
+9638,013e5ca0-c898-433e-98ba-fa24b7f48a9a,macOS,server,RHEL 7.7,"Linux, RHEL",9e567f96-c066-47e6-b433-30b5e305e000,2024-01-17 16:57:33
+8212,d1c9d2d1-9124-47f3-b43c-78b4332621b0,Windows,server,High Sierra (10.13),"Linux, macOS",6714133d-2bb6-4765-8db5-d4b8a4f091b7,2024-01-17 16:57:33
+6465,ab6ee9c2-6fcb-4b3f-8f2f-ceabd61e2984,macOS,workstation,Ubuntu Desktop 18.04,"Windows, Linux",81315103-c5af-4e06-be4c-3b3383dade3e,2024-01-17 16:57:33
+5262,ec76cde0-471f-41e0-9a60-d6f24b8d445b,macOS,workstation,CentOS 8,"Ubuntu, macOS",4c0c21d0-7127-4223-98d3-9880b7731f80,2024-01-17 16:57:33
+6715,f2f2c206-0261-4e0d-9d16-1459ec65ef5d,macOS,server,Windows 10,"macOS, Linux",9966fa29-71c3-4e3a-87f2-1d31c63c6ba2,2024-01-17 16:57:33
+1512,a5536e64-cc6d-4cf5-b3f7-20ce4370d39b,Linux,workstation,Windows 10,"Ubuntu, Windows",0205c23e-4fac-4d32-a21c-38899666028c,2024-01-17 16:57:33
+4052,1c17cc07-588c-43bd-847b-aeb8b065b153,Linux,workstation,Windows 10,"Ubuntu, Linux",65a72509-c9f4-466e-bee6-abb194f9bf41,2024-01-17 16:57:33
+7206,a7d9dc24-92d9-4a7d-9ca6-a670eb544bb8,macOS,server,Ubuntu Desktop 18.04,"Windows, macOS",0db4e14a-1a61-47ba-9df7-05a0a1ea719a,2024-01-17 16:57:33
+3722,fa0cf271-9566-453d-b103-05f1745b53e3,Windows,server,Windows 10,"Ubuntu, RHEL",40071839-649d-4b22-b5d9-a84d02251bbc,2024-01-17 16:57:33
+7307,aee1d142-28f8-4a18-bb29-b796d4f87ab7,macOS,server,Windows 10,"RHEL, Ubuntu",78c5276f-b723-43ee-9d44-1761797e7db8,2024-01-17 16:57:33
+4311,c1822a0b-76e2-41ed-aadb-399209c2906a,macOS,server,Windows 10,"RHEL, Ubuntu",0fc4aae2-1ea9-4820-8445-da1208e79f5c,2024-01-17 16:57:33
+6425,cfea2ca7-ffaa-4f0f-950e-4f16b6ece286,Linux,server,High Sierra (10.13),"macOS, Linux",0c9549c3-22f4-409c-a05f-da17a50e59e6,2024-01-17 16:57:33
+3753,67bda50b-d60f-4b13-ae18-0f09db00f5ed,Linux,workstation,CentOS 8,"RHEL, macOS",bc757163-4d07-4fe0-b8ba-de2bbac81d6c,2024-01-17 16:57:33
+1375,f1df1bb2-a784-45bf-a190-bf1bc8b92bf8,macOS,workstation,RHEL 7.7,"Linux, Ubuntu",f12dd834-74ac-4518-b14e-0936fbdd9b34,2024-01-17 16:57:33
+1859,19d54fc8-bfe7-4c97-aa7c-02b3c3f75b8d,Linux,server,Ubuntu Desktop 18.04,"Ubuntu, RHEL",f4e640d8-8cf4-499d-bd2d-3e0bcd5221be,2024-01-17 16:57:33
+7231,ef06d4a8-4006-4cbb-84bc-791c004f8844,Linux,server,Ubuntu Desktop 18.04,"Windows, Ubuntu",f6ad3044-8c62-482a-a58c-3a165a9370e3,2024-01-17 16:57:33
+8270,27506285-8a8a-4efc-93d9-461d06fb611a,Windows,server,CentOS 8,"RHEL, Linux",490b6bfb-84cf-4995-9a2a-861f19ddac21,2024-01-17 16:57:33
+4033,2b442b2b-5386-4f2f-a14d-c5f962c1323c,Linux,workstation,Ubuntu Desktop 18.04,"Linux, Ubuntu",2f727d96-92a5-4650-84a0-9ae566c51313,2024-01-17 16:57:33
+5468,d1e8f746-6df9-4e37-85bc-73b62bbb02b2,macOS,server,CentOS 8,"Windows, macOS",d8d7ec34-548e-4a39-bf85-3bd329592e70,2024-01-17 16:57:33
+4190,e61bc36e-f3b8-4837-8ede-31ebed07d74a,Linux,workstation,CentOS 8,"Windows, macOS",b646d32b-2179-4c95-a15d-10af31296143,2024-01-17 16:57:33
+7834,e2deb596-dcf4-4648-83dd-058d0267cfaa,macOS,workstation,RHEL 7.7,"RHEL, Linux",da5ef7c1-5c6f-4de3-869b-733dd2ae6b40,2024-01-17 16:57:33
+9192,647594be-d966-4b2a-b1e3-39db05e749b4,macOS,workstation,Windows 10,"Ubuntu, Windows",a2326068-abed-4b99-b094-e157f9784528,2024-01-17 16:57:33
+1878,df9c37f7-3c23-4c95-b789-0d562e4e5fdb,Linux,workstation,High Sierra (10.13),"Windows, Ubuntu",ffcc2927-fe12-4ee9-af98-b5824ff74abc,2024-01-17 16:57:33
+1956,99317134-ddbf-4958-9391-f902b0d0ee6d,Linux,workstation,High Sierra (10.13),"Ubuntu, RHEL",643f6cb3-80db-4a6e-a986-7937e71bacf3,2024-01-17 16:57:33
+7189,0ba8d5d9-8dc6-4455-8d6a-4e16b6ea3e60,Windows,workstation,CentOS 8,"Windows, macOS",f30451be-fdde-448c-afc4-324a68325073,2024-01-17 16:57:33
+1237,ce65b17d-8236-4a8e-a120-ddc7e4385814,macOS,workstation,High Sierra (10.13),"macOS, Linux",124b6452-24e0-46de-81c6-b3b8be0ecc10,2024-01-17 16:57:33
+7655,5f9f8598-6e37-497d-8fdc-8638c1740a40,macOS,workstation,Windows 10,"Ubuntu, Windows",db112527-42d4-4f3f-b742-58a1b95659a1,2024-01-17 16:57:33
+1605,d2864c95-94f9-4541-8717-573e47da0d2e,Linux,workstation,Ubuntu Desktop 18.04,"macOS, Windows",b0bb31fb-9f6b-4ecb-a619-305a3ebb9740,2024-01-17 16:57:33
+4850,12eb2717-1369-4491-9bf8-af5f35110dc3,macOS,workstation,Windows 10,"Ubuntu, macOS",3164f199-08ad-4f88-a64c-f5660ff52cc9,2024-01-17 16:57:33
+9968,9ec19e20-78d9-48df-be73-ffbccdd216df,Windows,workstation,RHEL 7.7,"Windows, RHEL",e494f3a1-3d8c-4e9c-a935-92322f2f701b,2024-01-17 16:57:33
+8484,8354efd8-8b7f-49d6-8fe8-799b75bee618,Windows,server,Windows 10,"Linux, Ubuntu",25a19485-8cd6-4a5a-9a86-a883d17c5a7d,2024-01-17 16:57:33
+7513,cfec0175-5248-4184-bb71-c5dc7262dab5,Linux,workstation,RHEL 7.7,"macOS, Ubuntu",d109c1c2-15a1-4429-a833-97547e725e3c,2024-01-17 16:57:33
+7257,aaa5c296-055f-4d1b-8c2c-228d34ea6aef,Windows,workstation,CentOS 8,"Windows, Linux",589a5336-e401-4b95-ae4b-dc48f8003284,2024-01-17 16:57:33
+7679,73dd8ee7-08a0-44b4-8911-2ffb5b9c45e4,Linux,server,Ubuntu Desktop 18.04,"macOS, Ubuntu",59e0c81a-f19b-40ce-a7b9-4b1eca38a622,2024-01-17 16:57:33
+7760,56a73093-8749-4e76-9a83-e2ebc60cb9ba,Windows,workstation,Ubuntu Desktop 18.04,"RHEL, Windows",1baf9859-87ea-4f52-9f29-d4da117c3ab6,2024-01-17 16:57:33
+9684,1251c63f-0166-4142-93c7-72e9801d6110,macOS,server,High Sierra (10.13),"RHEL, Ubuntu",62bd6333-219e-471a-a43a-ed770713e6e8,2024-01-17 16:57:33
+1062,3a99a65b-4f43-4ac0-bcfb-2f574bb8939d,Linux,workstation,Ubuntu Desktop 18.04,"RHEL, macOS",f84dc086-79c4-447f-893e-9b4d2d3ba031,2024-01-17 16:57:33
+8974,9df52037-2807-4213-9c77-21785fec5083,Linux,server,Ubuntu Desktop 18.04,"Windows, Ubuntu",3ac4508d-f00a-431a-a548-dde089a06c1f,2024-01-17 16:57:33
+8754,516b0d78-d3a7-48fc-8ca3-98a3c5a4265b,Linux,server,CentOS 8,"Windows, Ubuntu",9bb2b53c-6e07-466c-9202-2842e1999ad9,2024-01-17 16:57:33
+5218,4122f648-9332-4ca3-859d-d601ff0e5c2d,Windows,server,High Sierra (10.13),"Linux, Windows",98f2fabc-f989-4bd1-af68-8456e04645ee,2024-01-17 16:57:33
+4169,5c3245ac-9181-4295-b437-d1811c78a10f,Windows,workstation,CentOS 8,"Windows, RHEL",2af54acc-4cb4-47bc-9ee2-4070d95288ea,2024-01-17 16:57:33
+3382,f67f664b-5f81-4271-b546-c47c3a8208df,macOS,server,CentOS 8,"RHEL, Windows",eb42f705-f065-403e-9318-9964ffd0021e,2024-01-17 16:57:33
+4070,2bf2158a-5609-440b-8cf2-2cd2c37283f0,Linux,workstation,RHEL 7.7,"macOS, Ubuntu",1a1caa0f-05ef-42e2-85e1-eafa52943e62,2024-01-17 16:57:33
+7838,58b54e9a-2ac8-42bb-9206-3f932ea5cfdd,Linux,server,RHEL 7.7,"Windows, RHEL",bee9ed1f-5f76-4978-9d63-862b95fa3b59,2024-01-17 16:57:33
+1153,c3f1e61d-0e5a-423b-8fc3-ff564dd1948b,macOS,workstation,CentOS 8,"Linux, Ubuntu",2d87a057-1c60-43ac-83ee-922f9dadb526,2024-01-17 16:57:33
+3700,5490905d-cdcf-427c-aad1-66e5bcb27003,macOS,workstation,High Sierra (10.13),"Windows, Linux",c018a098-f916-41aa-aaa8-46145c9b969b,2024-01-17 16:57:33
+7340,94cd37ea-8374-4133-a5c9-71b2d8c39c15,macOS,server,Windows 10,"Ubuntu, Linux",5297fd80-457d-4287-b0ca-a2e319e0e36a,2024-01-17 16:57:33
+8669,bf17d32d-abff-4ba4-b87a-985567c681bd,Windows,workstation,Windows 10,"RHEL, Linux",265cfb47-fac9-454f-853c-b931fe336b17,2024-01-17 16:57:33
+8008,7b1b8f3c-b9e1-4cda-8ee8-d248bb6cf10f,Linux,workstation,Ubuntu Desktop 18.04,"RHEL, macOS",47fcf337-c1a4-4fdd-8931-92b05329cc7f,2024-01-17 16:57:33
+9616,777f98c7-91d1-4923-8b68-00f7476a495f,Linux,server,Ubuntu Desktop 18.04,"macOS, Ubuntu",186597e5-119c-4e99-9173-6b6781a2d864,2024-01-17 16:57:33
+3081,9b485b32-0dc9-4800-8bbc-25b26ae40fdc,macOS,server,Ubuntu Desktop 18.04,"Ubuntu, Windows",86d35c05-2901-4bca-a5ad-9c6658db9be0,2024-01-17 16:57:33
+7837,1c72fe1c-0fd8-4a42-85ae-ff8103bb172d,Windows,workstation,Ubuntu Desktop 18.04,"Ubuntu, macOS",5473fcd7-03d6-4d3d-86e3-babddea68183,2024-01-17 16:57:33
+1678,4c0064d3-d6d9-4164-b792-a78affb6e776,macOS,server,CentOS 8,"Linux, macOS",d0f6cbf3-2829-43f7-a212-6479c44cc3fe,2024-01-17 16:57:33
+8903,6fc72494-0d2e-4c40-ae3f-287ebd509195,Windows,workstation,CentOS 8,"macOS, Windows",89cde4a9-db65-46e1-a91a-640b4e166b65,2024-01-17 16:57:33
+9491,4d98e8ff-8dbe-4268-8cf1-8d179834c5b8,Linux,server,CentOS 8,"Linux, Windows",710a1182-6028-45f3-956a-a7a83d3dde98,2024-01-17 16:57:33
+3346,c1b285c5-d555-4f98-a64c-e40054639a88,Windows,workstation,Windows 10,"Windows, macOS",a10c5c14-daee-4a7f-9410-9aec06a7c2dc,2024-01-17 16:57:33
+5473,8235ae53-42f2-4980-aa43-341d2dbb77c1,Linux,server,CentOS 8,"Linux, Windows",675ebb8d-2d88-4c4a-9513-75317300edce,2024-01-17 16:57:33
+2491,50232947-1a34-4ab8-995b-58c993bc7d6f,Windows,server,CentOS 8,"RHEL, macOS",806b01bd-3742-489a-a371-17c4db386e5d,2024-01-17 16:57:33
+3636,a747d4ee-f9d3-4400-9a9d-b1989b2018c6,macOS,server,CentOS 8,"Windows, Ubuntu",1364378e-9e97-4db0-8f8c-830bee169e0d,2024-01-17 16:57:33
+1015,af5cd141-ff97-4b2e-908c-6d644f95631d,Linux,server,RHEL 7.7,"Linux, Windows",c2da8fc6-7caa-4af7-8e9b-8736ac9728bc,2024-01-17 16:57:33

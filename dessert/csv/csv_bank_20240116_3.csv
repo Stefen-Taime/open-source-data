@@ -1,0 +1,101 @@
+id,uid,variety,topping,flavor,user_id,dt_current_timestamp
+1448,a54e4ae1-8661-42e3-80d8-6cd942140f29,Doughnut,Mocha Drizzle,Espresso,add679de-f3e7-4c40-ba6f-d22df3321d57,2024-01-17 17:03:45
+8499,58d79b5f-6baf-4751-bb39-66a1a32fae9d,Pudding,Glaze,Cherry,1800609c-23cf-4d9f-8bf4-c7c680b35705,2024-01-17 17:03:45
+1537,efce4887-f0f6-4c91-9789-e623a0178d0c,Cookie,Chocolate Chips,Espresso,3f5ac875-17e3-4cdc-aa31-ff75a720e8b6,2024-01-17 17:03:45
+7578,da3f7e64-ea13-4a43-a90c-9ea85d95eff0,Cake,Chocolate Chips,Chocolate,d630d856-0c09-4751-b40f-7f40badd9877,2024-01-17 17:03:45
+4013,bee01534-0965-499d-af9c-056622f218fa,Cake,Toffee Bits,Cookies 'n Cream,c976dd89-42d8-4628-8366-c82833865487,2024-01-17 17:03:45
+5721,ccf988a8-a76b-4cc4-b0d3-3cdbe87bee94,Cookie,Chocolate Chips,Cookies 'n Cream,9ea49d18-9774-4f11-ad9e-0f71bed900c2,2024-01-17 17:03:45
+5867,f4e6a686-d8ac-4d1b-ab12-1d44cbceb2c1,Pie,Granola,Cookies 'n Cream,5586bb21-a407-4f19-99f2-b605b8927e91,2024-01-17 17:03:45
+5735,fa382585-de4f-4d2f-9659-aa6c8427a03a,Pie,Granola,Cookies 'n Cream,5a65e9c8-b7aa-4971-8ad5-ad8232796064,2024-01-17 17:03:45
+9442,4491d8e8-b13f-4f12-abb3-43e6db26f619,Cake,Berry Compote,Peanut Butter,7b4d9344-ad9c-4ff4-badc-0d223f9e2a4d,2024-01-17 17:03:45
+1956,84cc3630-2ece-4de3-9f8b-17774c77a2c9,Cheesecake,Glaze,Espresso,5798a88a-9121-4536-baa8-1034427911d4,2024-01-17 17:03:45
+7468,3fa92cc0-b674-473b-87af-88ae751a0df8,Pie,Granola,Butter Pecan,46108fd0-2db4-4d6a-a9aa-c3923a9aec88,2024-01-17 17:03:45
+7267,7aa84cff-5b61-41f9-bb7d-670f5917a95b,Doughnut,Walnuts,Chocolate,85c567d6-e450-4a9b-97df-44629d623c82,2024-01-17 17:03:45
+5778,aacb03ef-0081-4f91-abf9-3d20c4e1d3e5,Cake,Walnuts,Chocolate,e4e7c165-0760-4949-99df-278049d967a6,2024-01-17 17:03:45
+1214,b9379331-41c2-4e54-a8d6-47b90fc79d94,Doughnut,Glaze,Butter Pecan,9b843709-219d-4928-9ddf-54bced92dd13,2024-01-17 17:03:45
+4498,9cc5bf47-c9ff-4c6c-bd9a-6823082b22aa,Pudding,Chocolate Chips,Espresso,f60af6de-6a1b-4968-a195-bc22d82aaa64,2024-01-17 17:03:45
+6238,170cd5bc-6f0a-479c-8f9a-7fab523f9146,Cookie,Granola,Cherry,e61a653f-9418-4bba-93fa-90a0e66860df,2024-01-17 17:03:45
+2156,792f3ba0-5924-4ccc-a6c2-35933c8874f2,Pie,Mocha Drizzle,Peanut Butter,0b17c183-a696-4243-94a9-6966ec7a7cf1,2024-01-17 17:03:45
+5761,1612a2a2-4a46-4872-85d7-a3a08a583855,Cheesecake,Granola,Chocolate,b33913f2-cbe9-4132-8a02-c4f5d4ee643d,2024-01-17 17:03:45
+4083,27364e8b-addc-48e7-9ced-caa64ccfd67d,Pudding,Granola,Peanut Butter,77d3d2ab-58ee-4964-b232-6bdc472bdc6e,2024-01-17 17:03:45
+9458,0a9175fe-5172-42b4-9973-f9693be73299,Pudding,Mocha Drizzle,Espresso,cc2c1ce6-898b-45e5-a778-07d58e619a67,2024-01-17 17:03:45
+4247,cc654d8a-a5c4-473e-ad10-f3315163cfc1,Cheesecake,Walnuts,Chocolate,95a32c11-aea4-4b18-b42c-e3e83fd1bb7e,2024-01-17 17:03:45
+2142,bca424e0-c5f5-4052-b023-a24344112017,Pie,Toffee Bits,Espresso,06d06416-ec8c-4d6d-addd-7247eb000ec1,2024-01-17 17:03:45
+8019,1ec332bf-8520-4c40-ac81-276d3eb9a85e,Cake,Glaze,Cookies 'n Cream,4b809d6d-7e9b-4382-aecd-c2c5134c955d,2024-01-17 17:03:45
+9843,2f3c57f8-3284-4efc-a643-c2e52eea9f07,Pie,Walnuts,Peanut Butter,1dc6149a-d366-4b25-99aa-7000cb185432,2024-01-17 17:03:45
+2313,75d9b5da-559d-4a3c-acd7-563ab4bf4ac9,Cheesecake,Walnuts,Peanut Butter,fad3a13f-fbc6-40ac-8146-c0b1acb4ee1c,2024-01-17 17:03:45
+3360,b64d2ed2-a8b5-4f89-8ff9-1c373c2314bc,Pudding,Walnuts,Chocolate,f7a9c783-6e7c-42a6-91b4-123acb4fb8cb,2024-01-17 17:03:45
+8863,36e3db46-e1e9-4f97-8810-daa3ac439fb4,Cheesecake,Toffee Bits,Chocolate,944d7a59-625a-4ff3-837d-9386d77401de,2024-01-17 17:03:45
+8468,3d332772-5a1c-4fae-aa17-a3fddcbb4cda,Cake,Glaze,Chocolate,50f6338f-a125-4eaf-8251-5edbd966e385,2024-01-17 17:03:45
+4129,32522d8f-d4f6-41d5-9443-69687933eda6,Cheesecake,Mocha Drizzle,Cherry,ed2dadda-09ce-4e94-9107-f99e1ed8c9a6,2024-01-17 17:03:45
+8895,f3a2ec09-6cd4-4056-961c-ac1ed2f4b7f1,Cookie,Toffee Bits,Chocolate,d9202a07-30c6-4b45-b45d-8cceefb766ee,2024-01-17 17:03:45
+9224,c03f650f-2921-4d6b-a520-fcc1af8fc1c3,Cheesecake,Chocolate Chips,Espresso,2442dec7-3a87-4d94-aa23-ab44c76b4d5f,2024-01-17 17:03:45
+3323,b629f381-4288-4dae-99d2-e28ce818287a,Cheesecake,Chocolate Chips,Cookies 'n Cream,ce615021-431d-4a20-aeaf-d8e37330dd25,2024-01-17 17:03:45
+3174,2699e547-bb47-453c-b779-3bb8c65f02d5,Cake,Mocha Drizzle,Butter Pecan,2a7de911-4ae0-4dbc-927c-fc5523a2eb01,2024-01-17 17:03:45
+2287,dd27fcde-7b18-4c2f-8f4a-a0cdfd7a26a9,Cheesecake,Toffee Bits,Peanut Butter,a9bffb59-1fd0-491d-baf2-89dcf68f15d5,2024-01-17 17:03:45
+7116,4d9256e1-9782-4bfc-966b-126550c0eb8c,Doughnut,Walnuts,Cherry,59419a33-0f7e-4ff5-abe7-53284898c612,2024-01-17 17:03:45
+1251,685fecc8-8c5b-42f8-b51b-b1fc6cc7a9eb,Doughnut,Berry Compote,Butter Pecan,4c32e9e1-a951-4bbb-9a47-81c15d4b4097,2024-01-17 17:03:45
+4693,9da4b0b8-7690-43a5-a5d6-d975ca1008a1,Doughnut,Glaze,Cherry,7922e6ad-46c0-45da-90b3-4a8cd0852530,2024-01-17 17:03:45
+4142,78dbc0ae-1984-4b9b-bdd4-10437fba88b4,Cookie,Granola,Espresso,3ae1c98e-64c0-4fc3-996a-0e58439af6fa,2024-01-17 17:03:45
+6231,56734c8b-3743-4c29-9106-476bc2d003c8,Cookie,Berry Compote,Butter Pecan,6a780881-dfc3-4415-86c9-59213928e572,2024-01-17 17:03:45
+4602,79822b93-2a5c-45ed-a173-bf8d4ad51cbf,Doughnut,Glaze,Chocolate,40869200-b277-4cdb-aa65-1847690673a1,2024-01-17 17:03:45
+5651,a1af6619-889b-4c4b-b3a5-6f59a01c8643,Cookie,Granola,Espresso,cfce04f8-575d-484d-909a-c3bb896c7d3e,2024-01-17 17:03:45
+8776,c9555113-976c-43e6-9663-337e46503072,Cake,Chocolate Chips,Butter Pecan,f8161cd7-09bc-4a67-8a60-7f3ca5e3a873,2024-01-17 17:03:45
+8766,f93b8c53-04c3-4a66-a1df-fdc6a33a3a39,Cake,Walnuts,Peanut Butter,8b544838-169e-4dce-a186-a5f837390bc4,2024-01-17 17:03:45
+1015,10feb076-170b-42da-9a09-da579578da64,Cake,Chocolate Chips,Cookies 'n Cream,6f286029-f95f-45a5-ae77-6f74fea34c65,2024-01-17 17:03:45
+3103,ef7bcc72-cef1-449c-80e4-c9632c5a3aa5,Cookie,Berry Compote,Cookies 'n Cream,f41b947d-7d9e-4277-b76f-0ff107e1c68f,2024-01-17 17:03:45
+7479,490f66ab-45d0-4a38-be9c-c84d19a5fa73,Doughnut,Toffee Bits,Espresso,fd733daf-21b0-4109-b609-28870a53fff5,2024-01-17 17:03:45
+9465,9ac65e8c-10c3-45c6-97c5-fe9a947ce4de,Doughnut,Granola,Butter Pecan,9704d1a5-b350-430e-a742-9a12eeb4e9b7,2024-01-17 17:03:45
+8089,49ead0b2-1624-4e79-99d2-316a961d5769,Cookie,Walnuts,Chocolate,24eeea71-316e-4492-bc39-9a2a5b9c0011,2024-01-17 17:03:45
+5957,ce1c4ca5-3c8e-425f-8cf2-b4fe427782d2,Doughnut,Glaze,Cherry,8b9e6a5a-d904-4f5f-bfe5-78ddb793653a,2024-01-17 17:03:45
+8951,924e2899-3a51-43d0-af4f-e431542f6233,Cheesecake,Toffee Bits,Cherry,5981e045-a62b-4df9-8c92-2baac45a9fc5,2024-01-17 17:03:45
+7778,84034069-0619-4049-8b4c-8baf7c6e4909,Pie,Glaze,Cherry,124a2070-33d7-47c7-bcbe-2d0b3a6c5611,2024-01-17 17:03:45
+4118,ddb9e192-5647-431e-9bab-7e1f0b1af7a6,Pudding,Toffee Bits,Chocolate,ebfb555c-c899-423d-98e0-cd5543937377,2024-01-17 17:03:45
+2252,64e8915d-7972-4d4e-ad31-72cbaf2c19ec,Pie,Walnuts,Cherry,471248e9-df80-4992-82d9-50c544700983,2024-01-17 17:03:45
+4315,72475f4e-76e5-417e-bfbc-8e23313c6a17,Pudding,Berry Compote,Espresso,4e230943-0634-489f-9e62-d25730853e45,2024-01-17 17:03:45
+5768,bc11dab7-5f19-4c88-b166-2a9f02770ee4,Cookie,Toffee Bits,Chocolate,02bbefc4-401a-47e4-8462-dab274e41f40,2024-01-17 17:03:45
+4668,b0a728d6-df8d-471a-aa74-a4903c2c2276,Doughnut,Granola,Cookies 'n Cream,16c8232d-4a88-4237-8d9d-3d67dba8f2df,2024-01-17 17:03:45
+4548,b63fd17f-a74b-49a6-95fe-048bc96930ad,Pie,Glaze,Cookies 'n Cream,788478b5-ffa7-4fbe-b814-b99a50f1a1c4,2024-01-17 17:03:45
+2677,e874e883-ff6d-4956-ac7c-a2dac130448f,Pie,Berry Compote,Cookies 'n Cream,bf425931-2a98-4096-97ce-5a6ab4da9c94,2024-01-17 17:03:45
+7616,c83889cb-ecab-4dff-9b22-a8b9b92bd1e9,Cake,Berry Compote,Cookies 'n Cream,2b4dccd5-be10-402f-a9e7-aa63f144ece8,2024-01-17 17:03:45
+8345,912d96a3-6ba2-4430-ac45-436eb3db9831,Pie,Chocolate Chips,Espresso,802dd58d-1410-4b2b-8449-8db2aed8db27,2024-01-17 17:03:45
+2022,dac516b8-dc25-45b9-a07d-b91ed181f52c,Doughnut,Toffee Bits,Cookies 'n Cream,42f6b369-0428-4bc9-a298-5394b44ccd7f,2024-01-17 17:03:45
+6969,c5728fd2-acfe-4b3b-8243-7533aa3eff2a,Doughnut,Walnuts,Chocolate,6abd0b7b-abcd-43ce-a52d-d1b4d1d1873a,2024-01-17 17:03:45
+2657,6fa092a5-6d6a-4149-bcec-753bfb600d98,Cookie,Walnuts,Butter Pecan,498b821d-ec61-4094-a11d-63b5f9479638,2024-01-17 17:03:45
+2593,232b5798-1337-43c3-b533-9e886de381ee,Cake,Toffee Bits,Espresso,5f425ecb-65c4-46a9-a190-6a68e8c55418,2024-01-17 17:03:45
+7932,c6b6b078-b9ce-42b8-af57-995d2dd40e02,Cookie,Granola,Espresso,167120fc-aa57-495f-95c2-3fde36d48071,2024-01-17 17:03:45
+8172,d8c97035-9d6e-4535-95a5-09bf169d10b8,Cake,Walnuts,Chocolate,1a3f04d0-f558-420e-a98f-520ea9b99e9f,2024-01-17 17:03:45
+6470,8609a2c2-578a-493b-8f70-bae0ac825622,Cookie,Granola,Cookies 'n Cream,6a1ca0dd-c1f2-4041-bb89-f2b464995c94,2024-01-17 17:03:45
+1776,484f8c9a-fd54-4963-b7fc-78c262e3bd5d,Pie,Walnuts,Butter Pecan,1349a254-2315-4b03-8d00-78916c2539a6,2024-01-17 17:03:45
+5222,0fe51e60-1bd1-435c-8477-e37ff86bcfbd,Cheesecake,Mocha Drizzle,Espresso,560d5e99-5c01-478e-b7fe-d9ee9942762d,2024-01-17 17:03:45
+7344,5c1bd711-bbd6-495a-a0ed-904daba2f0c8,Pudding,Walnuts,Cherry,726a2cd8-d431-4757-bf84-8f4be8eb095f,2024-01-17 17:03:45
+9688,c99ebe0a-84f9-42ae-87ed-69b0b83287d5,Pudding,Toffee Bits,Cherry,2330f58a-3274-494a-9106-576aca118a22,2024-01-17 17:03:45
+7103,5ef8eac2-a82b-4b5a-8177-ef59e346c2c5,Pudding,Glaze,Cherry,446332d9-6e5a-4911-ae86-8685f75c63ef,2024-01-17 17:03:45
+6237,b1b1b5b4-4382-4e7d-a450-64dbe1c6dab0,Pudding,Chocolate Chips,Chocolate,21d55943-15ec-42b7-b36c-22c875a33ee7,2024-01-17 17:03:45
+8093,3856c9f2-df96-4cd6-88fd-6043ec269c4d,Cookie,Chocolate Chips,Cherry,06c8536d-235d-4c06-91ab-18b8a4bc05dc,2024-01-17 17:03:45
+9888,b4d10c74-90e6-4f87-b5ad-8b0c10bae1b1,Cookie,Toffee Bits,Cherry,b035909b-9e90-408b-9ca5-1c1d461513e4,2024-01-17 17:03:45
+8035,8ae09186-d577-4a75-a6f3-91d1246d64c0,Cake,Toffee Bits,Cookies 'n Cream,af4e84e1-aa18-446e-a382-ea4ea645366c,2024-01-17 17:03:45
+7383,7f5a780f-1fd2-428b-98e6-9c902f91f63f,Pie,Walnuts,Espresso,5c5ff3d3-78ff-4454-869d-4a2d4286840a,2024-01-17 17:03:45
+5022,7fa1f351-9245-465e-a3ab-b71764366a04,Pie,Toffee Bits,Espresso,01bd1878-23fc-47d2-80a2-398455b20e6a,2024-01-17 17:03:45
+1007,0d507490-42da-4f43-8953-096b5202cafc,Doughnut,Berry Compote,Cherry,b15971c9-d904-4b73-ae2e-834198c7f51a,2024-01-17 17:03:45
+2645,b7fd041a-fca1-468d-936d-034664bd5e9f,Cheesecake,Walnuts,Butter Pecan,757a3e8e-b76a-408a-8f5e-7fd407e7abec,2024-01-17 17:03:45
+2423,5c12752d-4197-499a-b876-23a6aa7a476a,Pie,Mocha Drizzle,Butter Pecan,22c4d37f-29c7-4dfb-aadb-ccde43a78b8b,2024-01-17 17:03:45
+1541,53419633-0be1-45c3-908f-22a65b01d3a7,Doughnut,Walnuts,Cookies 'n Cream,73f6adf8-a33e-47ce-832a-51f15d0e0a2d,2024-01-17 17:03:45
+7274,a9399f94-084f-4dff-8ace-e54da8d2addd,Cheesecake,Chocolate Chips,Butter Pecan,5647b2c9-5711-4a65-8f61-afcd3f274878,2024-01-17 17:03:45
+9462,1edffabf-b558-4d5d-bd2d-4fdb8f34cbcb,Pudding,Chocolate Chips,Espresso,6db57a5f-f586-460b-9f13-4f445bccd14e,2024-01-17 17:03:45
+8350,6ac58fbe-0ef4-47d5-9289-a24a9e5c2b7e,Cake,Mocha Drizzle,Butter Pecan,95675d73-9403-4f8c-8277-3fa1836aa5d5,2024-01-17 17:03:45
+4072,090076bc-fd1d-4f30-937b-f796380e5853,Doughnut,Granola,Cookies 'n Cream,de245399-512d-48b1-b454-9bb1f55217b3,2024-01-17 17:03:45
+6420,b9952025-b3ae-4df0-90b8-0a313d519b75,Doughnut,Berry Compote,Cookies 'n Cream,fecb7633-9d14-41ba-af1a-d75ea948c66c,2024-01-17 17:03:45
+8898,b8f4ff74-aecb-4b4e-b369-87bc6b2c8962,Pie,Glaze,Espresso,01517a9b-2ae9-4e76-b099-fbf70a1c79a3,2024-01-17 17:03:45
+6880,021aa971-f1a4-4017-8967-568b0ca32873,Cake,Toffee Bits,Espresso,946bc9d1-6fc3-4179-a202-2ee44b5bfa2e,2024-01-17 17:03:45
+7296,ed8df368-f114-4f22-a4eb-8068d1f2e76a,Cheesecake,Walnuts,Cherry,52114217-6081-403f-8424-8f208318df0d,2024-01-17 17:03:45
+2399,e4ea77c8-26cf-48f9-945e-db38d02c8a63,Pudding,Berry Compote,Chocolate,e3afbaaf-f50e-4d22-a0b9-e999dda8f956,2024-01-17 17:03:45
+7124,90ef4731-eb33-47db-bea7-aba520f62301,Cake,Berry Compote,Butter Pecan,0a514e3f-5f25-4fc5-b95b-207d951a3c8f,2024-01-17 17:03:45
+8757,ebcafb97-8f69-48f3-a6a4-6bce1e3f2dbe,Cake,Toffee Bits,Espresso,f0ce8775-6650-4ecc-af56-659551552459,2024-01-17 17:03:45
+8929,0e161a4b-5735-4030-ba2a-e84d18f0f6e0,Doughnut,Walnuts,Chocolate,ee0c61aa-f2a6-45dc-b9c1-c797dfa59a47,2024-01-17 17:03:45
+5646,3f99f31b-75f0-4733-8e34-5a546754610d,Cheesecake,Chocolate Chips,Chocolate,0f35a613-06e7-4612-a229-e24fa1db7108,2024-01-17 17:03:45
+5003,f6668202-311e-40d8-9925-2e77de0898bb,Doughnut,Granola,Cherry,03220aec-3a6e-4b75-aeb5-233da63cd4dd,2024-01-17 17:03:45
+9475,8d6fa80b-a5df-48f8-90bc-6d860aea08a7,Pie,Walnuts,Peanut Butter,8221f891-c55e-4bfb-bf53-8c6eef9fc1be,2024-01-17 17:03:45
+1250,064dbcb6-00ea-4996-b783-6d24b534655f,Cheesecake,Mocha Drizzle,Espresso,affc5fa2-762d-4b98-b833-51ac056f1529,2024-01-17 17:03:45
+1678,4201238b-31d8-4a2f-9c48-906909ccff22,Cookie,Chocolate Chips,Chocolate,6412be83-bd01-466f-b763-adbea1833880,2024-01-17 17:03:45
+1800,e747c8cd-0f44-463e-837c-bdf4e2fc1474,Cheesecake,Walnuts,Cookies 'n Cream,90f74189-c3c4-45c7-ab7d-77e30564df4b,2024-01-17 17:03:45

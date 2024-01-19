@@ -1,0 +1,702 @@
+[
+    {
+        "user_id": "6808a3b8-2230-4027-97d3-e2eb67a2d3e2",
+        "movieid": "0e1bd471-ed92-428d-a000-f54a4e9a006f",
+        "rating": 4.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "a94c130f-fc56-4f58-ac71-c7ef4b0a446a",
+        "movieid": "9a404262-e9c8-4c55-9de0-1cefb23db7a3",
+        "rating": 1.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "24cf2eea-b334-40f8-bd56-d5da6b6cf291",
+        "movieid": "8c3f98eb-8655-4f62-9a3e-349273bd0705",
+        "rating": 2.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "5db08085-3b32-4ad8-b5bf-de23d33db48a",
+        "movieid": "6aee0236-6547-4bff-bfad-a057ee35d061",
+        "rating": 2.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "6aae6fbf-1a35-428f-9d72-ed1f2378fcf5",
+        "movieid": "6b5992f1-1de7-4106-b7c0-f908284c954c",
+        "rating": 2.5,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "d4daf90e-92ec-411e-a8fd-cc67847b4c8b",
+        "movieid": "c9178c2a-6668-4262-9027-d386dff39fab",
+        "rating": 1.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "1de5f09a-10c6-4bc1-a7fd-3f5fd4628e60",
+        "movieid": "d1417222-5a4b-48f6-abec-92b5ce3c7a3b",
+        "rating": 4.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "83110bd1-8c45-4d58-a7a9-71c74a4bfdec",
+        "movieid": "91cbfaed-394a-4d08-baf9-fe3a8e75b789",
+        "rating": 2.0,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "51266c9c-c77f-4afd-af22-4d3a14b7fa3f",
+        "movieid": "29557502-fe03-49b7-b09f-dbaca551601a",
+        "rating": 3.5,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "ae22a074-813a-4a50-b3da-cb6f880c82a9",
+        "movieid": "f0cdb4fd-b0c2-4149-940c-6b19745b4c5f",
+        "rating": 3.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "052acbd1-43f7-4d59-8213-f91fafc0bf98",
+        "movieid": "c9cd9c42-8e0b-46af-8fa9-7ffd75373cd6",
+        "rating": 2.8,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "c4c04ad5-18c7-4095-853e-0875496ee797",
+        "movieid": "d4aa5d12-e93b-4674-bb7c-031d011b72af",
+        "rating": 2.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "9d460064-ec5a-4881-a01b-ea4b2dd36bbf",
+        "movieid": "f2762a30-7c89-4e90-9e1a-59ff115277bf",
+        "rating": 3.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "ffbc1596-f012-4146-9161-0e26b261e429",
+        "movieid": "738a9883-e2e8-40f9-bf98-cd56a14d989c",
+        "rating": 3.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "12012cfa-1418-443c-ba71-a2685df8f16d",
+        "movieid": "e5ca9e41-4646-49ec-8326-7e3073703f20",
+        "rating": 3.8,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "a4028cf7-f3fb-44f4-b4cb-eb3832b3a2fa",
+        "movieid": "2c0b3c4f-54aa-4531-9d0c-6b19f9ac26fe",
+        "rating": 3.9,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "506020a3-79fd-444a-9c36-f6f9e9c41406",
+        "movieid": "c23481c7-5f92-40dc-a552-e555ec187ca4",
+        "rating": 1.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "ba18e60c-ad21-4a5b-9d12-ddbe1301cc4f",
+        "movieid": "5bcf0c87-d77c-4854-80bd-2c9fce8645cb",
+        "rating": 1.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "46d228b2-a4f7-4d2b-954e-a34eda44265f",
+        "movieid": "47731dde-a83a-46e0-bb2d-95c328280b6e",
+        "rating": 3.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "b51214d0-e547-4fee-8d14-9edc6ad2f307",
+        "movieid": "3492b0ba-e65f-4914-8db9-380969e8e6b4",
+        "rating": 0.6,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "d50468f0-b34d-4c9f-8967-b3c955d69f4d",
+        "movieid": "dd1dbb58-56be-466f-b4ce-665a94191062",
+        "rating": 1.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "ca5e9370-6fe5-4814-afea-9bdcc5e0f9c1",
+        "movieid": "5ed25398-7f94-49ab-8276-0c1e0cf4d564",
+        "rating": 1.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "45f283fc-589c-41a6-9e7a-493a6ce70ab9",
+        "movieid": "abebcaca-1291-405e-933e-1b72706d3e60",
+        "rating": 4.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "835d9f2d-70ee-4636-8193-ac1567ccf3d6",
+        "movieid": "09257abb-c416-4fd8-9ed5-c6dbbbab6f4a",
+        "rating": 3.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "ce60ae86-6ba3-454e-8ee4-769c7b51b8f6",
+        "movieid": "5b58d81a-04a3-483e-b495-ce84694cbb8d",
+        "rating": 1.5,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "7590b474-617c-4de5-8340-c8d1ba524ead",
+        "movieid": "8193795d-7699-49a9-8d1b-f94beb4fd2ab",
+        "rating": 0.5,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "912510c3-b8d7-4ab3-8c47-1a27849c56a9",
+        "movieid": "3e06a7e4-bbe9-4123-ad58-8c1ba8c91a4c",
+        "rating": 3.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "cdb02f64-618c-4476-9312-ebba41c1af73",
+        "movieid": "d80fafd0-36db-4afa-8b91-e5fb1a94ffcb",
+        "rating": 2.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "82181457-bcfb-497e-b488-b389e03e0e7c",
+        "movieid": "852588e3-7c1f-48e0-8933-566e34f1f185",
+        "rating": 3.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "295245a7-995c-4d42-b999-73d8971430fd",
+        "movieid": "4ad9ad9c-03a7-45d2-b9f6-daecefdd5aef",
+        "rating": 2.8,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "b15abf57-30b6-4ee1-810d-80da94102743",
+        "movieid": "dc2df514-6324-42e1-8f03-ca1edad41412",
+        "rating": 4.8,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "c26209a7-2fdc-451a-be7f-93e9f16c3ff6",
+        "movieid": "c61bda57-eb10-4252-bd5d-c84b3cbd0e76",
+        "rating": 2.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "016994b9-81b3-43bb-89c2-ad7b7ca618fb",
+        "movieid": "7ebf1bf7-f98e-41ab-8e90-7d2036f810bb",
+        "rating": 2.0,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "fdeb734d-1d9f-4e6a-8b40-be31107058cc",
+        "movieid": "1466fe1a-bd6e-4fc1-9c9e-e33486cd7f3d",
+        "rating": 2.8,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "0923af98-d7fe-4c1f-a709-0277141ca13a",
+        "movieid": "f8be0307-ba6a-4cd4-9b2e-e6b0d990f3bc",
+        "rating": 3.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "15f26fb1-7eb6-4e65-abac-237c7c3ad0ac",
+        "movieid": "d5c722ca-c10b-4449-9871-9a73d1d66d0e",
+        "rating": 2.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "758a6310-8614-4f59-9840-1f6af29f1370",
+        "movieid": "50e199bb-941a-4982-b821-36660f66c8e4",
+        "rating": 4.6,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "749ccb51-c9d5-4ac3-9f54-f48aad27e001",
+        "movieid": "4f553a06-a7d6-42ba-ac10-efda8cee84b0",
+        "rating": 2.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "c3129008-781d-473a-ac4f-8e47a0187998",
+        "movieid": "e840ee35-2cc3-41cd-bf04-0e01b60e3c05",
+        "rating": 2.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "71df473c-4fb2-4df8-9c8e-1842ed7920ef",
+        "movieid": "26e91186-ca7b-4994-9639-b34870abd3c1",
+        "rating": 4.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "9e567f96-c066-47e6-b433-30b5e305e000",
+        "movieid": "5fbeaa3a-f4b3-424f-be26-04d3072be87f",
+        "rating": 4.0,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "6714133d-2bb6-4765-8db5-d4b8a4f091b7",
+        "movieid": "881e1c80-92c6-41e5-a544-a7d1e9cc1e6b",
+        "rating": 3.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "81315103-c5af-4e06-be4c-3b3383dade3e",
+        "movieid": "e2a3a01f-4a6c-4903-a1e2-4d98eb5e1b3c",
+        "rating": 3.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "4c0c21d0-7127-4223-98d3-9880b7731f80",
+        "movieid": "9311a89c-a0c5-4c56-8acd-ce56d2d5dd84",
+        "rating": 2.6,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "9966fa29-71c3-4e3a-87f2-1d31c63c6ba2",
+        "movieid": "3963b588-4d4a-4d3c-bbda-f9ba56e67911",
+        "rating": 1.6,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "0205c23e-4fac-4d32-a21c-38899666028c",
+        "movieid": "1768e1b8-b3e4-4c06-a853-45d5a9c5c042",
+        "rating": 2.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "65a72509-c9f4-466e-bee6-abb194f9bf41",
+        "movieid": "5a132ef1-33e1-44ce-90d0-06e23a2480a5",
+        "rating": 1.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "0db4e14a-1a61-47ba-9df7-05a0a1ea719a",
+        "movieid": "e372618c-e657-43ac-a34a-2655b9edd4b2",
+        "rating": 5.0,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "40071839-649d-4b22-b5d9-a84d02251bbc",
+        "movieid": "472b1a7d-bfd4-446e-96b3-c75a102b00bf",
+        "rating": 3.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "78c5276f-b723-43ee-9d44-1761797e7db8",
+        "movieid": "d776ca6a-7243-42f6-8a3d-e4b184be5f62",
+        "rating": 4.9,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "0fc4aae2-1ea9-4820-8445-da1208e79f5c",
+        "movieid": "0a2e7dfc-48fc-409b-bdfc-22c73a568148",
+        "rating": 0.9,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "0c9549c3-22f4-409c-a05f-da17a50e59e6",
+        "movieid": "0a1e7f79-1028-471c-b714-5d3d98b9234b",
+        "rating": 1.6,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "bc757163-4d07-4fe0-b8ba-de2bbac81d6c",
+        "movieid": "878067c1-4495-4de6-83af-50a60647e737",
+        "rating": 3.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "f12dd834-74ac-4518-b14e-0936fbdd9b34",
+        "movieid": "ec05bbee-e800-4eaf-be6b-14425b59fcec",
+        "rating": 3.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "f4e640d8-8cf4-499d-bd2d-3e0bcd5221be",
+        "movieid": "8af142b3-c87b-4c79-b35b-5adef5a46dca",
+        "rating": 2.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "f6ad3044-8c62-482a-a58c-3a165a9370e3",
+        "movieid": "6f13f7fa-c874-4f46-8e17-4b50c48e3b2b",
+        "rating": 2.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "490b6bfb-84cf-4995-9a2a-861f19ddac21",
+        "movieid": "6d967496-03be-4e3f-aeaa-28bea93db2df",
+        "rating": 3.5,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "2f727d96-92a5-4650-84a0-9ae566c51313",
+        "movieid": "cd879681-daea-4543-8915-d728e7c6b206",
+        "rating": 0.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "d8d7ec34-548e-4a39-bf85-3bd329592e70",
+        "movieid": "ae2d5514-65a7-43e2-84b4-b1c393e95ab6",
+        "rating": 0.6,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "b646d32b-2179-4c95-a15d-10af31296143",
+        "movieid": "00fcc429-2a23-40cc-88ec-8da85b739e46",
+        "rating": 4.9,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "da5ef7c1-5c6f-4de3-869b-733dd2ae6b40",
+        "movieid": "965296da-f06f-4853-a7d7-d92301b74663",
+        "rating": 3.0,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "a2326068-abed-4b99-b094-e157f9784528",
+        "movieid": "ee36ac95-00fa-48a3-bfb7-e6d40111aeaa",
+        "rating": 1.0,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "ffcc2927-fe12-4ee9-af98-b5824ff74abc",
+        "movieid": "c6f8ceec-e21b-4d46-9c87-3902e8ddd056",
+        "rating": 2.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "643f6cb3-80db-4a6e-a986-7937e71bacf3",
+        "movieid": "e814d50b-ceaf-4d28-bd82-1741334d94e0",
+        "rating": 2.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "f30451be-fdde-448c-afc4-324a68325073",
+        "movieid": "be9accad-348b-4cc2-8b7e-6bb3c39fbf72",
+        "rating": 0.5,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "124b6452-24e0-46de-81c6-b3b8be0ecc10",
+        "movieid": "03af6509-e7c9-4f25-9cb3-83b57ace0059",
+        "rating": 4.6,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "db112527-42d4-4f3f-b742-58a1b95659a1",
+        "movieid": "4411e728-175e-4a3d-837b-f32c9c11bbfa",
+        "rating": 3.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "b0bb31fb-9f6b-4ecb-a619-305a3ebb9740",
+        "movieid": "86a6d9ac-db9f-4c35-ba7a-c758836b0e60",
+        "rating": 2.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "3164f199-08ad-4f88-a64c-f5660ff52cc9",
+        "movieid": "90b45a76-9f7c-4448-bc9c-d93c31d1b16d",
+        "rating": 4.8,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "e494f3a1-3d8c-4e9c-a935-92322f2f701b",
+        "movieid": "2d82528b-1b75-45bd-adda-e8d1e18128c4",
+        "rating": 1.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "25a19485-8cd6-4a5a-9a86-a883d17c5a7d",
+        "movieid": "9d9f39dd-d49b-4dc8-95ff-5d15e4d1d1e1",
+        "rating": 1.9,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "d109c1c2-15a1-4429-a833-97547e725e3c",
+        "movieid": "4ff84b2f-20d4-4467-9584-668a0216b349",
+        "rating": 2.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "589a5336-e401-4b95-ae4b-dc48f8003284",
+        "movieid": "f589b32e-4894-4f2b-ab14-8ac0ab2f672b",
+        "rating": 3.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "59e0c81a-f19b-40ce-a7b9-4b1eca38a622",
+        "movieid": "f6fcdef9-d803-4060-a683-e81860266edb",
+        "rating": 3.9,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "1baf9859-87ea-4f52-9f29-d4da117c3ab6",
+        "movieid": "4dae73f2-502d-469f-8874-14e9a921b5c0",
+        "rating": 1.8,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "62bd6333-219e-471a-a43a-ed770713e6e8",
+        "movieid": "3bfea087-6c76-4590-9c49-840a9a7199b5",
+        "rating": 1.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "f84dc086-79c4-447f-893e-9b4d2d3ba031",
+        "movieid": "4e2ad865-bada-4785-bcc5-1d4a2906f7db",
+        "rating": 2.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "3ac4508d-f00a-431a-a548-dde089a06c1f",
+        "movieid": "e19cc60e-1945-4293-9a87-bb1f25ec035e",
+        "rating": 5.0,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "9bb2b53c-6e07-466c-9202-2842e1999ad9",
+        "movieid": "fcc003c1-0560-444e-876c-b6702f30eb26",
+        "rating": 4.9,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "98f2fabc-f989-4bd1-af68-8456e04645ee",
+        "movieid": "97de6653-eb21-44b4-b2ab-8dca1ea81e6f",
+        "rating": 4.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "2af54acc-4cb4-47bc-9ee2-4070d95288ea",
+        "movieid": "97c9f32e-c80d-4c32-9e33-23478a2f8c15",
+        "rating": 4.5,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "eb42f705-f065-403e-9318-9964ffd0021e",
+        "movieid": "0fbc78d1-6102-434f-b3a8-a84809b88e8a",
+        "rating": 0.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "1a1caa0f-05ef-42e2-85e1-eafa52943e62",
+        "movieid": "988cbb53-ae8f-4038-a761-aaa81545eec9",
+        "rating": 3.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "bee9ed1f-5f76-4978-9d63-862b95fa3b59",
+        "movieid": "304e592a-963b-4819-b86d-c43e7ee010bf",
+        "rating": 4.3,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "2d87a057-1c60-43ac-83ee-922f9dadb526",
+        "movieid": "52e04be2-68d3-480a-8038-053da6711d91",
+        "rating": 3.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "c018a098-f916-41aa-aaa8-46145c9b969b",
+        "movieid": "3767d4c0-be21-4ab7-8073-b5df6a2d24f9",
+        "rating": 4.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "5297fd80-457d-4287-b0ca-a2e319e0e36a",
+        "movieid": "b7a1278a-5b10-442c-afb8-b6fa395f2ce5",
+        "rating": 2.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "265cfb47-fac9-454f-853c-b931fe336b17",
+        "movieid": "b3a3d23f-5135-4ffa-8c54-e8fd9c004a26",
+        "rating": 3.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "47fcf337-c1a4-4fdd-8931-92b05329cc7f",
+        "movieid": "cd42550f-b172-4903-b1d1-e67153fb92b8",
+        "rating": 3.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "186597e5-119c-4e99-9173-6b6781a2d864",
+        "movieid": "3710302b-6889-454b-917f-10613ec07345",
+        "rating": 4.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "86d35c05-2901-4bca-a5ad-9c6658db9be0",
+        "movieid": "ff3e7435-34de-4439-bc7d-cce77bae649b",
+        "rating": 4.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "5473fcd7-03d6-4d3d-86e3-babddea68183",
+        "movieid": "a861f9e1-6e1c-49cf-99d4-069357e2abb0",
+        "rating": 3.8,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "d0f6cbf3-2829-43f7-a212-6479c44cc3fe",
+        "movieid": "ef741836-7fbc-40a5-af0c-e425e67c7c52",
+        "rating": 2.2,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "89cde4a9-db65-46e1-a91a-640b4e166b65",
+        "movieid": "2a2ba867-ffdd-4ca3-b1eb-adbcbc155ecf",
+        "rating": 3.1,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "710a1182-6028-45f3-956a-a7a83d3dde98",
+        "movieid": "cf6e7123-0721-4c9e-83ce-3ffee6a69f99",
+        "rating": 2.6,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "a10c5c14-daee-4a7f-9410-9aec06a7c2dc",
+        "movieid": "fadc26bd-5bda-4589-b07d-7c7260b2bda3",
+        "rating": 3.7,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "675ebb8d-2d88-4c4a-9513-75317300edce",
+        "movieid": "bf166f32-2b12-43e7-86fe-fd407521a43e",
+        "rating": 0.6,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "806b01bd-3742-489a-a371-17c4db386e5d",
+        "movieid": "fa7a84d8-7297-4134-8e69-f240f862d234",
+        "rating": 1.8,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "1364378e-9e97-4db0-8f8c-830bee169e0d",
+        "movieid": "f7db80a8-83dc-49e1-a39b-8d3de8ce7a7b",
+        "rating": 2.5,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    },
+    {
+        "user_id": "c2da8fc6-7caa-4af7-8e9b-8736ac9728bc",
+        "movieid": "f1983045-ac9b-4621-b7ea-37e78a1de270",
+        "rating": 1.4,
+        "timestamp": 1705521366,
+        "dt_current_timestamp": "2024-01-17 19:56:06"
+    }
+]

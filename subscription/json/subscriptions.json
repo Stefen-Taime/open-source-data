@@ -1,0 +1,802 @@
+[
+    {
+        "user_id": "0eb37a26-3113-4dc6-a483-bf7f9276bb5e",
+        "subscription_id": "10bd93a3-1e6b-49ed-9573-44577264a32e",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "282ad887-b031-49d6-9457-ed3f3980a974",
+        "subscription_id": "3d0c12d3-d4d5-414f-94d2-b0661afe8a9f",
+        "plan": "Silver",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "02682ed0-1d1c-4ff3-b020-a3c473e158fa",
+        "subscription_id": "e2176043-5735-4b8c-a437-6768605c4ea4",
+        "plan": "Silver",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "ce9ef0cd-2d2e-4fe0-8540-7d30b505f578",
+        "subscription_id": "14dda74c-d57a-48af-8d7d-f40671a6e318",
+        "plan": "Gold",
+        "status": "Active",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "3304c6d0-ad7a-4828-a63e-58e104e1a371",
+        "subscription_id": "2afa8669-ddec-4df2-862e-5f78cd1f9225",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "b40473cf-330f-475f-9419-e1feac636a70",
+        "subscription_id": "32b5e9c4-4f07-4e75-af54-94142a11ac42",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "54876170-1b03-46a7-9e99-76c2d182ee43",
+        "subscription_id": "565dde99-7e03-453f-8ddd-aa2f9f68c01f",
+        "plan": "Platinum",
+        "status": "Cancelled",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "368e9505-d66d-4b0e-b4ae-6e127cc42ad5",
+        "subscription_id": "f163f2a2-fc5d-450d-ae86-66549e225941",
+        "plan": "Gold",
+        "status": "Idle",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "14e7b9e8-74bf-4d53-92c8-104575bd1f02",
+        "subscription_id": "c3104138-ea18-4252-9854-f1b0d015fa95",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "214c47b6-57c2-42ce-98f2-1d1644dc91a8",
+        "subscription_id": "08301a68-3698-4443-b01f-39608b15e83f",
+        "plan": "Gold",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "156f0f9f-da5f-4da9-8220-8ebe811672e1",
+        "subscription_id": "be347261-3a6d-46aa-90ed-e7ab13056e9c",
+        "plan": "Silver",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "8ef859f8-e1ff-4402-ad25-19cee3f12949",
+        "subscription_id": "97a0e441-5d71-4a05-8b7d-25faaeb5659c",
+        "plan": "Silver",
+        "status": "Active",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "d7cccf34-d9b3-4c1a-b04c-6eda20f32931",
+        "subscription_id": "6feec518-f88b-4cb1-8d2b-60e3e3f5e093",
+        "plan": "Silver",
+        "status": "Blocked",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "1faf9908-10a3-4fa8-af7e-f8376fa9dbf2",
+        "subscription_id": "82b52641-4fc3-4e11-a508-6187b2fe8cd8",
+        "plan": "Gold",
+        "status": "Active",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "640387c8-95fe-4559-9d9d-54ec9c6626f5",
+        "subscription_id": "74116c1a-49d4-4a47-8bec-fe410c8c6775",
+        "plan": "Silver",
+        "status": "Cancelled",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "99f3b121-eabc-4ca4-a4a4-8c46be88588d",
+        "subscription_id": "e8f05f76-2e43-4f4b-a845-e778bb6aaecc",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "54137f22-ecc5-40ed-9b5a-de3abc518545",
+        "subscription_id": "06a487f2-7f6d-4a06-ab33-342981b777dc",
+        "plan": "Silver",
+        "status": "Active",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "f3a65701-6fef-4194-ad27-3dc2fa48fee1",
+        "subscription_id": "2c290192-f738-4441-800e-0f235104e3ec",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "6a94e883-4353-468c-8b1d-46f69f114bb0",
+        "subscription_id": "fd194b01-f2a8-4b3a-89b7-9587ddbee785",
+        "plan": "Gold",
+        "status": "Idle",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "126b90c3-9d52-4f3b-adcb-82616fe8ecc8",
+        "subscription_id": "fded1b31-bde2-4549-91b4-12d5fc1b7b98",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "b2725508-93fd-4705-a751-4d89f654741b",
+        "subscription_id": "9d1154ef-bd85-49cd-a6bc-7dbda4d57e32",
+        "plan": "Platinum",
+        "status": "Cancelled",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "b084553e-bd71-4d58-99ce-3c85ae754645",
+        "subscription_id": "d002fec5-782b-4b29-9cfc-c6e32870558b",
+        "plan": "Gold",
+        "status": "Idle",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "4cde1092-ebe4-44bc-b954-56c6e1bfffcb",
+        "subscription_id": "4d9e0841-3c57-4276-90bf-75dccd775879",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "7c3fe30d-0d4b-42d0-8ae9-e0b6f7e12626",
+        "subscription_id": "3e1fb596-0afb-4856-9f2d-87a270a53034",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "d23e203d-dfa0-454d-aa5a-5bc9719bae53",
+        "subscription_id": "b106be67-3450-48d8-bc1b-23dfe82e885e",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "c2120a59-0e3b-4e09-be4c-8136cbbea0bf",
+        "subscription_id": "974fb038-441d-4318-853f-da4d08dc70ee",
+        "plan": "Gold",
+        "status": "Blocked",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "0fdfb888-df1e-45c0-b7c8-8b6ee54077b5",
+        "subscription_id": "777c62d6-f68b-4d68-9679-0fbcbc749787",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "c4d822a6-4ace-44b7-a748-e6d3e2f041ea",
+        "subscription_id": "37a26119-d2c4-4a2c-a450-226a623a7e50",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "13999614-667e-47f5-b9d8-ba4e8ba4aebd",
+        "subscription_id": "7512a8c6-7cad-4c78-a0c1-2b628ffc5be7",
+        "plan": "Gold",
+        "status": "Blocked",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "7ae5c6ff-4cf4-4b47-829b-08e9c046b499",
+        "subscription_id": "6df380a1-901e-4643-b814-e3a02a2ae62b",
+        "plan": "Silver",
+        "status": "Active",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "3f4995e9-e70c-4420-bfe0-3acbbe8e8834",
+        "subscription_id": "6e522baf-bcd7-4405-986c-5698ef8f86df",
+        "plan": "Platinum",
+        "status": "Blocked",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "02dcfb1c-241d-4a7f-aa87-d40c390a94e7",
+        "subscription_id": "52dec32d-f0a4-48bb-b57a-420299f6f0dd",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "e412606d-58a7-4058-92b0-8b44f38d09b6",
+        "subscription_id": "c86b232e-6767-479d-b579-f382f1bd0797",
+        "plan": "Gold",
+        "status": "Blocked",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "4003ee6c-8b88-4bfc-af19-35b427b33cde",
+        "subscription_id": "2217e7a6-a8fe-4b9d-b72e-2a6958da3c25",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "d4297182-8771-4a76-a287-069153874e5a",
+        "subscription_id": "df25c0e6-4030-4d15-b9e4-d3f6db04d706",
+        "plan": "Platinum",
+        "status": "Blocked",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "4a0c9b74-3d59-4954-88f3-db48061cbef8",
+        "subscription_id": "f805188e-2fca-40d0-a6f4-189f02acc501",
+        "plan": "Silver",
+        "status": "Cancelled",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "6bd92593-5ba4-4c58-8c91-8bc1a3d7e73c",
+        "subscription_id": "08e41c95-b73f-42b5-a86e-3795b97d6055",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "82070d7f-eea8-4d4e-b208-0d65d928c0f5",
+        "subscription_id": "e2081557-fe14-406a-ad12-7e193c992325",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "b4a83e60-c61d-4916-9774-932e89114390",
+        "subscription_id": "ab296b20-df17-40c7-86e6-26f6f2c24ee8",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "b4b9836a-8d38-480d-9a50-049bca8a61a5",
+        "subscription_id": "b94a2a4a-24d2-4576-9440-ea52884f5992",
+        "plan": "Gold",
+        "status": "Idle",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "5c6d6b88-8cd5-434c-b85d-fc6773c07683",
+        "subscription_id": "6fd90494-e94f-466f-be46-285f2148240c",
+        "plan": "Gold",
+        "status": "Active",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "2d8a947e-cd04-451b-af0b-1934d6303cb6",
+        "subscription_id": "94217870-5213-46d1-bee9-7f82d42f7d61",
+        "plan": "Silver",
+        "status": "Cancelled",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "f16de98a-dc64-4441-a9b1-89b6faa32437",
+        "subscription_id": "751d947c-657a-4309-b4bf-cd44bb1207b6",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "04c4c4ce-7402-4147-a8e2-3d31a8a3569e",
+        "subscription_id": "66756744-20af-4b84-9963-80817b857ef2",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "4b1ccd90-31e9-4009-9291-71bc3517c8d6",
+        "subscription_id": "7fbb450c-6c2a-452e-bdfb-37a273477715",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "0aebfcae-e821-4c17-9061-e4778dc38c4b",
+        "subscription_id": "d8643fdc-b4b7-4626-ba5d-9a56757d6eec",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "6b820ece-b7d8-4ef1-9425-fb5e2fbd8487",
+        "subscription_id": "15dfa1f6-3214-4a82-9625-2c8945541c01",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "5ba4a9dd-e4f4-4242-a535-ad7c5a707f43",
+        "subscription_id": "65e95a43-5bfa-4a51-a36c-bdca49254a25",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "1fac47c7-81ef-4d88-aca3-f704211d83f7",
+        "subscription_id": "3a392361-2ae4-4d3e-88a0-ae3d350f167a",
+        "plan": "Silver",
+        "status": "Blocked",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "9bfba364-3727-4355-b6b9-45fb2e23d815",
+        "subscription_id": "6e3af0f3-30c0-45c9-b526-e29c7c2ba0f8",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "f667ef07-e8e1-451f-9f31-4d5d96d93708",
+        "subscription_id": "10b154c6-dce0-46fc-86c9-84f1a38212eb",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "c6f0da4f-6d7c-4ba3-9784-7f528331a407",
+        "subscription_id": "38aac6c2-6fbf-4b6d-b11d-6d73ee23d2f3",
+        "plan": "Silver",
+        "status": "Blocked",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "1f20e63d-0dc2-4f49-a04a-2531013f4467",
+        "subscription_id": "ab8f28a0-2383-4516-ac08-45226add313c",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "2aa90f74-1df1-4f9e-84a0-3fb9390226f5",
+        "subscription_id": "6086d628-e706-4af4-86a1-e6c8e79d20db",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "25ba2880-a559-4fb6-81c6-b599fc85e424",
+        "subscription_id": "0d010489-6ee2-4ff1-ada8-3029ca17666f",
+        "plan": "Silver",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "de3b00d9-ba1e-47cf-a5f7-71e271735676",
+        "subscription_id": "bdd720f5-0f2d-4bdb-9c16-22ccbecd0ae4",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "cea708e5-a029-4f60-8f3e-66dfa38aec5b",
+        "subscription_id": "cf155ffb-1ff1-4543-ab50-62f04905299f",
+        "plan": "Gold",
+        "status": "Blocked",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "7df88105-ebf8-495c-a089-aa9e1b3796dd",
+        "subscription_id": "07567aca-cb39-458c-ae20-163569a4048c",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "f3507ceb-dd12-42b5-af47-54c9e18d272e",
+        "subscription_id": "1a0c1190-e77d-4b95-9e6f-70832c5b0dd1",
+        "plan": "Gold",
+        "status": "Active",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "2268e41e-869f-40ae-8b47-bf3caeb20b22",
+        "subscription_id": "ff5d4863-34dd-4b4e-9adc-f99f35b83a24",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "2c67498f-299c-4c9f-bd34-b95c0f5dd00c",
+        "subscription_id": "fa812c86-bc14-452d-a4c5-e83f3a64b7ca",
+        "plan": "Gold",
+        "status": "Blocked",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "77ec3d52-773e-4254-9f1c-00e2d151d454",
+        "subscription_id": "38aac8f3-5863-45a7-b440-ce973f811886",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "1a5de73a-925f-463a-be45-188e93ee99e2",
+        "subscription_id": "c0355163-b1b4-4aa3-9412-624a916a42e2",
+        "plan": "Gold",
+        "status": "Blocked",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "dd0f8b50-9b18-4121-a8a6-59631433d32e",
+        "subscription_id": "3ec4eb16-eeca-4727-9e4e-ef1c1dbdf329",
+        "plan": "Gold",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "2afdcc5d-e80a-44fb-9efa-cf767befa477",
+        "subscription_id": "1def9eeb-0225-47f0-9f6e-27657a52713a",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "133a45dd-cbb6-4087-b0c8-429d6c79f533",
+        "subscription_id": "5f2a7da7-62d1-46eb-8d65-fea66fe801fe",
+        "plan": "Gold",
+        "status": "Idle",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "68df75d2-829f-4da9-a46b-1cbf4894c52b",
+        "subscription_id": "241feeea-23c3-43a6-8de5-5b51a520a062",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "fee0f04c-da96-4a0a-a0aa-15647ece3310",
+        "subscription_id": "3007cc83-1004-45bb-8e05-d87162381c78",
+        "plan": "Platinum",
+        "status": "Blocked",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "2e3e1444-8df0-4519-a427-a34963e8e462",
+        "subscription_id": "5d79768e-1112-475a-b99c-6e23a1afab61",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "49d1390b-91f3-4054-85b5-8b461e4b4412",
+        "subscription_id": "86ed92ae-9584-45af-8496-3f8f94c13ede",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "369da1a1-e282-45c3-bc30-849d39d6efb0",
+        "subscription_id": "325a9176-9bd6-41de-aad3-b4998cc108e0",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "cea417dd-cbc7-4f89-ba2a-9c825e3b8425",
+        "subscription_id": "74c7239d-c729-455b-88cd-abe92bd50dc6",
+        "plan": "Silver",
+        "status": "Cancelled",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "f76d4933-7751-4bcc-98d5-73a9b74ffd81",
+        "subscription_id": "f41359a8-657c-40e2-9ab1-24ee8cf93b69",
+        "plan": "Platinum",
+        "status": "Cancelled",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "08b8a4f6-9853-4128-9e7f-7b845f8635ca",
+        "subscription_id": "69b57c19-1d9b-4124-b441-606d1a76cff0",
+        "plan": "Silver",
+        "status": "Cancelled",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "a1db1964-3f8b-4338-be34-55875535e9cd",
+        "subscription_id": "6f2356ba-e06c-4695-b1d5-068aba1f60ca",
+        "plan": "Silver",
+        "status": "Active",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "43b0a309-92da-4737-bf08-b52637e40cb7",
+        "subscription_id": "2486ccad-0ad1-4095-8149-eb9c62892e7d",
+        "plan": "Gold",
+        "status": "Blocked",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "3aac73ef-f15e-4a99-b35e-b648de9f99b5",
+        "subscription_id": "db2d7581-34e2-4100-b487-a1252afa59c6",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "42acb7ed-83ce-477f-87fe-901027da0208",
+        "subscription_id": "52504827-cc6e-4477-aef2-64c3074f60c6",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "7913edd1-ef19-40b2-84fb-385729eb2a5c",
+        "subscription_id": "212be91a-c8c5-4e41-aafd-419b3f2218ef",
+        "plan": "Gold",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "531f0010-025d-4855-937c-dac199cd9881",
+        "subscription_id": "5a45da88-7845-4d0a-baca-42fe1e549078",
+        "plan": "Platinum",
+        "status": "Blocked",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "ad5d947e-0b30-49ea-8f21-e4cf73dda058",
+        "subscription_id": "78a5916f-b924-4ede-a009-57316994841a",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "e3a846db-a9ca-428e-8bd2-8ea3a07d6e4c",
+        "subscription_id": "3c8b135f-7074-451d-816b-9e9c2369c630",
+        "plan": "Silver",
+        "status": "Cancelled",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "ba4502b7-ed3c-4974-b6e7-590986ca8bb1",
+        "subscription_id": "b3b72d8b-1d61-4e08-bb1a-3dc55415e1d3",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "fcdda51a-86a4-4b3e-91b4-86589054558f",
+        "subscription_id": "cf0f7551-e215-451c-b776-d3d5f6d3cfa0",
+        "plan": "Gold",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "b0ef1166-3df8-411f-82e2-7b5e885be2d9",
+        "subscription_id": "46dd2338-437d-4a91-a851-b7e0a762e99a",
+        "plan": "Silver",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "7268c9bd-ebd8-4981-9dc3-6266de19dc9a",
+        "subscription_id": "07dc9447-a3c7-466b-9926-94e3bdae69a3",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "60e0201d-33cb-4c5d-8468-5ec38bf049f8",
+        "subscription_id": "f6398a4c-39b0-4e4f-8762-27038135307a",
+        "plan": "Platinum",
+        "status": "Cancelled",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "9df02831-1e5f-4081-9141-c83bf022398f",
+        "subscription_id": "051a26b9-c7ef-4d60-a69d-cdca6b4e8a11",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "6503d76e-f529-4158-b182-3957047c4525",
+        "subscription_id": "ecea661e-f1ec-4e35-bb06-443449209193",
+        "plan": "Gold",
+        "status": "Active",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "05ba1a7c-c782-4915-9d72-d98e55bd226b",
+        "subscription_id": "623e3a49-29fc-447a-b367-e8c4cf0feb8a",
+        "plan": "Platinum",
+        "status": "Idle",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "ed805715-091f-4c6d-94db-ff05fd5154c4",
+        "subscription_id": "ff5fe52a-c6d5-4b0e-95a6-fc2c6244704d",
+        "plan": "Gold",
+        "status": "Blocked",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "1bd2ad6e-d90b-44af-8ca9-cc6be4bc283a",
+        "subscription_id": "1bf225d6-2c5a-4b23-a306-a65847ab42d3",
+        "plan": "Silver",
+        "status": "Cancelled",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "788b70fb-be55-4f14-ae9d-7ac5f99347c1",
+        "subscription_id": "9618bd3c-349e-49eb-91dd-bbbfe000b7f7",
+        "plan": "Silver",
+        "status": "Blocked",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "c2f9316b-884b-4d1c-90c5-ff2a6a600e44",
+        "subscription_id": "1cc848e4-10a1-4d96-a4d2-f86d54caa7bd",
+        "plan": "Silver",
+        "status": "Idle",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "94104e01-fda2-492b-acdc-2a08f67a4cb6",
+        "subscription_id": "653c742f-b1d6-452e-9d38-57cc64ba14e2",
+        "plan": "Gold",
+        "status": "Idle",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "68e0eac7-9b35-418f-ad01-c4bfbe83a240",
+        "subscription_id": "c34d87e0-8c9e-425c-ac89-ab8ce0c198f0",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "Visa",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "d4e94d86-de26-4309-821c-fdd71b31e224",
+        "subscription_id": "c9ddd266-b241-42db-a601-244c6e2a2f88",
+        "plan": "Platinum",
+        "status": "Active",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "b7f46e21-4e36-4533-a201-41d6ffd993f6",
+        "subscription_id": "42c18782-09e8-4d0b-8c3b-22b5f9817138",
+        "plan": "Silver",
+        "status": "Blocked",
+        "payment_method": "Bitcoin",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "c80f0faa-679d-4320-8711-d5e890244e11",
+        "subscription_id": "c218585e-4eea-41a3-9ae9-10a10f7dffb8",
+        "plan": "Gold",
+        "status": "Cancelled",
+        "payment_method": "PayPal",
+        "dt_current_timestamp": 1705529035
+    },
+    {
+        "user_id": "61605991-e1d7-4b26-8357-e7e93225c1e5",
+        "subscription_id": "c41c8df4-c846-43f8-af93-b528c7af15c6",
+        "plan": "Silver",
+        "status": "Blocked",
+        "payment_method": "MasterCard",
+        "dt_current_timestamp": 1705529035
+    }
+]

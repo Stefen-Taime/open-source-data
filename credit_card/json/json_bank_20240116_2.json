@@ -1,0 +1,902 @@
+[
+    {
+        "id": 3626,
+        "uid": "e35b3e4a-9140-4025-95ea-1a5190539820",
+        "credit_card_number": "4735-3228-6302-1261",
+        "credit_card_expiry_date": "2024-11-01",
+        "credit_card_type": "discover",
+        "user_id": "6808a3b8-2230-4027-97d3-e2eb67a2d3e2",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 1195,
+        "uid": "4b5a2cde-5ef2-4503-ab57-43e38e5ad35a",
+        "credit_card_number": "4403-1531-9297-2087",
+        "credit_card_expiry_date": "2027-10-01",
+        "credit_card_type": "visa",
+        "user_id": "a94c130f-fc56-4f58-ac71-c7ef4b0a446a",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6740,
+        "uid": "e9a8bbf7-3607-472f-b5b5-63f899a3fc6a",
+        "credit_card_number": "3175-5610-3452-1846",
+        "credit_card_expiry_date": "2024-12-01",
+        "credit_card_type": "discover",
+        "user_id": "24cf2eea-b334-40f8-bd56-d5da6b6cf291",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7016,
+        "uid": "eed6692f-4abb-4d0a-8b6b-ff236437b227",
+        "credit_card_number": "8415-1084-5072-6281",
+        "credit_card_expiry_date": "2026-05-01",
+        "credit_card_type": "mastercard",
+        "user_id": "5db08085-3b32-4ad8-b5bf-de23d33db48a",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 3016,
+        "uid": "45386e2f-1564-4b65-a8da-15b0121f82b0",
+        "credit_card_number": "9819-2931-7367-9155",
+        "credit_card_expiry_date": "2022-07-01",
+        "credit_card_type": "visa",
+        "user_id": "6aae6fbf-1a35-428f-9d72-ed1f2378fcf5",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5496,
+        "uid": "c4a042fe-7d9a-4e82-9e6f-90e69ff35134",
+        "credit_card_number": "1604-8529-3093-6983",
+        "credit_card_expiry_date": "2029-06-01",
+        "credit_card_type": "visa",
+        "user_id": "d4daf90e-92ec-411e-a8fd-cc67847b4c8b",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5856,
+        "uid": "6079ca10-1755-4eb9-bb87-b3d0863fb3c2",
+        "credit_card_number": "5232-3146-2519-8450",
+        "credit_card_expiry_date": "2021-09-01",
+        "credit_card_type": "discover",
+        "user_id": "1de5f09a-10c6-4bc1-a7fd-3f5fd4628e60",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6147,
+        "uid": "3a30fc71-c51b-4a82-857e-d8acc81be72b",
+        "credit_card_number": "9079-8315-2246-9205",
+        "credit_card_expiry_date": "2023-03-01",
+        "credit_card_type": "diners_club",
+        "user_id": "83110bd1-8c45-4d58-a7a9-71c74a4bfdec",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9309,
+        "uid": "aff906c4-377b-43cc-9b22-9e6011758fb1",
+        "credit_card_number": "8193-1718-1192-2769",
+        "credit_card_expiry_date": "2028-04-01",
+        "credit_card_type": "discover",
+        "user_id": "51266c9c-c77f-4afd-af22-4d3a14b7fa3f",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4390,
+        "uid": "3188679f-12f5-4cba-a39b-67edfcf6eccc",
+        "credit_card_number": "6351-4225-2857-7608",
+        "credit_card_expiry_date": "2026-09-01",
+        "credit_card_type": "discover",
+        "user_id": "ae22a074-813a-4a50-b3da-cb6f880c82a9",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7581,
+        "uid": "10e8733f-675e-45be-90f7-fe4c5f938362",
+        "credit_card_number": "9867-3643-5012-5558",
+        "credit_card_expiry_date": "2028-06-01",
+        "credit_card_type": "visa",
+        "user_id": "052acbd1-43f7-4d59-8213-f91fafc0bf98",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 8934,
+        "uid": "e9646457-a5af-4329-ad8a-26c1eaaaca21",
+        "credit_card_number": "2440-8917-4148-3410",
+        "credit_card_expiry_date": "2028-04-01",
+        "credit_card_type": "diners_club",
+        "user_id": "c4c04ad5-18c7-4095-853e-0875496ee797",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 1167,
+        "uid": "41ffeb98-5811-499b-9e88-8930bb4eb26f",
+        "credit_card_number": "5701-1208-7399-7206",
+        "credit_card_expiry_date": "2022-11-01",
+        "credit_card_type": "visa",
+        "user_id": "9d460064-ec5a-4881-a01b-ea4b2dd36bbf",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4214,
+        "uid": "d6b114bb-e923-425b-a34c-c73ecff85f41",
+        "credit_card_number": "1222-2823-9218-4715",
+        "credit_card_expiry_date": "2024-10-01",
+        "credit_card_type": "discover",
+        "user_id": "ffbc1596-f012-4146-9161-0e26b261e429",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 8253,
+        "uid": "b0528229-17b6-4273-bb66-f3a54ec1b06d",
+        "credit_card_number": "3996-5032-2110-9113",
+        "credit_card_expiry_date": "2030-11-01",
+        "credit_card_type": "laser",
+        "user_id": "12012cfa-1418-443c-ba71-a2685df8f16d",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9300,
+        "uid": "3d63569a-3d02-4216-a442-7e5f7b4e81fa",
+        "credit_card_number": "1791-2876-2672-7775",
+        "credit_card_expiry_date": "2030-09-01",
+        "credit_card_type": "laser",
+        "user_id": "a4028cf7-f3fb-44f4-b4cb-eb3832b3a2fa",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2601,
+        "uid": "d9f01177-01f8-4e61-8164-a6942dde2b2e",
+        "credit_card_number": "5892-5421-4367-2282",
+        "credit_card_expiry_date": "2027-05-01",
+        "credit_card_type": "discover",
+        "user_id": "506020a3-79fd-444a-9c36-f6f9e9c41406",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 1341,
+        "uid": "197876e0-df72-4a4c-b192-f643b06fc4dc",
+        "credit_card_number": "5954-5731-3830-3177",
+        "credit_card_expiry_date": "2026-12-01",
+        "credit_card_type": "visa",
+        "user_id": "ba18e60c-ad21-4a5b-9d12-ddbe1301cc4f",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7024,
+        "uid": "ff244afd-3848-401e-a868-383fa89e63ee",
+        "credit_card_number": "6527-2929-4950-4047",
+        "credit_card_expiry_date": "2026-07-01",
+        "credit_card_type": "laser",
+        "user_id": "46d228b2-a4f7-4d2b-954e-a34eda44265f",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 8625,
+        "uid": "7679d4a4-1a59-40de-a9b3-1d48d10102a6",
+        "credit_card_number": "9349-1338-9708-6997",
+        "credit_card_expiry_date": "2023-01-01",
+        "credit_card_type": "visa",
+        "user_id": "b51214d0-e547-4fee-8d14-9edc6ad2f307",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 3793,
+        "uid": "344602d9-1c71-4edb-825f-adf9487695e8",
+        "credit_card_number": "5446-5053-1213-5080",
+        "credit_card_expiry_date": "2022-01-01",
+        "credit_card_type": "diners_club",
+        "user_id": "d50468f0-b34d-4c9f-8967-b3c955d69f4d",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 1701,
+        "uid": "830c4cd0-48bf-4a01-8f9f-5a0bda5781a5",
+        "credit_card_number": "6241-6241-2779-4002",
+        "credit_card_expiry_date": "2025-09-01",
+        "credit_card_type": "laser",
+        "user_id": "ca5e9370-6fe5-4814-afea-9bdcc5e0f9c1",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9755,
+        "uid": "dc99a739-a4d4-4833-8566-b2a29bb0ccc4",
+        "credit_card_number": "8239-7644-8271-2815",
+        "credit_card_expiry_date": "2026-08-01",
+        "credit_card_type": "diners_club",
+        "user_id": "45f283fc-589c-41a6-9e7a-493a6ce70ab9",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6906,
+        "uid": "e117b05e-82ae-48ba-8345-da8662ec4ff7",
+        "credit_card_number": "5281-3363-1594-2952",
+        "credit_card_expiry_date": "2025-05-01",
+        "credit_card_type": "visa",
+        "user_id": "835d9f2d-70ee-4636-8193-ac1567ccf3d6",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4001,
+        "uid": "22fc5239-21ca-4010-98df-b810cc70f728",
+        "credit_card_number": "4248-7213-3040-8119",
+        "credit_card_expiry_date": "2022-12-01",
+        "credit_card_type": "discover",
+        "user_id": "ce60ae86-6ba3-454e-8ee4-769c7b51b8f6",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9357,
+        "uid": "9d353c89-fb8a-4d76-9d6e-b634ee85abd4",
+        "credit_card_number": "7030-4202-2630-8268",
+        "credit_card_expiry_date": "2025-04-01",
+        "credit_card_type": "laser",
+        "user_id": "7590b474-617c-4de5-8340-c8d1ba524ead",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4675,
+        "uid": "09123790-42f4-4433-b4a3-4812bbbdbe3a",
+        "credit_card_number": "3227-8401-7170-2197",
+        "credit_card_expiry_date": "2023-06-01",
+        "credit_card_type": "mastercard",
+        "user_id": "912510c3-b8d7-4ab3-8c47-1a27849c56a9",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7241,
+        "uid": "c8b0e879-1e7e-4513-b6f0-c4073b98c690",
+        "credit_card_number": "6899-2072-5340-3161",
+        "credit_card_expiry_date": "2025-10-01",
+        "credit_card_type": "diners_club",
+        "user_id": "cdb02f64-618c-4476-9312-ebba41c1af73",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 8252,
+        "uid": "0326f217-1fc4-45a6-b7f3-c37099ba35f0",
+        "credit_card_number": "1565-4735-5033-2676",
+        "credit_card_expiry_date": "2023-01-01",
+        "credit_card_type": "mastercard",
+        "user_id": "82181457-bcfb-497e-b488-b389e03e0e7c",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9097,
+        "uid": "9c67f5de-b286-43e5-bdfc-97da9868d100",
+        "credit_card_number": "4760-3469-7099-2943",
+        "credit_card_expiry_date": "2028-06-01",
+        "credit_card_type": "laser",
+        "user_id": "295245a7-995c-4d42-b999-73d8971430fd",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7059,
+        "uid": "066f4a20-a7cb-4071-8616-4c0fd7106387",
+        "credit_card_number": "8442-8476-7455-2035",
+        "credit_card_expiry_date": "2029-02-01",
+        "credit_card_type": "mastercard",
+        "user_id": "b15abf57-30b6-4ee1-810d-80da94102743",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5655,
+        "uid": "b9adefb0-754f-4401-8fa2-1ab19fc60f7c",
+        "credit_card_number": "5415-9911-9448-6696",
+        "credit_card_expiry_date": "2030-04-01",
+        "credit_card_type": "laser",
+        "user_id": "c26209a7-2fdc-451a-be7f-93e9f16c3ff6",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2830,
+        "uid": "9cf68e56-c0ff-42cb-8daa-c3de28295729",
+        "credit_card_number": "8837-8387-9170-8076",
+        "credit_card_expiry_date": "2027-12-01",
+        "credit_card_type": "mastercard",
+        "user_id": "016994b9-81b3-43bb-89c2-ad7b7ca618fb",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5844,
+        "uid": "32b0b8b6-5a3e-42ea-ad4b-d8f09157f1d5",
+        "credit_card_number": "8788-4559-3971-5763",
+        "credit_card_expiry_date": "2029-03-01",
+        "credit_card_type": "discover",
+        "user_id": "fdeb734d-1d9f-4e6a-8b40-be31107058cc",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6887,
+        "uid": "fe62dfac-85f8-4e58-9c74-4b2b50c326f5",
+        "credit_card_number": "2582-8921-6025-7438",
+        "credit_card_expiry_date": "2021-03-01",
+        "credit_card_type": "visa",
+        "user_id": "0923af98-d7fe-4c1f-a709-0277141ca13a",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2622,
+        "uid": "a16ad8ee-e389-44c7-a4e8-2e15922f6aa6",
+        "credit_card_number": "6488-6188-2186-6415",
+        "credit_card_expiry_date": "2027-12-01",
+        "credit_card_type": "discover",
+        "user_id": "15f26fb1-7eb6-4e65-abac-237c7c3ad0ac",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7375,
+        "uid": "b8f93b00-de43-4e21-8f78-94daaca607f4",
+        "credit_card_number": "9462-3258-3946-6117",
+        "credit_card_expiry_date": "2027-01-01",
+        "credit_card_type": "discover",
+        "user_id": "758a6310-8614-4f59-9840-1f6af29f1370",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7069,
+        "uid": "cdebf3d1-2d6c-425e-98e0-7fbfabba7e3d",
+        "credit_card_number": "6988-4422-6870-1470",
+        "credit_card_expiry_date": "2023-07-01",
+        "credit_card_type": "mastercard",
+        "user_id": "749ccb51-c9d5-4ac3-9f54-f48aad27e001",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2543,
+        "uid": "f8988b6b-252b-43ee-80d6-a92ec0fbc89c",
+        "credit_card_number": "6177-8492-2665-8937",
+        "credit_card_expiry_date": "2030-03-01",
+        "credit_card_type": "discover",
+        "user_id": "c3129008-781d-473a-ac4f-8e47a0187998",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6033,
+        "uid": "ce1368ca-975e-49f3-8db9-03bdd3e83eb8",
+        "credit_card_number": "8441-8268-8724-1951",
+        "credit_card_expiry_date": "2024-10-01",
+        "credit_card_type": "mastercard",
+        "user_id": "71df473c-4fb2-4df8-9c8e-1842ed7920ef",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5001,
+        "uid": "152a265d-ecb4-4023-a3c7-85e4076b6485",
+        "credit_card_number": "3494-2648-5531-5872",
+        "credit_card_expiry_date": "2027-11-01",
+        "credit_card_type": "mastercard",
+        "user_id": "9e567f96-c066-47e6-b433-30b5e305e000",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5652,
+        "uid": "76e22702-d737-42d1-84fa-c3a8e22bcced",
+        "credit_card_number": "1407-1057-8018-3442",
+        "credit_card_expiry_date": "2023-07-01",
+        "credit_card_type": "visa",
+        "user_id": "6714133d-2bb6-4765-8db5-d4b8a4f091b7",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2691,
+        "uid": "69741ea8-1cef-465c-8e82-9a52d312b6e0",
+        "credit_card_number": "7690-6270-9510-4055",
+        "credit_card_expiry_date": "2028-05-01",
+        "credit_card_type": "laser",
+        "user_id": "81315103-c5af-4e06-be4c-3b3383dade3e",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 8391,
+        "uid": "cf719abc-e0ad-40ed-b405-59c6678f48e2",
+        "credit_card_number": "4244-7536-6128-7470",
+        "credit_card_expiry_date": "2022-01-01",
+        "credit_card_type": "diners_club",
+        "user_id": "4c0c21d0-7127-4223-98d3-9880b7731f80",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 3034,
+        "uid": "3f308665-bce7-421f-9c76-65624bb220a3",
+        "credit_card_number": "9232-3602-7886-5939",
+        "credit_card_expiry_date": "2021-03-01",
+        "credit_card_type": "mastercard",
+        "user_id": "9966fa29-71c3-4e3a-87f2-1d31c63c6ba2",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 8518,
+        "uid": "0ba7969f-f8ea-4117-8a2c-b207b538a044",
+        "credit_card_number": "9830-1756-7874-2832",
+        "credit_card_expiry_date": "2026-07-01",
+        "credit_card_type": "discover",
+        "user_id": "0205c23e-4fac-4d32-a21c-38899666028c",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2074,
+        "uid": "6bb74d21-39ba-485b-9528-643788c70dd1",
+        "credit_card_number": "5331-2279-8875-6330",
+        "credit_card_expiry_date": "2025-04-01",
+        "credit_card_type": "mastercard",
+        "user_id": "65a72509-c9f4-466e-bee6-abb194f9bf41",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2095,
+        "uid": "99c04d4d-efb6-4a5d-b3e5-c1fc1d9b7801",
+        "credit_card_number": "8414-3603-5690-8211",
+        "credit_card_expiry_date": "2029-05-01",
+        "credit_card_type": "visa",
+        "user_id": "0db4e14a-1a61-47ba-9df7-05a0a1ea719a",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6979,
+        "uid": "8d3dee83-5909-4e8f-9d7e-b690aba665f4",
+        "credit_card_number": "2482-6306-8247-5939",
+        "credit_card_expiry_date": "2025-09-01",
+        "credit_card_type": "mastercard",
+        "user_id": "40071839-649d-4b22-b5d9-a84d02251bbc",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9608,
+        "uid": "d6bbdce6-06c6-447f-8c41-e5abdb2f3790",
+        "credit_card_number": "5199-3865-9256-8860",
+        "credit_card_expiry_date": "2029-11-01",
+        "credit_card_type": "visa",
+        "user_id": "78c5276f-b723-43ee-9d44-1761797e7db8",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5761,
+        "uid": "d7a4cf15-4874-40fb-9c21-267b1c61b2c5",
+        "credit_card_number": "6683-9302-2622-8077",
+        "credit_card_expiry_date": "2023-01-01",
+        "credit_card_type": "diners_club",
+        "user_id": "0fc4aae2-1ea9-4820-8445-da1208e79f5c",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9049,
+        "uid": "21417276-fcc9-450e-874a-93d7efca8b03",
+        "credit_card_number": "3707-8991-6469-6791",
+        "credit_card_expiry_date": "2030-03-01",
+        "credit_card_type": "discover",
+        "user_id": "0c9549c3-22f4-409c-a05f-da17a50e59e6",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4935,
+        "uid": "881a1748-0fa5-44be-8388-2cd3906d3568",
+        "credit_card_number": "5455-8018-8042-9799",
+        "credit_card_expiry_date": "2024-10-01",
+        "credit_card_type": "laser",
+        "user_id": "bc757163-4d07-4fe0-b8ba-de2bbac81d6c",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7735,
+        "uid": "fc56489f-1163-4d33-a712-538800fa3c15",
+        "credit_card_number": "3752-7068-4145-2333",
+        "credit_card_expiry_date": "2025-09-01",
+        "credit_card_type": "visa",
+        "user_id": "f12dd834-74ac-4518-b14e-0936fbdd9b34",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5688,
+        "uid": "c2a21a48-f4d8-4ddb-b9e8-2f43b0f8f720",
+        "credit_card_number": "7920-5613-7347-9730",
+        "credit_card_expiry_date": "2027-09-01",
+        "credit_card_type": "mastercard",
+        "user_id": "f4e640d8-8cf4-499d-bd2d-3e0bcd5221be",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 1464,
+        "uid": "2ac85f05-062e-473d-88c0-64fd3fea415a",
+        "credit_card_number": "3141-5193-9547-2533",
+        "credit_card_expiry_date": "2030-07-01",
+        "credit_card_type": "discover",
+        "user_id": "f6ad3044-8c62-482a-a58c-3a165a9370e3",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2889,
+        "uid": "c48d5252-d7cd-423d-9894-6cbf67f28532",
+        "credit_card_number": "9569-1099-8196-5211",
+        "credit_card_expiry_date": "2030-08-01",
+        "credit_card_type": "laser",
+        "user_id": "490b6bfb-84cf-4995-9a2a-861f19ddac21",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5580,
+        "uid": "a3c74150-1941-48b4-b055-03351c1c6b9b",
+        "credit_card_number": "9363-1680-7109-5005",
+        "credit_card_expiry_date": "2030-06-01",
+        "credit_card_type": "laser",
+        "user_id": "2f727d96-92a5-4650-84a0-9ae566c51313",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9932,
+        "uid": "ee71a616-a075-4eef-b6c3-c6d2bbc5ef30",
+        "credit_card_number": "9453-1555-9925-9125",
+        "credit_card_expiry_date": "2027-08-01",
+        "credit_card_type": "mastercard",
+        "user_id": "d8d7ec34-548e-4a39-bf85-3bd329592e70",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5026,
+        "uid": "1fe0b0f9-60d4-47fd-9692-db34c3dfb391",
+        "credit_card_number": "3845-1114-8552-6421",
+        "credit_card_expiry_date": "2030-05-01",
+        "credit_card_type": "discover",
+        "user_id": "b646d32b-2179-4c95-a15d-10af31296143",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9219,
+        "uid": "cc7bfed3-747f-4de1-b799-c704a811fcd5",
+        "credit_card_number": "7237-5390-1839-8972",
+        "credit_card_expiry_date": "2027-11-01",
+        "credit_card_type": "laser",
+        "user_id": "da5ef7c1-5c6f-4de3-869b-733dd2ae6b40",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6036,
+        "uid": "4d33f8a0-461e-4dc4-b46a-924cb558d788",
+        "credit_card_number": "8094-2044-6332-7121",
+        "credit_card_expiry_date": "2025-04-01",
+        "credit_card_type": "mastercard",
+        "user_id": "a2326068-abed-4b99-b094-e157f9784528",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2522,
+        "uid": "005440f9-46fb-4da4-be6c-fb1f50fc5826",
+        "credit_card_number": "1445-8857-3432-3437",
+        "credit_card_expiry_date": "2021-07-01",
+        "credit_card_type": "mastercard",
+        "user_id": "ffcc2927-fe12-4ee9-af98-b5824ff74abc",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 3888,
+        "uid": "1333dc5b-b94a-4130-be5b-35d624edfb0b",
+        "credit_card_number": "4204-2809-1687-6960",
+        "credit_card_expiry_date": "2030-10-01",
+        "credit_card_type": "laser",
+        "user_id": "643f6cb3-80db-4a6e-a986-7937e71bacf3",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4117,
+        "uid": "c45efd1a-07fa-44e8-8111-b222d3a862ba",
+        "credit_card_number": "6425-4645-9511-3512",
+        "credit_card_expiry_date": "2029-04-01",
+        "credit_card_type": "diners_club",
+        "user_id": "f30451be-fdde-448c-afc4-324a68325073",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 3428,
+        "uid": "cc12b8c2-74e7-4be0-a205-75f5c0a82db2",
+        "credit_card_number": "5102-3793-7627-8386",
+        "credit_card_expiry_date": "2029-01-01",
+        "credit_card_type": "mastercard",
+        "user_id": "124b6452-24e0-46de-81c6-b3b8be0ecc10",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 1411,
+        "uid": "4df02f9b-5582-40c6-92a0-622c542613c5",
+        "credit_card_number": "8703-4414-3464-4174",
+        "credit_card_expiry_date": "2022-05-01",
+        "credit_card_type": "visa",
+        "user_id": "db112527-42d4-4f3f-b742-58a1b95659a1",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 1454,
+        "uid": "5581bd68-301e-4994-aa4e-02cac8db84a6",
+        "credit_card_number": "5434-7834-4048-7199",
+        "credit_card_expiry_date": "2025-11-01",
+        "credit_card_type": "visa",
+        "user_id": "b0bb31fb-9f6b-4ecb-a619-305a3ebb9740",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6044,
+        "uid": "fd93a8a7-2fc1-4d13-991e-9f6232f50716",
+        "credit_card_number": "2961-1700-5411-6806",
+        "credit_card_expiry_date": "2025-09-01",
+        "credit_card_type": "discover",
+        "user_id": "3164f199-08ad-4f88-a64c-f5660ff52cc9",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9215,
+        "uid": "8274e564-ca8e-4273-9f76-eb8d184a0513",
+        "credit_card_number": "9246-7169-3363-4087",
+        "credit_card_expiry_date": "2026-08-01",
+        "credit_card_type": "mastercard",
+        "user_id": "e494f3a1-3d8c-4e9c-a935-92322f2f701b",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 1168,
+        "uid": "db8e3418-d1c0-43fd-8f1d-e40b2b6a632c",
+        "credit_card_number": "7487-8500-6723-5307",
+        "credit_card_expiry_date": "2021-09-01",
+        "credit_card_type": "mastercard",
+        "user_id": "25a19485-8cd6-4a5a-9a86-a883d17c5a7d",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5793,
+        "uid": "fe6eb423-b9ef-40c8-a093-1074e52b0413",
+        "credit_card_number": "8228-9591-5945-9673",
+        "credit_card_expiry_date": "2021-04-01",
+        "credit_card_type": "mastercard",
+        "user_id": "d109c1c2-15a1-4429-a833-97547e725e3c",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 8390,
+        "uid": "9e1dd2cd-8dd3-473f-a2e4-c4efef50ec00",
+        "credit_card_number": "1667-1061-8991-1702",
+        "credit_card_expiry_date": "2026-01-01",
+        "credit_card_type": "visa",
+        "user_id": "589a5336-e401-4b95-ae4b-dc48f8003284",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2567,
+        "uid": "cc4b898a-fbe6-45b6-83d0-f7ffdff2b530",
+        "credit_card_number": "4435-7850-8188-8436",
+        "credit_card_expiry_date": "2028-03-01",
+        "credit_card_type": "laser",
+        "user_id": "59e0c81a-f19b-40ce-a7b9-4b1eca38a622",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4415,
+        "uid": "336db126-3674-40fe-b66d-a5a7568145d5",
+        "credit_card_number": "8979-7754-1401-6915",
+        "credit_card_expiry_date": "2029-02-01",
+        "credit_card_type": "visa",
+        "user_id": "1baf9859-87ea-4f52-9f29-d4da117c3ab6",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 3142,
+        "uid": "048ed22d-4bf1-4f07-90f2-69efc7b2b092",
+        "credit_card_number": "2290-7420-5003-3125",
+        "credit_card_expiry_date": "2022-06-01",
+        "credit_card_type": "laser",
+        "user_id": "62bd6333-219e-471a-a43a-ed770713e6e8",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5065,
+        "uid": "80b351da-6a45-4731-a7f0-7a80dc5a2dfc",
+        "credit_card_number": "9230-2023-9540-6000",
+        "credit_card_expiry_date": "2025-03-01",
+        "credit_card_type": "mastercard",
+        "user_id": "f84dc086-79c4-447f-893e-9b4d2d3ba031",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6011,
+        "uid": "abb47227-e468-46a0-9e79-4ed7fe9a1a1e",
+        "credit_card_number": "9464-8367-1587-8602",
+        "credit_card_expiry_date": "2026-08-01",
+        "credit_card_type": "laser",
+        "user_id": "3ac4508d-f00a-431a-a548-dde089a06c1f",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9659,
+        "uid": "a3eee0b4-92e1-44e3-b7aa-aa31b9ed23b3",
+        "credit_card_number": "1059-9259-4314-7487",
+        "credit_card_expiry_date": "2021-06-01",
+        "credit_card_type": "visa",
+        "user_id": "9bb2b53c-6e07-466c-9202-2842e1999ad9",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 8647,
+        "uid": "a71b0f0f-d796-4ec8-9d76-99a1b572aa3c",
+        "credit_card_number": "3308-6860-4483-5705",
+        "credit_card_expiry_date": "2021-07-01",
+        "credit_card_type": "visa",
+        "user_id": "98f2fabc-f989-4bd1-af68-8456e04645ee",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4801,
+        "uid": "06a430d8-f6df-4d74-b93d-5c25e66c8761",
+        "credit_card_number": "8993-4007-4390-7422",
+        "credit_card_expiry_date": "2021-12-01",
+        "credit_card_type": "laser",
+        "user_id": "2af54acc-4cb4-47bc-9ee2-4070d95288ea",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7493,
+        "uid": "91cc81f3-affb-4c7b-a752-fa9ea0b918b9",
+        "credit_card_number": "8180-9365-5032-8604",
+        "credit_card_expiry_date": "2023-10-01",
+        "credit_card_type": "diners_club",
+        "user_id": "eb42f705-f065-403e-9318-9964ffd0021e",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2577,
+        "uid": "0b230ba6-feb6-4a8f-917c-c9fd0a00ad67",
+        "credit_card_number": "4934-2066-5856-1447",
+        "credit_card_expiry_date": "2028-10-01",
+        "credit_card_type": "diners_club",
+        "user_id": "1a1caa0f-05ef-42e2-85e1-eafa52943e62",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 5680,
+        "uid": "6ddfa3b6-2fe4-4c4c-ba38-8fc3854f074b",
+        "credit_card_number": "6236-4691-8285-9284",
+        "credit_card_expiry_date": "2023-07-01",
+        "credit_card_type": "visa",
+        "user_id": "bee9ed1f-5f76-4978-9d63-862b95fa3b59",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4188,
+        "uid": "78ff9910-23a0-4082-b499-93b004308e3e",
+        "credit_card_number": "6835-1452-4911-9630",
+        "credit_card_expiry_date": "2025-01-01",
+        "credit_card_type": "laser",
+        "user_id": "2d87a057-1c60-43ac-83ee-922f9dadb526",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7813,
+        "uid": "9f6c9013-4f39-41b9-af44-c6a8188b06d9",
+        "credit_card_number": "2985-2559-6292-1317",
+        "credit_card_expiry_date": "2024-07-01",
+        "credit_card_type": "visa",
+        "user_id": "c018a098-f916-41aa-aaa8-46145c9b969b",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2263,
+        "uid": "e406c9dd-1070-49e3-8e69-2087bdb57e1a",
+        "credit_card_number": "6309-9402-7800-1549",
+        "credit_card_expiry_date": "2023-10-01",
+        "credit_card_type": "discover",
+        "user_id": "5297fd80-457d-4287-b0ca-a2e319e0e36a",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2596,
+        "uid": "61eb8c93-2c7e-449f-8744-851794d7fe72",
+        "credit_card_number": "1629-2978-7571-7136",
+        "credit_card_expiry_date": "2025-11-01",
+        "credit_card_type": "laser",
+        "user_id": "265cfb47-fac9-454f-853c-b931fe336b17",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 6277,
+        "uid": "390fe69a-f0a6-450a-a0f7-124fb626aeb4",
+        "credit_card_number": "8317-1070-2395-5621",
+        "credit_card_expiry_date": "2030-01-01",
+        "credit_card_type": "visa",
+        "user_id": "47fcf337-c1a4-4fdd-8931-92b05329cc7f",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7410,
+        "uid": "0cf25033-1fdb-473d-b6f5-dab58456a6fa",
+        "credit_card_number": "2198-5625-4274-9194",
+        "credit_card_expiry_date": "2030-10-01",
+        "credit_card_type": "visa",
+        "user_id": "186597e5-119c-4e99-9173-6b6781a2d864",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 8627,
+        "uid": "3c8d3540-3958-44a7-9493-129363ae5327",
+        "credit_card_number": "2022-7744-5610-8511",
+        "credit_card_expiry_date": "2029-11-01",
+        "credit_card_type": "discover",
+        "user_id": "86d35c05-2901-4bca-a5ad-9c6658db9be0",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7472,
+        "uid": "630cc49d-3956-441d-97fc-7c2d1e65ea4c",
+        "credit_card_number": "3257-9552-5015-2900",
+        "credit_card_expiry_date": "2029-10-01",
+        "credit_card_type": "discover",
+        "user_id": "5473fcd7-03d6-4d3d-86e3-babddea68183",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7764,
+        "uid": "ca2d2090-190c-4eaa-a0d0-b8caf9785b9a",
+        "credit_card_number": "9553-4694-1190-9461",
+        "credit_card_expiry_date": "2026-09-01",
+        "credit_card_type": "laser",
+        "user_id": "d0f6cbf3-2829-43f7-a212-6479c44cc3fe",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 3636,
+        "uid": "d4ea2ea8-b807-475b-9d2c-1c61f63ba169",
+        "credit_card_number": "7547-5660-8288-1210",
+        "credit_card_expiry_date": "2026-11-01",
+        "credit_card_type": "mastercard",
+        "user_id": "89cde4a9-db65-46e1-a91a-640b4e166b65",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4378,
+        "uid": "741a6b3c-24ab-4b1e-880b-0844e334bd47",
+        "credit_card_number": "2542-3391-2023-4515",
+        "credit_card_expiry_date": "2027-01-01",
+        "credit_card_type": "discover",
+        "user_id": "710a1182-6028-45f3-956a-a7a83d3dde98",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 4953,
+        "uid": "a5ca22fc-b22d-428b-bc93-9bf6ec016ecf",
+        "credit_card_number": "4624-8280-4859-6235",
+        "credit_card_expiry_date": "2024-07-01",
+        "credit_card_type": "laser",
+        "user_id": "a10c5c14-daee-4a7f-9410-9aec06a7c2dc",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9688,
+        "uid": "0f9b2457-a05f-447e-b6bd-66e7778cd4ce",
+        "credit_card_number": "4299-7592-6755-1605",
+        "credit_card_expiry_date": "2024-06-01",
+        "credit_card_type": "visa",
+        "user_id": "675ebb8d-2d88-4c4a-9513-75317300edce",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 9680,
+        "uid": "9213c0f5-c2b8-4cb2-b041-674336f4f877",
+        "credit_card_number": "6563-8206-7766-7461",
+        "credit_card_expiry_date": "2023-07-01",
+        "credit_card_type": "diners_club",
+        "user_id": "806b01bd-3742-489a-a371-17c4db386e5d",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 7005,
+        "uid": "cddb0cd0-5eb5-43e4-a25f-99f15efd0ab2",
+        "credit_card_number": "9650-5413-2767-5366",
+        "credit_card_expiry_date": "2024-05-01",
+        "credit_card_type": "laser",
+        "user_id": "1364378e-9e97-4db0-8f8c-830bee169e0d",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    },
+    {
+        "id": 2535,
+        "uid": "071b2ecb-1cea-4966-ab5f-6d149608143b",
+        "credit_card_number": "6182-2635-3195-6651",
+        "credit_card_expiry_date": "2027-09-01",
+        "credit_card_type": "discover",
+        "user_id": "c2da8fc6-7caa-4af7-8e9b-8736ac9728bc",
+        "dt_current_timestamp": "2024-01-17 17:00:20"
+    }
+]

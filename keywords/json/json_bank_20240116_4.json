@@ -1,0 +1,702 @@
+[
+    {
+        "id": 4784,
+        "uid": "3125d72c-5fce-4010-bd60-c7677c7816c0",
+        "keywords": "[{\"id\": 4958, \"name\": \"court\"}, {\"id\": 8532, \"name\": \"marvel comic\"}]",
+        "user_id": "a9e7f4c0-3d79-446b-b44e-55ae3ee05b9f",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 2505,
+        "uid": "863fe26a-d730-4464-8333-bb8f1bef265b",
+        "keywords": "[{\"id\": 6536, \"name\": \"court\"}, {\"id\": 5593, \"name\": \"mutant\"}]",
+        "user_id": "1ff091de-d15c-480c-917f-9ed7442ad73e",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9428,
+        "uid": "1d9341a1-ed77-4bc4-8d9a-0a6202d515dd",
+        "keywords": "[{\"id\": 9064, \"name\": \"murder\"}]",
+        "user_id": "094bd1b3-540e-4129-9d58-8c11e31625f6",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5109,
+        "uid": "563eb967-2f39-4e92-abca-d6dcd9b391b7",
+        "keywords": "[{\"id\": 6374, \"name\": \"murder\"}, {\"id\": 2167, \"name\": \"courtroom drama\"}, {\"id\": 1465, \"name\": \"marvel comic\"}]",
+        "user_id": "91701ee9-5b0a-411c-82a6-112f3a0c1145",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5000,
+        "uid": "5ef5755b-0839-4be1-9dd2-c7930f019b4d",
+        "keywords": "[{\"id\": 9571, \"name\": \"murder\"}, {\"id\": 6021, \"name\": \"terror\"}, {\"id\": 7129, \"name\": \"court\"}]",
+        "user_id": "608f4b82-69f5-4c6e-8734-9b5d5b4c7788",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6601,
+        "uid": "79de9709-d9aa-4321-877b-cdc857a77c37",
+        "keywords": "[{\"id\": 7506, \"name\": \"independent film\"}, {\"id\": 3401, \"name\": \"murder\"}]",
+        "user_id": "9e410645-96ff-4964-93bf-53a1ea42252f",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4002,
+        "uid": "69481233-3d76-477a-a580-82fb6b1c4ebc",
+        "keywords": "[{\"id\": 9539, \"name\": \"murder\"}]",
+        "user_id": "15ecf9b6-769f-400e-8174-a1963254a5bd",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6049,
+        "uid": "db56769f-5241-4cd4-b4fd-af05957b9c63",
+        "keywords": "[{\"id\": 9085, \"name\": \"hip-hop\"}, {\"id\": 2315, \"name\": \"corruption\"}, {\"id\": 5901, \"name\": \"terror\"}]",
+        "user_id": "1028627a-cb0f-4e34-84ed-f950a5f8f4a1",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1554,
+        "uid": "bb286242-4b8a-43ec-a0f9-b7c4bf474336",
+        "keywords": "[{\"id\": 8208, \"name\": \"mutant\"}]",
+        "user_id": "54e08e9e-cf86-4a36-830f-306d1c030fec",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1716,
+        "uid": "150a72fb-64d0-4c07-b146-05544d2413c9",
+        "keywords": "[{\"id\": 6747, \"name\": \"war on terror\"}, {\"id\": 6931, \"name\": \"terror\"}, {\"id\": 5313, \"name\": \"murder\"}]",
+        "user_id": "c8f68cbf-cc2d-459a-8a43-803159dc69d4",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5072,
+        "uid": "e8a84caf-0f4a-465d-862e-c89cd0b4c3dc",
+        "keywords": "[{\"id\": 452, \"name\": \"courtroom drama\"}, {\"id\": 6111, \"name\": \"independent film\"}]",
+        "user_id": "75408989-3d96-453a-8820-4034967afe5f",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 8920,
+        "uid": "234dc2ff-ccd5-4e76-a835-f17ee69a9a4f",
+        "keywords": "[{\"id\": 8399, \"name\": \"hip-hop\"}]",
+        "user_id": "78bced13-a288-402f-bfc1-daa3821a9e06",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5300,
+        "uid": "4bb3ba64-edaf-47fc-9d05-06ac97dc6521",
+        "keywords": "[{\"id\": 571, \"name\": \"courtroom drama\"}, {\"id\": 1062, \"name\": \"terror\"}]",
+        "user_id": "814a91eb-b265-4ab2-ab45-f483883090db",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 2494,
+        "uid": "d5949201-fe58-40b3-aaf2-0ff285ac4ba4",
+        "keywords": "[{\"id\": 1831, \"name\": \"war on terror\"}, {\"id\": 9915, \"name\": \"independent film\"}, {\"id\": 8359, \"name\": \"mutant\"}]",
+        "user_id": "0cfd47b2-5724-4576-8dfc-af3cc54c8dd3",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6089,
+        "uid": "91857e39-4e89-4d68-aff6-da577f156fea",
+        "keywords": "[{\"id\": 8341, \"name\": \"terror\"}]",
+        "user_id": "fb24c384-57b4-49cb-8b8f-744712ab3955",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9876,
+        "uid": "88310d2b-565c-488c-9e53-db67227c2527",
+        "keywords": "[{\"id\": 3974, \"name\": \"courtroom drama\"}]",
+        "user_id": "a64d4e8f-8c92-41dd-850b-999d32ab356f",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 2589,
+        "uid": "a133567a-7cc0-41c2-a0bc-53645f74b6c2",
+        "keywords": "[{\"id\": 1310, \"name\": \"war on terror\"}, {\"id\": 8757, \"name\": \"corruption\"}]",
+        "user_id": "1d3e46b9-6033-4df1-88a0-4d364df83183",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7895,
+        "uid": "02c515df-5802-41a0-b6f3-98f1266cabd0",
+        "keywords": "[{\"id\": 5054, \"name\": \"murder\"}]",
+        "user_id": "478ab6e6-d34f-492c-abd4-122609e4ebe1",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3260,
+        "uid": "0d6a707a-1730-4944-9c3e-f96c30b95e16",
+        "keywords": "[{\"id\": 9729, \"name\": \"hip-hop\"}, {\"id\": 6775, \"name\": \"war on terror\"}, {\"id\": 1352, \"name\": \"courtroom drama\"}]",
+        "user_id": "2f583958-0e38-4a13-83b9-a84ae893fd67",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5473,
+        "uid": "a7fc55b8-ca03-46ae-b1fb-a17d14c7118f",
+        "keywords": "[{\"id\": 7768, \"name\": \"war on terror\"}, {\"id\": 5502, \"name\": \"economic theory\"}, {\"id\": 1335, \"name\": \"independent film\"}]",
+        "user_id": "2fed7efd-b80e-41e4-bb53-f9b530af95c7",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1831,
+        "uid": "6fbdb4e2-4def-4535-b381-873a90f45583",
+        "keywords": "[{\"id\": 9808, \"name\": \"murder\"}, {\"id\": 6393, \"name\": \"mutant\"}, {\"id\": 5365, \"name\": \"war on terror\"}]",
+        "user_id": "0c104669-9c2e-4ec7-9d8c-62729a0d7138",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1303,
+        "uid": "235dabfa-3c5b-4cbe-9498-010209cf7491",
+        "keywords": "[{\"id\": 5577, \"name\": \"economic theory\"}]",
+        "user_id": "acd835a2-af25-4248-aab3-0d10e5c164bc",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1678,
+        "uid": "2fc00ffc-7347-4a14-938e-d08d7b08cc32",
+        "keywords": "[{\"id\": 5649, \"name\": \"marvel comic\"}, {\"id\": 3466, \"name\": \"murder\"}, {\"id\": 8576, \"name\": \"independent film\"}]",
+        "user_id": "0665e6b7-4473-4f8e-8efb-ceed13a56bf0",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5579,
+        "uid": "36cb7e19-0dea-4d11-ac63-533445d54ad3",
+        "keywords": "[{\"id\": 2821, \"name\": \"economic theory\"}]",
+        "user_id": "ee0e1914-ebb5-441d-ada0-208788563e1e",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1124,
+        "uid": "3ad024aa-b2d9-45e8-ad5e-e449491b7474",
+        "keywords": "[{\"id\": 296, \"name\": \"war on terror\"}, {\"id\": 283, \"name\": \"corruption\"}, {\"id\": 784, \"name\": \"hip-hop\"}]",
+        "user_id": "5be51729-ebf9-4990-9bcc-a1b8fcc83e79",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 2237,
+        "uid": "c1b49ead-a953-4f55-b78c-3ca76cc626ca",
+        "keywords": "[{\"id\": 7770, \"name\": \"terror\"}, {\"id\": 9406, \"name\": \"marvel comic\"}]",
+        "user_id": "efab600e-8e6d-40bb-b42f-6d8f700602ff",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4372,
+        "uid": "0b9f42c1-ecb7-4317-a229-96f5286e89c9",
+        "keywords": "[{\"id\": 4450, \"name\": \"court\"}, {\"id\": 1163, \"name\": \"marvel comic\"}]",
+        "user_id": "71da65cf-48ce-4e01-b7f0-b15c8791803f",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 2128,
+        "uid": "7ef0aec8-1cf4-4138-951c-37ab2b848bc7",
+        "keywords": "[{\"id\": 5117, \"name\": \"murder\"}, {\"id\": 155, \"name\": \"mutant\"}, {\"id\": 8069, \"name\": \"corruption\"}]",
+        "user_id": "a7b01227-ca09-493f-8fd3-dc8d14a4195b",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7678,
+        "uid": "2b7afb1b-8ab2-4b52-8d3a-cc5894d5bc7f",
+        "keywords": "[{\"id\": 3644, \"name\": \"war on terror\"}, {\"id\": 5675, \"name\": \"corruption\"}]",
+        "user_id": "ce518211-e4e5-4899-a936-9d43295a2b2e",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5551,
+        "uid": "03e39fd8-6838-4bca-8248-0c6f42c963bb",
+        "keywords": "[{\"id\": 6698, \"name\": \"murder\"}, {\"id\": 8154, \"name\": \"marvel comic\"}, {\"id\": 5292, \"name\": \"detective\"}]",
+        "user_id": "ade693b4-350d-4704-9dab-58cd60ca2668",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9089,
+        "uid": "1e480f0f-2b99-42d5-9330-b4fb63456b50",
+        "keywords": "[{\"id\": 2195, \"name\": \"war on terror\"}]",
+        "user_id": "5094c72b-6c23-4ad4-b2a9-769253ac342b",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4693,
+        "uid": "f30a4275-0e79-4e38-8f78-df5a697f4b3e",
+        "keywords": "[{\"id\": 9398, \"name\": \"terror\"}]",
+        "user_id": "40ad9fb1-0c57-4bc3-a4d3-50d4cfe58021",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6013,
+        "uid": "f619e13b-8114-4aec-aa2b-c58d06f06930",
+        "keywords": "[{\"id\": 4923, \"name\": \"court\"}, {\"id\": 5003, \"name\": \"economic theory\"}]",
+        "user_id": "8ddeec69-b4fa-4246-acea-fc8f273b5c59",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5944,
+        "uid": "8e973699-d7d5-4134-91e7-8122fa57eac6",
+        "keywords": "[{\"id\": 6694, \"name\": \"murder\"}, {\"id\": 783, \"name\": \"detective\"}, {\"id\": 5313, \"name\": \"courtroom drama\"}]",
+        "user_id": "148a912a-5c2e-49d7-a4cf-6502aad4db4f",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4746,
+        "uid": "047293dd-d987-4d0d-9d2a-98577ffc7bc3",
+        "keywords": "[{\"id\": 906, \"name\": \"independent film\"}, {\"id\": 6177, \"name\": \"court\"}]",
+        "user_id": "60a8ef55-2666-407a-9d78-78b7e8c33e1f",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6903,
+        "uid": "63fc90f6-4955-46af-a903-6d5afa55c693",
+        "keywords": "[{\"id\": 8655, \"name\": \"hip-hop\"}, {\"id\": 2261, \"name\": \"war on terror\"}, {\"id\": 2371, \"name\": \"detective\"}]",
+        "user_id": "1622a9a5-e094-4f61-be0a-43faf36506f6",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4291,
+        "uid": "3cb0b939-95fd-4506-ba6e-e6abf4948ddf",
+        "keywords": "[{\"id\": 976, \"name\": \"economic theory\"}, {\"id\": 1203, \"name\": \"murder\"}, {\"id\": 6398, \"name\": \"independent film\"}]",
+        "user_id": "70dd62d3-0080-4b07-82dd-0a62628728bc",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5176,
+        "uid": "b55552df-bce1-45b0-9ca3-46dd8ea7f445",
+        "keywords": "[{\"id\": 9205, \"name\": \"independent film\"}, {\"id\": 6135, \"name\": \"war on terror\"}, {\"id\": 868, \"name\": \"murder\"}]",
+        "user_id": "e9a94db2-c927-4093-b403-ab55cdd58ab0",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7483,
+        "uid": "2f71ce4d-a045-4e92-985f-5cb8ddca2aea",
+        "keywords": "[{\"id\": 2569, \"name\": \"court\"}]",
+        "user_id": "fb6756f5-672e-4d83-aee5-9bd5a765bea5",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 8076,
+        "uid": "8217148d-86f9-4ffb-aae6-86fbc4f9e343",
+        "keywords": "[{\"id\": 8737, \"name\": \"terror\"}]",
+        "user_id": "17bbbb39-be82-44ee-aadd-75ac699395f5",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 8535,
+        "uid": "719d2335-3b6c-47c7-ab3a-a4266ebe7607",
+        "keywords": "[{\"id\": 1229, \"name\": \"terror\"}]",
+        "user_id": "1c968d84-763e-42d5-99bb-9369b8996019",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1115,
+        "uid": "2555bc28-6721-4828-a0ac-d4d1de132ede",
+        "keywords": "[{\"id\": 5480, \"name\": \"courtroom drama\"}]",
+        "user_id": "9d5eb260-b0c9-4cfa-a3d8-adeabf043f39",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7210,
+        "uid": "bcd65e41-b63c-4bd6-9891-c516f9a1bc40",
+        "keywords": "[{\"id\": 7914, \"name\": \"court\"}, {\"id\": 2669, \"name\": \"courtroom drama\"}, {\"id\": 7257, \"name\": \"marvel comic\"}]",
+        "user_id": "c016fba7-7053-4a25-b4b3-2e4c3a40ccc1",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5917,
+        "uid": "2663c0a0-5d77-4351-acd7-e44e2391d08f",
+        "keywords": "[{\"id\": 9504, \"name\": \"court\"}]",
+        "user_id": "152807b4-f8b8-4e1d-be76-2a45ef782659",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4880,
+        "uid": "e1501d20-a880-4dd4-8915-703ee07a14df",
+        "keywords": "[{\"id\": 4615, \"name\": \"terror\"}, {\"id\": 8608, \"name\": \"court\"}, {\"id\": 5065, \"name\": \"war on terror\"}]",
+        "user_id": "a0358dca-2a1b-4f8e-bc69-6e01594f5f3d",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7339,
+        "uid": "5705df70-bbb4-49fb-bc03-9d75d1b034bc",
+        "keywords": "[{\"id\": 8838, \"name\": \"mutant\"}]",
+        "user_id": "d2a41ccb-be09-4765-becd-a55074c13ef6",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5970,
+        "uid": "8e011e7e-610e-4527-9e50-d485cc9e5a02",
+        "keywords": "[{\"id\": 6698, \"name\": \"economic theory\"}, {\"id\": 7735, \"name\": \"corruption\"}]",
+        "user_id": "7186c85c-f2be-46ca-8065-98c4c0189bfe",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 2896,
+        "uid": "4142d881-822f-4455-9b9e-af020eca0c96",
+        "keywords": "[{\"id\": 130, \"name\": \"war on terror\"}]",
+        "user_id": "de1cb292-a6e7-4fd3-9038-9aaedef9b26d",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6929,
+        "uid": "9baaaa1d-53f8-4b78-bcb7-ae932583a0cc",
+        "keywords": "[{\"id\": 1562, \"name\": \"murder\"}]",
+        "user_id": "8b1d07f9-c73d-4bbc-b3be-a0a1187fa94e",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4089,
+        "uid": "13234df6-e7d0-4b65-a129-526facae6f04",
+        "keywords": "[{\"id\": 8796, \"name\": \"court\"}]",
+        "user_id": "5e157048-3d84-4221-9126-9e0edfccba75",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 8287,
+        "uid": "6747b01d-7c94-4699-a4f1-44ac71842c53",
+        "keywords": "[{\"id\": 7513, \"name\": \"terror\"}, {\"id\": 9321, \"name\": \"hip-hop\"}, {\"id\": 8154, \"name\": \"marvel comic\"}]",
+        "user_id": "9e88d0b8-563f-4575-bf3f-d0e3c3525348",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3952,
+        "uid": "100508b8-57c7-4249-b029-88cd44cd4acb",
+        "keywords": "[{\"id\": 2208, \"name\": \"economic theory\"}, {\"id\": 861, \"name\": \"corruption\"}, {\"id\": 780, \"name\": \"war on terror\"}]",
+        "user_id": "74398328-a9b4-4c91-a205-8de841ba979f",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1081,
+        "uid": "820a11a9-28b4-4c04-892a-a723131c1dbc",
+        "keywords": "[{\"id\": 3854, \"name\": \"independent film\"}, {\"id\": 8629, \"name\": \"court\"}, {\"id\": 5034, \"name\": \"economic theory\"}]",
+        "user_id": "bf26ba48-fb77-42d7-9023-773b00f2b855",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9035,
+        "uid": "0e65ab24-ffda-4883-a2db-80f856b08d9c",
+        "keywords": "[{\"id\": 6727, \"name\": \"court\"}, {\"id\": 9218, \"name\": \"murder\"}, {\"id\": 7601, \"name\": \"mutant\"}]",
+        "user_id": "3178ff57-5bde-4212-a3f4-2bb42f730aec",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5656,
+        "uid": "ff281af8-4042-4ad7-97dd-61537fa41867",
+        "keywords": "[{\"id\": 7085, \"name\": \"mutant\"}, {\"id\": 9465, \"name\": \"terror\"}]",
+        "user_id": "2d085a55-ed5b-477f-98ac-0ce5b00f79ba",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3524,
+        "uid": "344e3a72-df50-4338-a3af-9599a441945f",
+        "keywords": "[{\"id\": 9134, \"name\": \"terror\"}, {\"id\": 5553, \"name\": \"independent film\"}, {\"id\": 7278, \"name\": \"court\"}]",
+        "user_id": "90fc001c-7886-4dc5-8a36-a079890bf7df",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3659,
+        "uid": "903d252a-27bf-4f57-b073-8f34d16c0d30",
+        "keywords": "[{\"id\": 5384, \"name\": \"independent film\"}, {\"id\": 6324, \"name\": \"murder\"}]",
+        "user_id": "a8d84c09-9c27-49bc-a05b-da8b99b0f08a",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7458,
+        "uid": "fdfe55e4-1017-4976-9fef-0da0369d6557",
+        "keywords": "[{\"id\": 9767, \"name\": \"terror\"}]",
+        "user_id": "62798906-1543-416a-9483-cd43498c7a31",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3711,
+        "uid": "507e4ee6-e9be-40ff-b34f-c41b78fb883a",
+        "keywords": "[{\"id\": 7814, \"name\": \"war on terror\"}, {\"id\": 4230, \"name\": \"marvel comic\"}, {\"id\": 6289, \"name\": \"court\"}]",
+        "user_id": "3dd043c1-59b3-40c8-b1c0-dc8c9e87b72d",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4434,
+        "uid": "75fa232f-b672-4007-9640-702594b1754a",
+        "keywords": "[{\"id\": 9976, \"name\": \"terror\"}]",
+        "user_id": "8c172af4-3f12-4c2a-bac8-3bb6d3862a6d",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3928,
+        "uid": "b15286fd-f38f-4bce-959c-541bd01e144e",
+        "keywords": "[{\"id\": 7779, \"name\": \"detective\"}, {\"id\": 4870, \"name\": \"war on terror\"}]",
+        "user_id": "dfbea2bf-8989-451b-abc6-eb56fb017b57",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7387,
+        "uid": "49da4b03-012b-48de-b87d-665fa937a6bf",
+        "keywords": "[{\"id\": 9840, \"name\": \"detective\"}, {\"id\": 5492, \"name\": \"terror\"}, {\"id\": 6991, \"name\": \"corruption\"}]",
+        "user_id": "b2d9f349-e263-49a0-99c1-3d8bf0173543",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 2490,
+        "uid": "a63fa37a-3270-47ce-83a0-b1c8ec70231d",
+        "keywords": "[{\"id\": 484, \"name\": \"terror\"}, {\"id\": 4641, \"name\": \"independent film\"}, {\"id\": 9664, \"name\": \"corruption\"}]",
+        "user_id": "3a95201e-16e9-4181-8fbe-46f511cad3d6",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5688,
+        "uid": "309847e8-c568-417a-a005-a28acea34ab2",
+        "keywords": "[{\"id\": 3479, \"name\": \"mutant\"}, {\"id\": 7221, \"name\": \"independent film\"}]",
+        "user_id": "8a7bf245-4d02-497d-9426-d95045a92090",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9376,
+        "uid": "913c28c2-41cd-413d-a4a1-abc9ebe005f2",
+        "keywords": "[{\"id\": 4013, \"name\": \"court\"}, {\"id\": 3850, \"name\": \"mutant\"}]",
+        "user_id": "370f629d-bde9-4b0d-81bf-03d39b7aa00f",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4822,
+        "uid": "67971910-eada-4df0-a841-90443dbc7a6a",
+        "keywords": "[{\"id\": 733, \"name\": \"mutant\"}]",
+        "user_id": "60aed699-92fb-4558-a465-52b33b271f83",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6776,
+        "uid": "0c890f65-6dd3-4724-92e5-dd6a9474e4cb",
+        "keywords": "[{\"id\": 5429, \"name\": \"detective\"}]",
+        "user_id": "22c3a4be-010b-4201-b2c9-38b5730e7b92",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 8265,
+        "uid": "77f3dfd5-f586-47ca-9d05-69eae48cd138",
+        "keywords": "[{\"id\": 1339, \"name\": \"independent film\"}, {\"id\": 6165, \"name\": \"mutant\"}]",
+        "user_id": "2e918cf3-1096-46bc-98b3-81ed9009e47e",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3176,
+        "uid": "354f1967-0b1c-4133-901b-517eae9e5207",
+        "keywords": "[{\"id\": 4644, \"name\": \"court\"}, {\"id\": 7732, \"name\": \"economic theory\"}]",
+        "user_id": "6cbcbff7-5f5a-49c9-ae14-824e3edd8356",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6850,
+        "uid": "f1d3e91f-db67-48d5-bffc-d72277d67b06",
+        "keywords": "[{\"id\": 5523, \"name\": \"marvel comic\"}]",
+        "user_id": "2deac742-3e4b-453c-985d-17a13b5927d5",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9967,
+        "uid": "fe7666e9-b850-4d37-81fc-6915d4ef72de",
+        "keywords": "[{\"id\": 9201, \"name\": \"courtroom drama\"}, {\"id\": 4718, \"name\": \"marvel comic\"}]",
+        "user_id": "dd7f50c0-3a1e-44a8-beee-67fe6d9e7ee1",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7790,
+        "uid": "e9ea5c94-8b28-48bf-985e-6412bf876866",
+        "keywords": "[{\"id\": 7378, \"name\": \"mutant\"}, {\"id\": 7663, \"name\": \"court\"}]",
+        "user_id": "eb138417-0e5b-4b50-b13f-1a4796a42839",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7433,
+        "uid": "7652c949-ba69-4c24-8b33-df38c85af2ed",
+        "keywords": "[{\"id\": 9418, \"name\": \"mutant\"}]",
+        "user_id": "28929484-47a3-4da4-bbe3-45bff8e48934",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6337,
+        "uid": "4f3bd22e-80d9-4d4b-a689-e62985851ec4",
+        "keywords": "[{\"id\": 3128, \"name\": \"mutant\"}]",
+        "user_id": "23fe3aba-d2d6-4ee6-8247-6dc7f6366655",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6177,
+        "uid": "95385d28-b5cc-405f-98da-c45336e3d0bb",
+        "keywords": "[{\"id\": 9610, \"name\": \"economic theory\"}, {\"id\": 7905, \"name\": \"independent film\"}, {\"id\": 5413, \"name\": \"war on terror\"}]",
+        "user_id": "420aca79-f3ab-4aae-9949-7e813a17e436",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 2721,
+        "uid": "bdc558cb-dc85-4b5a-8f8d-2e010d17ad51",
+        "keywords": "[{\"id\": 9828, \"name\": \"economic theory\"}]",
+        "user_id": "552bf07a-1c87-4741-97ce-fb1f3a9817e4",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7743,
+        "uid": "4746c185-9b36-4f42-9530-6308736ebf29",
+        "keywords": "[{\"id\": 675, \"name\": \"marvel comic\"}]",
+        "user_id": "8faebdb2-92bf-46c6-becb-4b9cd5a3f014",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7955,
+        "uid": "cf76a425-fe85-497c-ae55-c4efb60f5405",
+        "keywords": "[{\"id\": 3435, \"name\": \"terror\"}, {\"id\": 8828, \"name\": \"court\"}, {\"id\": 6037, \"name\": \"war on terror\"}]",
+        "user_id": "118d3683-ce10-4f5c-9789-6182b9bc9af7",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1065,
+        "uid": "0857e53c-d5ae-4a1b-ae50-a866a3a79545",
+        "keywords": "[{\"id\": 9289, \"name\": \"corruption\"}, {\"id\": 6375, \"name\": \"terror\"}]",
+        "user_id": "d6b3062b-7710-450d-91bb-5e9ad1729bff",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4271,
+        "uid": "49f732d9-bf51-45fd-a9d8-812f6bac5441",
+        "keywords": "[{\"id\": 4537, \"name\": \"terror\"}, {\"id\": 9562, \"name\": \"marvel comic\"}]",
+        "user_id": "cac78d65-1f64-4050-be5b-406bd3f52ae6",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1880,
+        "uid": "9aadb761-5d01-4d95-857b-2b5244b39dc0",
+        "keywords": "[{\"id\": 1769, \"name\": \"detective\"}]",
+        "user_id": "123b4c17-f374-47f6-8727-6c7e0cc64d13",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 8768,
+        "uid": "9c324425-2045-4d3b-962c-feb9b549a8c6",
+        "keywords": "[{\"id\": 1919, \"name\": \"war on terror\"}]",
+        "user_id": "b2174361-9414-4d6c-8547-345f293adce1",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3444,
+        "uid": "47a19af1-1692-41ec-8a2b-9cadc96cfd23",
+        "keywords": "[{\"id\": 1545, \"name\": \"economic theory\"}]",
+        "user_id": "87862ed2-41ff-416f-b1ad-b8434593594b",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9373,
+        "uid": "13f0a591-11c2-48bc-9492-eeed2d46d0aa",
+        "keywords": "[{\"id\": 2072, \"name\": \"independent film\"}, {\"id\": 807, \"name\": \"economic theory\"}]",
+        "user_id": "0f9e3bb4-32d2-4acf-be57-40de486cbffb",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 1399,
+        "uid": "b14bdf2f-b248-432d-911d-3cbbbd5f8ec0",
+        "keywords": "[{\"id\": 2799, \"name\": \"economic theory\"}]",
+        "user_id": "6dc989de-8986-4a12-8f2d-cc76815fe0ae",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5737,
+        "uid": "c4a6cf8f-4958-4b19-a3dd-d42618dbbd91",
+        "keywords": "[{\"id\": 2807, \"name\": \"marvel comic\"}, {\"id\": 5831, \"name\": \"hip-hop\"}, {\"id\": 5866, \"name\": \"war on terror\"}]",
+        "user_id": "80c52f1f-adf4-4e4f-8d3a-0b506347d4ff",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9769,
+        "uid": "1d6df244-d93b-427d-b3e2-c3cc5d7137fc",
+        "keywords": "[{\"id\": 1898, \"name\": \"economic theory\"}, {\"id\": 4348, \"name\": \"court\"}]",
+        "user_id": "382d39f5-a06d-41dd-8ad3-597b635e8003",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3518,
+        "uid": "ac9486f0-bc08-4750-bf36-c5c30d10634c",
+        "keywords": "[{\"id\": 2215, \"name\": \"war on terror\"}, {\"id\": 2916, \"name\": \"economic theory\"}, {\"id\": 615, \"name\": \"marvel comic\"}]",
+        "user_id": "918ceef0-fc18-437e-9ed3-383868d70a78",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 3922,
+        "uid": "c6716b70-6b4a-4058-85ae-7783b97c2e66",
+        "keywords": "[{\"id\": 3653, \"name\": \"independent film\"}, {\"id\": 8819, \"name\": \"court\"}]",
+        "user_id": "20d49bf1-f1cf-4a3b-acf1-f118d2dc621a",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7687,
+        "uid": "aa2c83b8-93c2-478d-a523-4c8334438573",
+        "keywords": "[{\"id\": 8286, \"name\": \"courtroom drama\"}, {\"id\": 413, \"name\": \"war on terror\"}]",
+        "user_id": "e039023c-bb0a-4667-9c20-0d311c55dcf2",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5382,
+        "uid": "559015f2-1784-4a24-8f31-fc81990f111d",
+        "keywords": "[{\"id\": 3462, \"name\": \"independent film\"}]",
+        "user_id": "6e709265-61be-48c8-8865-65f1a0bc98e4",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 7532,
+        "uid": "e410e98a-85f2-4515-83d2-d12ebc740c11",
+        "keywords": "[{\"id\": 4156, \"name\": \"independent film\"}, {\"id\": 9447, \"name\": \"detective\"}, {\"id\": 3312, \"name\": \"war on terror\"}]",
+        "user_id": "e73142f4-3906-464b-a64b-119cbe42a779",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 6368,
+        "uid": "4f377ab2-831c-4b82-b9c9-75a5e9b6463a",
+        "keywords": "[{\"id\": 4810, \"name\": \"mutant\"}, {\"id\": 2859, \"name\": \"terror\"}, {\"id\": 4631, \"name\": \"detective\"}]",
+        "user_id": "afae0514-9b98-4ede-a049-a129d6ab5eec",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9617,
+        "uid": "5f5ae0d8-d8a1-4ced-95fb-d5f5d20e4004",
+        "keywords": "[{\"id\": 1157, \"name\": \"war on terror\"}, {\"id\": 4681, \"name\": \"court\"}]",
+        "user_id": "3836650b-9d84-4e8e-aba0-b80b51d06553",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 4725,
+        "uid": "38d547a7-ab1c-4a37-b323-4a36275070fa",
+        "keywords": "[{\"id\": 4531, \"name\": \"court\"}]",
+        "user_id": "ef17db95-619c-49a9-9657-1a51a3581e5d",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5673,
+        "uid": "42624ddf-a190-4229-88e8-ecee51a73479",
+        "keywords": "[{\"id\": 1525, \"name\": \"marvel comic\"}]",
+        "user_id": "63f114ca-2c7d-4cae-9c95-c14263b9a5e2",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 2875,
+        "uid": "793f9204-aa3d-42b0-90b3-aac335c1c38f",
+        "keywords": "[{\"id\": 440, \"name\": \"marvel comic\"}, {\"id\": 6074, \"name\": \"war on terror\"}, {\"id\": 7546, \"name\": \"court\"}]",
+        "user_id": "05899654-638f-49e6-a9f7-2b3c4827eb73",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 9296,
+        "uid": "a81a0c03-71e1-4832-8d7c-b62179d610fa",
+        "keywords": "[{\"id\": 8519, \"name\": \"marvel comic\"}, {\"id\": 6970, \"name\": \"murder\"}]",
+        "user_id": "277d905e-3e5f-49ef-9ade-f73426c335eb",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 5740,
+        "uid": "e4559ca8-b0fb-448c-9258-f73af0b679e0",
+        "keywords": "[{\"id\": 4044, \"name\": \"corruption\"}]",
+        "user_id": "24e4edc4-ae4f-4a83-870e-79ebf3cfc4c4",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    },
+    {
+        "id": 8024,
+        "uid": "be79b737-e6a5-4f02-ade1-b03ba1a5420d",
+        "keywords": "[{\"id\": 1698, \"name\": \"war on terror\"}]",
+        "user_id": "fb31505c-dfa5-4af1-8f92-773edf1ae8cb",
+        "dt_current_timestamp": "2024-01-17 17:21:11"
+    }
+]

@@ -1,0 +1,101 @@
+id,uid,keywords,user_id,dt_current_timestamp
+2345,032133cd-90e0-40a7-bbf5-197c341cb9d4,"[{""id"": 6954, ""name"": ""murder""}, {""id"": 5610, ""name"": ""detective""}]",6808a3b8-2230-4027-97d3-e2eb67a2d3e2,2024-01-17 17:21:11
+8508,e59fc7d1-97c9-48b0-98c5-466b555d9c45,"[{""id"": 6314, ""name"": ""mutant""}]",a94c130f-fc56-4f58-ac71-c7ef4b0a446a,2024-01-17 17:21:11
+6238,5cc93fb1-ce6b-4937-b7a3-f4b627febe36,"[{""id"": 9248, ""name"": ""economic theory""}, {""id"": 3404, ""name"": ""independent film""}]",24cf2eea-b334-40f8-bd56-d5da6b6cf291,2024-01-17 17:21:11
+3741,f81c318e-ee81-45a1-8588-498f8c81f6a5,"[{""id"": 5675, ""name"": ""corruption""}]",5db08085-3b32-4ad8-b5bf-de23d33db48a,2024-01-17 17:21:11
+3853,06ccc7c1-a746-4451-a67d-d671ac97f22f,"[{""id"": 9149, ""name"": ""detective""}]",6aae6fbf-1a35-428f-9d72-ed1f2378fcf5,2024-01-17 17:21:11
+2117,5d5dd6ba-4420-4682-90a5-b1f3cad59979,"[{""id"": 5523, ""name"": ""marvel comic""}, {""id"": 3707, ""name"": ""hip-hop""}]",d4daf90e-92ec-411e-a8fd-cc67847b4c8b,2024-01-17 17:21:11
+6027,ddede664-50d4-42ab-89e7-b951f54153fe,"[{""id"": 4909, ""name"": ""marvel comic""}, {""id"": 4590, ""name"": ""corruption""}, {""id"": 5119, ""name"": ""murder""}]",1de5f09a-10c6-4bc1-a7fd-3f5fd4628e60,2024-01-17 17:21:11
+1267,eb13a04a-7e87-487e-83bb-1bbea3f52950,"[{""id"": 3539, ""name"": ""corruption""}]",83110bd1-8c45-4d58-a7a9-71c74a4bfdec,2024-01-17 17:21:11
+1657,b1a4c20d-cbd3-4ebf-b786-12b988a6a408,"[{""id"": 7416, ""name"": ""marvel comic""}, {""id"": 568, ""name"": ""hip-hop""}, {""id"": 6572, ""name"": ""courtroom drama""}]",51266c9c-c77f-4afd-af22-4d3a14b7fa3f,2024-01-17 17:21:11
+3080,1ace8882-bc50-48fb-963d-1c9699ad56f6,"[{""id"": 5743, ""name"": ""terror""}, {""id"": 3438, ""name"": ""marvel comic""}, {""id"": 9949, ""name"": ""economic theory""}]",ae22a074-813a-4a50-b3da-cb6f880c82a9,2024-01-17 17:21:11
+9123,3f96b260-0fca-48c8-9782-8e2b0ee185b7,"[{""id"": 1572, ""name"": ""terror""}]",052acbd1-43f7-4d59-8213-f91fafc0bf98,2024-01-17 17:21:11
+7789,1401f754-507a-4f24-a275-99284f39a348,"[{""id"": 3876, ""name"": ""court""}, {""id"": 6267, ""name"": ""independent film""}, {""id"": 6877, ""name"": ""courtroom drama""}]",c4c04ad5-18c7-4095-853e-0875496ee797,2024-01-17 17:21:11
+6407,42a8fdff-7087-4ab3-9f9f-4894ca09d91f,"[{""id"": 4671, ""name"": ""hip-hop""}, {""id"": 8633, ""name"": ""courtroom drama""}]",9d460064-ec5a-4881-a01b-ea4b2dd36bbf,2024-01-17 17:21:11
+2836,36401f41-e585-489a-a962-1159d50129a7,"[{""id"": 1274, ""name"": ""corruption""}]",ffbc1596-f012-4146-9161-0e26b261e429,2024-01-17 17:21:11
+7594,5d816cde-e8fa-454d-b214-82cb2f2fcde9,"[{""id"": 1897, ""name"": ""courtroom drama""}]",12012cfa-1418-443c-ba71-a2685df8f16d,2024-01-17 17:21:11
+8505,d5832d65-1d8e-47c3-8e0e-9348c2cd416b,"[{""id"": 9665, ""name"": ""war on terror""}]",a4028cf7-f3fb-44f4-b4cb-eb3832b3a2fa,2024-01-17 17:21:11
+7216,365a5429-4262-48a8-ae1d-7eec99f565d7,"[{""id"": 4199, ""name"": ""mutant""}, {""id"": 1737, ""name"": ""marvel comic""}]",506020a3-79fd-444a-9c36-f6f9e9c41406,2024-01-17 17:21:11
+7068,013d2f6c-8ad5-414d-847c-0c833db2402e,"[{""id"": 4509, ""name"": ""corruption""}]",ba18e60c-ad21-4a5b-9d12-ddbe1301cc4f,2024-01-17 17:21:11
+7119,09622534-4eb5-409e-81bf-59dcd6d30c2e,"[{""id"": 6478, ""name"": ""court""}, {""id"": 3466, ""name"": ""detective""}, {""id"": 4898, ""name"": ""mutant""}]",46d228b2-a4f7-4d2b-954e-a34eda44265f,2024-01-17 17:21:11
+1024,d5f054c2-fc68-4e97-a332-9a4fc47e5c1f,"[{""id"": 9306, ""name"": ""terror""}, {""id"": 9832, ""name"": ""courtroom drama""}, {""id"": 596, ""name"": ""marvel comic""}]",b51214d0-e547-4fee-8d14-9edc6ad2f307,2024-01-17 17:21:11
+3979,970b0b5a-c62c-42d9-b811-d4e3126ae6e6,"[{""id"": 2164, ""name"": ""detective""}, {""id"": 6885, ""name"": ""economic theory""}]",d50468f0-b34d-4c9f-8967-b3c955d69f4d,2024-01-17 17:21:11
+7845,1112b54f-7bf2-4fdf-b70e-b84018821b59,"[{""id"": 6405, ""name"": ""courtroom drama""}]",ca5e9370-6fe5-4814-afea-9bdcc5e0f9c1,2024-01-17 17:21:11
+9375,0544ecc4-f9e4-435d-a5df-88cd0b6db5e6,"[{""id"": 5549, ""name"": ""mutant""}, {""id"": 5364, ""name"": ""court""}]",45f283fc-589c-41a6-9e7a-493a6ce70ab9,2024-01-17 17:21:11
+7682,8f537481-5f42-45a2-9fff-23c58b908832,"[{""id"": 4480, ""name"": ""court""}, {""id"": 6255, ""name"": ""courtroom drama""}, {""id"": 4169, ""name"": ""detective""}]",835d9f2d-70ee-4636-8193-ac1567ccf3d6,2024-01-17 17:21:11
+3790,df3b163f-14b5-4192-9362-ffaefed32e9b,"[{""id"": 5674, ""name"": ""hip-hop""}]",ce60ae86-6ba3-454e-8ee4-769c7b51b8f6,2024-01-17 17:21:11
+3606,029720b7-9f72-4a3c-a7ad-e0426b82b0f5,"[{""id"": 5887, ""name"": ""terror""}, {""id"": 2309, ""name"": ""war on terror""}, {""id"": 899, ""name"": ""hip-hop""}]",7590b474-617c-4de5-8340-c8d1ba524ead,2024-01-17 17:21:11
+1456,ca09bf43-27d4-46a2-935a-5945145aaf2f,"[{""id"": 3387, ""name"": ""corruption""}]",912510c3-b8d7-4ab3-8c47-1a27849c56a9,2024-01-17 17:21:11
+3617,6f4ffe66-ba35-468d-857e-73818ba6f207,"[{""id"": 9442, ""name"": ""murder""}]",cdb02f64-618c-4476-9312-ebba41c1af73,2024-01-17 17:21:11
+8840,5594d722-f877-4c6f-a17d-272af1ad7589,"[{""id"": 8098, ""name"": ""war on terror""}]",82181457-bcfb-497e-b488-b389e03e0e7c,2024-01-17 17:21:11
+1089,734750ef-5262-40cd-a2da-a053da581104,"[{""id"": 6519, ""name"": ""marvel comic""}]",295245a7-995c-4d42-b999-73d8971430fd,2024-01-17 17:21:11
+8131,800c3551-e71d-420f-94c0-384c7c4ae617,"[{""id"": 1905, ""name"": ""economic theory""}]",b15abf57-30b6-4ee1-810d-80da94102743,2024-01-17 17:21:11
+1192,7cd9b2f1-15c5-4507-9dd6-8f18b5a823b0,"[{""id"": 9786, ""name"": ""marvel comic""}, {""id"": 6530, ""name"": ""corruption""}]",c26209a7-2fdc-451a-be7f-93e9f16c3ff6,2024-01-17 17:21:11
+6181,b1a37f2e-b7ad-4627-a4cd-1fca4c64c708,"[{""id"": 8701, ""name"": ""marvel comic""}]",016994b9-81b3-43bb-89c2-ad7b7ca618fb,2024-01-17 17:21:11
+1381,2e5b356c-85d8-4dc2-81c0-469e1f107e73,"[{""id"": 9303, ""name"": ""economic theory""}, {""id"": 8248, ""name"": ""court""}]",fdeb734d-1d9f-4e6a-8b40-be31107058cc,2024-01-17 17:21:11
+3840,c8d11677-0e4d-423a-abc3-c8b6f258fcab,"[{""id"": 4524, ""name"": ""marvel comic""}]",0923af98-d7fe-4c1f-a709-0277141ca13a,2024-01-17 17:21:11
+6121,47b222d5-ff8a-461e-97f2-49fe6f466e96,"[{""id"": 7878, ""name"": ""court""}, {""id"": 7507, ""name"": ""corruption""}, {""id"": 7340, ""name"": ""marvel comic""}]",15f26fb1-7eb6-4e65-abac-237c7c3ad0ac,2024-01-17 17:21:11
+6027,24ef09ba-a9f0-4022-829b-cb22d7d10a19,"[{""id"": 1196, ""name"": ""mutant""}, {""id"": 4694, ""name"": ""hip-hop""}]",758a6310-8614-4f59-9840-1f6af29f1370,2024-01-17 17:21:11
+1871,9d650ed2-0d22-45c8-9277-ff7652223d03,"[{""id"": 5220, ""name"": ""court""}]",749ccb51-c9d5-4ac3-9f54-f48aad27e001,2024-01-17 17:21:11
+5981,a8e8d4ee-e40d-41a7-ba6e-e51fbcbbb5db,"[{""id"": 7819, ""name"": ""courtroom drama""}]",c3129008-781d-473a-ac4f-8e47a0187998,2024-01-17 17:21:11
+5832,904aca84-3315-4d16-8331-453fdf34395b,"[{""id"": 4458, ""name"": ""hip-hop""}]",71df473c-4fb2-4df8-9c8e-1842ed7920ef,2024-01-17 17:21:11
+4462,85602bbb-44bd-41cf-b78f-df4f8aaa42c8,"[{""id"": 573, ""name"": ""courtroom drama""}]",9e567f96-c066-47e6-b433-30b5e305e000,2024-01-17 17:21:11
+2333,9fef1dad-59fd-4a0f-96dd-3d82ab8fce24,"[{""id"": 7184, ""name"": ""murder""}, {""id"": 9035, ""name"": ""corruption""}]",6714133d-2bb6-4765-8db5-d4b8a4f091b7,2024-01-17 17:21:11
+7358,6eaf7224-af8e-42e9-86bc-30e13c848758,"[{""id"": 4123, ""name"": ""economic theory""}, {""id"": 8147, ""name"": ""detective""}]",81315103-c5af-4e06-be4c-3b3383dade3e,2024-01-17 17:21:11
+5915,266a09e3-064e-42d4-a967-0329509e313d,"[{""id"": 130, ""name"": ""marvel comic""}]",4c0c21d0-7127-4223-98d3-9880b7731f80,2024-01-17 17:21:11
+1836,b400fce1-f1b3-457a-adb4-b753faa1cb3f,"[{""id"": 502, ""name"": ""independent film""}, {""id"": 2823, ""name"": ""corruption""}, {""id"": 8777, ""name"": ""mutant""}]",9966fa29-71c3-4e3a-87f2-1d31c63c6ba2,2024-01-17 17:21:11
+2714,5ae659de-8042-44f4-901f-81861c98c72f,"[{""id"": 5669, ""name"": ""independent film""}, {""id"": 4243, ""name"": ""detective""}, {""id"": 2162, ""name"": ""economic theory""}]",0205c23e-4fac-4d32-a21c-38899666028c,2024-01-17 17:21:11
+4445,8218b7a5-fca6-4b0e-b4fc-715311c9f0b0,"[{""id"": 7992, ""name"": ""war on terror""}]",65a72509-c9f4-466e-bee6-abb194f9bf41,2024-01-17 17:21:11
+3154,5b146329-ac3a-4f00-acac-f64d8de36226,"[{""id"": 8828, ""name"": ""mutant""}, {""id"": 1550, ""name"": ""corruption""}, {""id"": 7373, ""name"": ""hip-hop""}]",0db4e14a-1a61-47ba-9df7-05a0a1ea719a,2024-01-17 17:21:11
+3595,302a0c1c-5242-4bc8-b279-ebddb225af3a,"[{""id"": 5108, ""name"": ""marvel comic""}]",40071839-649d-4b22-b5d9-a84d02251bbc,2024-01-17 17:21:11
+6421,5fcbcdaa-4387-498a-be5c-7e41031a6543,"[{""id"": 3902, ""name"": ""war on terror""}, {""id"": 4580, ""name"": ""mutant""}, {""id"": 4409, ""name"": ""terror""}]",78c5276f-b723-43ee-9d44-1761797e7db8,2024-01-17 17:21:11
+5237,d62498ba-8d3c-431e-b7ba-72356d7d13e2,"[{""id"": 4537, ""name"": ""murder""}, {""id"": 5923, ""name"": ""economic theory""}, {""id"": 1128, ""name"": ""courtroom drama""}]",0fc4aae2-1ea9-4820-8445-da1208e79f5c,2024-01-17 17:21:11
+1974,de1ee671-9202-46cd-891b-d27b51d4bcc6,"[{""id"": 7146, ""name"": ""mutant""}, {""id"": 729, ""name"": ""court""}]",0c9549c3-22f4-409c-a05f-da17a50e59e6,2024-01-17 17:21:11
+6481,2b2a7883-c796-4ed9-8516-33240433bdfb,"[{""id"": 5173, ""name"": ""hip-hop""}, {""id"": 7047, ""name"": ""terror""}, {""id"": 6779, ""name"": ""marvel comic""}]",bc757163-4d07-4fe0-b8ba-de2bbac81d6c,2024-01-17 17:21:11
+1153,50ccd78b-cf51-4740-8c91-f29deb362517,"[{""id"": 8147, ""name"": ""hip-hop""}, {""id"": 576, ""name"": ""war on terror""}]",f12dd834-74ac-4518-b14e-0936fbdd9b34,2024-01-17 17:21:11
+9596,95d48b0d-123f-431d-ae9e-1ce3d372e02a,"[{""id"": 6293, ""name"": ""independent film""}, {""id"": 1960, ""name"": ""court""}, {""id"": 8542, ""name"": ""mutant""}]",f4e640d8-8cf4-499d-bd2d-3e0bcd5221be,2024-01-17 17:21:11
+2785,67dcfe6b-fd37-4eea-a43a-1bb6935c013a,"[{""id"": 8139, ""name"": ""detective""}]",f6ad3044-8c62-482a-a58c-3a165a9370e3,2024-01-17 17:21:11
+7767,28a3b2fa-9b47-4f7a-848b-55205aa113f9,"[{""id"": 6614, ""name"": ""corruption""}, {""id"": 7566, ""name"": ""courtroom drama""}, {""id"": 2109, ""name"": ""court""}]",490b6bfb-84cf-4995-9a2a-861f19ddac21,2024-01-17 17:21:11
+1757,2ae1e3d6-330f-4408-bc1a-4733128ff500,"[{""id"": 1850, ""name"": ""independent film""}, {""id"": 3055, ""name"": ""corruption""}, {""id"": 5113, ""name"": ""war on terror""}]",2f727d96-92a5-4650-84a0-9ae566c51313,2024-01-17 17:21:11
+2752,adb7e97c-d3c5-4593-a43e-a25c070b6648,"[{""id"": 2733, ""name"": ""detective""}, {""id"": 2029, ""name"": ""murder""}]",d8d7ec34-548e-4a39-bf85-3bd329592e70,2024-01-17 17:21:11
+9693,d0ff6576-aef9-45b2-8691-5abc371a20a4,"[{""id"": 3682, ""name"": ""mutant""}]",b646d32b-2179-4c95-a15d-10af31296143,2024-01-17 17:21:11
+3223,efb73fea-96bb-485e-b99d-eef194b22734,"[{""id"": 3790, ""name"": ""independent film""}, {""id"": 5511, ""name"": ""terror""}]",da5ef7c1-5c6f-4de3-869b-733dd2ae6b40,2024-01-17 17:21:11
+7032,5deb7f9e-319a-4f5a-92dd-4646b273350a,"[{""id"": 3678, ""name"": ""courtroom drama""}, {""id"": 9817, ""name"": ""economic theory""}, {""id"": 2950, ""name"": ""war on terror""}]",a2326068-abed-4b99-b094-e157f9784528,2024-01-17 17:21:11
+3544,8c83f5b1-e473-475f-b679-ae3aa3644d65,"[{""id"": 7368, ""name"": ""murder""}, {""id"": 4686, ""name"": ""mutant""}]",ffcc2927-fe12-4ee9-af98-b5824ff74abc,2024-01-17 17:21:11
+4017,fe01d4cc-3a34-42b2-9668-d6c2c5b0adfd,"[{""id"": 3509, ""name"": ""economic theory""}, {""id"": 5500, ""name"": ""mutant""}]",643f6cb3-80db-4a6e-a986-7937e71bacf3,2024-01-17 17:21:11
+1002,2cb422d3-a2db-4eff-8631-f3a39c9ffdfc,"[{""id"": 5824, ""name"": ""court""}]",f30451be-fdde-448c-afc4-324a68325073,2024-01-17 17:21:11
+4420,9b5857f9-7143-4f7e-ba53-ff3706851a42,"[{""id"": 2050, ""name"": ""mutant""}, {""id"": 8378, ""name"": ""independent film""}, {""id"": 9380, ""name"": ""court""}]",124b6452-24e0-46de-81c6-b3b8be0ecc10,2024-01-17 17:21:11
+3844,558ce23c-626a-4d69-83fb-17794502cc74,"[{""id"": 5386, ""name"": ""marvel comic""}, {""id"": 9621, ""name"": ""terror""}, {""id"": 6876, ""name"": ""hip-hop""}]",db112527-42d4-4f3f-b742-58a1b95659a1,2024-01-17 17:21:11
+3642,8adf1f38-222b-420a-9703-d280b12314ee,"[{""id"": 8140, ""name"": ""hip-hop""}, {""id"": 2609, ""name"": ""corruption""}, {""id"": 5662, ""name"": ""independent film""}]",b0bb31fb-9f6b-4ecb-a619-305a3ebb9740,2024-01-17 17:21:11
+6552,33575fc0-fa85-4561-ad86-dcff60886f1f,"[{""id"": 1827, ""name"": ""mutant""}]",3164f199-08ad-4f88-a64c-f5660ff52cc9,2024-01-17 17:21:11
+2860,a9308e5c-cd05-4e8b-8c01-ec04ce256b3e,"[{""id"": 4406, ""name"": ""independent film""}, {""id"": 527, ""name"": ""economic theory""}, {""id"": 7454, ""name"": ""mutant""}]",e494f3a1-3d8c-4e9c-a935-92322f2f701b,2024-01-17 17:21:11
+2507,9db0a68f-a90c-44f4-980a-9fe54134d030,"[{""id"": 2427, ""name"": ""terror""}, {""id"": 5964, ""name"": ""murder""}]",25a19485-8cd6-4a5a-9a86-a883d17c5a7d,2024-01-17 17:21:11
+7769,32d10946-8787-4cb4-9cd2-8cee2fd2de52,"[{""id"": 6682, ""name"": ""courtroom drama""}, {""id"": 1853, ""name"": ""hip-hop""}]",d109c1c2-15a1-4429-a833-97547e725e3c,2024-01-17 17:21:11
+1488,8e4ba32b-de6c-4246-8815-9eade0ef1286,"[{""id"": 2296, ""name"": ""mutant""}, {""id"": 5543, ""name"": ""detective""}, {""id"": 7732, ""name"": ""war on terror""}]",589a5336-e401-4b95-ae4b-dc48f8003284,2024-01-17 17:21:11
+1330,5f1ef7b6-01d2-461d-9db4-f2f7c237ec26,"[{""id"": 1453, ""name"": ""war on terror""}]",59e0c81a-f19b-40ce-a7b9-4b1eca38a622,2024-01-17 17:21:11
+1539,4e00f1e8-c805-48c6-ab49-d0ed23a6bb59,"[{""id"": 9466, ""name"": ""courtroom drama""}, {""id"": 639, ""name"": ""detective""}, {""id"": 2546, ""name"": ""independent film""}]",1baf9859-87ea-4f52-9f29-d4da117c3ab6,2024-01-17 17:21:11
+5049,6d80097f-39ac-4042-af41-d53d061dab0d,"[{""id"": 4371, ""name"": ""independent film""}]",62bd6333-219e-471a-a43a-ed770713e6e8,2024-01-17 17:21:11
+4058,ea013d81-56d2-4a42-91f5-3fb4a681c2cc,"[{""id"": 627, ""name"": ""independent film""}, {""id"": 4206, ""name"": ""hip-hop""}]",f84dc086-79c4-447f-893e-9b4d2d3ba031,2024-01-17 17:21:11
+3177,a88b6f4a-7cc7-4710-bc8c-3c2159f202e9,"[{""id"": 1410, ""name"": ""court""}]",3ac4508d-f00a-431a-a548-dde089a06c1f,2024-01-17 17:21:11
+6752,b6889789-a860-4b42-9181-c5469477dcdf,"[{""id"": 4621, ""name"": ""mutant""}]",9bb2b53c-6e07-466c-9202-2842e1999ad9,2024-01-17 17:21:11
+4996,7f3b590e-e835-429d-9bfc-92aca30a02a7,"[{""id"": 467, ""name"": ""war on terror""}, {""id"": 8609, ""name"": ""mutant""}, {""id"": 8968, ""name"": ""corruption""}]",98f2fabc-f989-4bd1-af68-8456e04645ee,2024-01-17 17:21:11
+3349,77b0a3c7-489f-48d5-9c8a-6ed323e3419c,"[{""id"": 250, ""name"": ""marvel comic""}]",2af54acc-4cb4-47bc-9ee2-4070d95288ea,2024-01-17 17:21:11
+8611,da316964-adfc-4bb9-931b-8ac5409a1f83,"[{""id"": 8203, ""name"": ""detective""}]",eb42f705-f065-403e-9318-9964ffd0021e,2024-01-17 17:21:11
+1542,7a2bed29-5f33-47bd-8e2f-054160f50dc8,"[{""id"": 2305, ""name"": ""independent film""}]",1a1caa0f-05ef-42e2-85e1-eafa52943e62,2024-01-17 17:21:11
+1816,2fed50fe-6ed9-471a-94fd-325f4ac6a831,"[{""id"": 810, ""name"": ""terror""}, {""id"": 3092, ""name"": ""hip-hop""}]",bee9ed1f-5f76-4978-9d63-862b95fa3b59,2024-01-17 17:21:11
+3441,8b5cc7f9-15ab-4dec-a4e0-9bf4a3238f41,"[{""id"": 8833, ""name"": ""mutant""}, {""id"": 6189, ""name"": ""courtroom drama""}, {""id"": 8936, ""name"": ""war on terror""}]",2d87a057-1c60-43ac-83ee-922f9dadb526,2024-01-17 17:21:11
+7172,dc87aae4-7426-43ae-a5e9-c46f9e1c9b6d,"[{""id"": 3829, ""name"": ""mutant""}]",c018a098-f916-41aa-aaa8-46145c9b969b,2024-01-17 17:21:11
+3130,1425906e-da92-4ad2-aab6-245eda2a2c89,"[{""id"": 3306, ""name"": ""independent film""}, {""id"": 189, ""name"": ""terror""}]",5297fd80-457d-4287-b0ca-a2e319e0e36a,2024-01-17 17:21:11
+6040,5901b35b-3711-43b9-b297-f5b135f8b8fc,"[{""id"": 4091, ""name"": ""marvel comic""}, {""id"": 5080, ""name"": ""war on terror""}]",265cfb47-fac9-454f-853c-b931fe336b17,2024-01-17 17:21:11
+7458,bf09b953-cbf4-4951-8379-7a4b600141e4,"[{""id"": 823, ""name"": ""marvel comic""}, {""id"": 4838, ""name"": ""detective""}]",47fcf337-c1a4-4fdd-8931-92b05329cc7f,2024-01-17 17:21:11
+4158,b0af2cb4-72b5-4689-8fc6-4c3aaa5c6113,"[{""id"": 792, ""name"": ""detective""}, {""id"": 7977, ""name"": ""murder""}, {""id"": 391, ""name"": ""hip-hop""}]",186597e5-119c-4e99-9173-6b6781a2d864,2024-01-17 17:21:11
+9913,f1a10df9-a9ab-4099-abc4-d50338fb1682,"[{""id"": 9416, ""name"": ""war on terror""}, {""id"": 3246, ""name"": ""economic theory""}, {""id"": 1015, ""name"": ""murder""}]",86d35c05-2901-4bca-a5ad-9c6658db9be0,2024-01-17 17:21:11
+7874,d838b58c-673e-4ea9-9df5-2a02edc80859,"[{""id"": 6477, ""name"": ""economic theory""}]",5473fcd7-03d6-4d3d-86e3-babddea68183,2024-01-17 17:21:11
+4630,69841e2f-cc67-46bf-8f05-f74aa811aff8,"[{""id"": 7038, ""name"": ""economic theory""}]",d0f6cbf3-2829-43f7-a212-6479c44cc3fe,2024-01-17 17:21:11
+3444,d205f736-6c0b-4a5e-9341-2455a4f98522,"[{""id"": 7127, ""name"": ""marvel comic""}, {""id"": 251, ""name"": ""economic theory""}]",89cde4a9-db65-46e1-a91a-640b4e166b65,2024-01-17 17:21:11
+3256,2e1771b0-32eb-4387-af50-e3408d7924ce,"[{""id"": 3831, ""name"": ""courtroom drama""}]",710a1182-6028-45f3-956a-a7a83d3dde98,2024-01-17 17:21:11
+6891,8f344816-ef15-4237-9e2d-75a9fd3530f7,"[{""id"": 5578, ""name"": ""terror""}, {""id"": 9499, ""name"": ""murder""}]",a10c5c14-daee-4a7f-9410-9aec06a7c2dc,2024-01-17 17:21:11
+3404,9bf8ad8f-fb10-415e-9d18-c5efbe773a75,"[{""id"": 560, ""name"": ""war on terror""}, {""id"": 5564, ""name"": ""courtroom drama""}, {""id"": 6847, ""name"": ""independent film""}]",675ebb8d-2d88-4c4a-9513-75317300edce,2024-01-17 17:21:11
+9815,fcc5c062-6f07-446a-93d1-ecfebd863a28,"[{""id"": 1539, ""name"": ""hip-hop""}]",806b01bd-3742-489a-a371-17c4db386e5d,2024-01-17 17:21:11
+8802,ce16aad5-dc61-4aad-b213-94ac7af4c231,"[{""id"": 2824, ""name"": ""economic theory""}, {""id"": 1577, ""name"": ""war on terror""}]",1364378e-9e97-4db0-8f8c-830bee169e0d,2024-01-17 17:21:11
+9956,5d875676-bfed-4317-aec9-1ac08de89113,"[{""id"": 9074, ""name"": ""war on terror""}, {""id"": 8593, ""name"": ""courtroom drama""}, {""id"": 1100, ""name"": ""terror""}]",c2da8fc6-7caa-4af7-8e9b-8736ac9728bc,2024-01-17 17:21:11

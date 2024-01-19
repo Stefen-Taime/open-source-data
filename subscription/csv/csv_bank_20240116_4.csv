@@ -1,0 +1,101 @@
+id,uid,plan,status,payment_method,subscription_term,payment_term,user_id,dt_current_timestamp
+9038,4d5e33c2-aeec-459f-8c22-01895d085918,Basic,Cancelled,Alipay,Lifetime,Pay per Use,a9e7f4c0-3d79-446b-b44e-55ae3ee05b9f,2024-01-17 20:22:27
+9396,fc20dc92-569c-45e5-9270-ba710c64fe95,Basic,Cancelled,Google Pay,Lifetime,Full Subscription,1ff091de-d15c-480c-917f-9ed7442ad73e,2024-01-17 20:22:27
+2595,8ea83da1-21c9-45d2-922f-2b38fa8c4945,Platinum,Blocked,Credit Card,Lifetime,Pay per Use,094bd1b3-540e-4129-9d58-8c11e31625f6,2024-01-17 20:22:27
+3639,0b7761f4-455a-4ffe-9359-1abff39cf018,Gold,Active,Credit Card,Lifetime,Full Subscription,91701ee9-5b0a-411c-82a6-112f3a0c1145,2024-01-17 20:22:27
+1224,221f7c56-e36b-4bae-8ac9-8a944a8cc784,Standard,Blocked,Paypal,Quinquennal,Monthly Payment,608f4b82-69f5-4c6e-8734-9b5d5b4c7788,2024-01-17 20:22:27
+8594,f4a4b462-b84f-4f14-8677-a79f8d5b627c,Gold,Active,Money Transfer,Quinquennal,Pay per Use,9e410645-96ff-4964-93bf-53a1ea42252f,2024-01-17 20:22:27
+8257,bbd74fb4-1ef4-4e8c-86dd-2b9f554a8c6e,Platinum,Cancelled,Bitcoins,Monthly,Monthly Payment,15ecf9b6-769f-400e-8174-a1963254a5bd,2024-01-17 20:22:27
+1255,243e5764-0a53-463a-bdbb-a09142da028b,Platinum,Active,Paypal,Quinquennal,Payment in Advance,1028627a-cb0f-4e34-84ed-f950a5f8f4a1,2024-01-17 20:22:27
+9611,e87124c8-45a3-44d3-a4b2-bc3e1f3c8ffb,Basic,Blocked,Paypal,Yearly,Payment in Advance,54e08e9e-cf86-4a36-830f-306d1c030fec,2024-01-17 20:22:27
+9111,ee028b56-1859-41b3-a26a-8aab3a5f7fb4,Gold,Cancelled,Money Transfer,Weekly,Pay per Use,c8f68cbf-cc2d-459a-8a43-803159dc69d4,2024-01-17 20:22:27
+8167,caef556d-7544-489a-9da0-b69e1754161e,Standard,Cancelled,Alipay,Weekly,Payment in Advance,75408989-3d96-453a-8820-4034967afe5f,2024-01-17 20:22:27
+5149,4a716649-55f7-4293-95f1-60d3c30585b2,Standard,Idle,Paypal,Quinquennal,Pay per Use,78bced13-a288-402f-bfc1-daa3821a9e06,2024-01-17 20:22:27
+9670,8c5f4a6f-e945-4e15-ab06-d60ee75873d2,Standard,Active,Alipay,Weekly,Payment in Advance,814a91eb-b265-4ab2-ab45-f483883090db,2024-01-17 20:22:27
+6050,f49a119e-ca6a-4955-9e9f-33015244026b,Basic,Idle,Paypal,Lifetime,Monthly Payment,0cfd47b2-5724-4576-8dfc-af3cc54c8dd3,2024-01-17 20:22:27
+2580,353818e5-0b80-4c0b-bfa6-c0d24c679d4a,Bronze,Idle,Paypal,Yearly,Pay per Use,fb24c384-57b4-49cb-8b8f-744712ab3955,2024-01-17 20:22:27
+2855,911ada54-6fa2-466f-aeac-906d7ce58f38,Platinum,Blocked,Paypal,Yearly,Pay per Use,a64d4e8f-8c92-41dd-850b-999d32ab356f,2024-01-17 20:22:27
+6782,51241f77-5339-4060-b37d-e7151356262f,Gold,Blocked,Alipay,Monthly,Full Subscription,1d3e46b9-6033-4df1-88a0-4d364df83183,2024-01-17 20:22:27
+7703,39952a5d-1d2e-4b2a-8dd0-a9827872ee16,Standard,Active,Money Transfer,Monthly,Full Subscription,478ab6e6-d34f-492c-abd4-122609e4ebe1,2024-01-17 20:22:27
+2074,77b25087-47cd-43d6-80b4-417d9d2197ee,Standard,Idle,Alipay,Quinquennal,Full Subscription,2f583958-0e38-4a13-83b9-a84ae893fd67,2024-01-17 20:22:27
+6900,0efd8eda-a37d-4d27-a527-afdd1b9e7660,Gold,Cancelled,Money Transfer,Quinquennal,Monthly Payment,2fed7efd-b80e-41e4-bb53-f9b530af95c7,2024-01-17 20:22:27
+6344,5e08a827-7b38-4a60-bbec-8aed41fa42bb,Bronze,Active,Credit Card,Yearly,Pay per Use,0c104669-9c2e-4ec7-9d8c-62729a0d7138,2024-01-17 20:22:27
+7942,9a7cf4b1-f349-47ef-8dc6-78c78bd80ffe,Basic,Cancelled,Bitcoins,Lifetime,Monthly Payment,acd835a2-af25-4248-aab3-0d10e5c164bc,2024-01-17 20:22:27
+6141,2ffcc1db-096a-4760-9c7f-f1e466da7588,Bronze,Blocked,Google Pay,Weekly,Payment in Advance,0665e6b7-4473-4f8e-8efb-ceed13a56bf0,2024-01-17 20:22:27
+4634,cac2782a-0af0-4ff4-91f6-d316c09ff7fe,Standard,Cancelled,Google Pay,Monthly,Pay per Use,ee0e1914-ebb5-441d-ada0-208788563e1e,2024-01-17 20:22:27
+6098,c24b82d4-7fe0-45fc-87a0-ed8812b20182,Platinum,Cancelled,Money Transfer,Yearly,Payment in Advance,5be51729-ebf9-4990-9bcc-a1b8fcc83e79,2024-01-17 20:22:27
+8978,f24cd652-87a7-400c-8985-5cfdd128344a,Bronze,Idle,Paypal,Weekly,Pay per Use,efab600e-8e6d-40bb-b42f-6d8f700602ff,2024-01-17 20:22:27
+6143,44afda10-2446-40f2-b89c-dc2d69bfeaf0,Basic,Idle,Google Pay,Quinquennal,Full Subscription,71da65cf-48ce-4e01-b7f0-b15c8791803f,2024-01-17 20:22:27
+6107,c5d93457-26b2-4e50-8a61-e6a65c24b793,Standard,Active,Money Transfer,Quinquennal,Payment in Advance,a7b01227-ca09-493f-8fd3-dc8d14a4195b,2024-01-17 20:22:27
+2352,cf8c8897-841b-4299-a247-bead630916b1,Standard,Idle,Credit Card,Monthly,Pay per Use,ce518211-e4e5-4899-a936-9d43295a2b2e,2024-01-17 20:22:27
+2394,da28f154-f0b2-4885-8402-998b7c308a0a,Platinum,Active,Money Transfer,Yearly,Payment in Advance,ade693b4-350d-4704-9dab-58cd60ca2668,2024-01-17 20:22:27
+5229,4d7fb056-3bde-4a6b-8f54-89b49f60fe6c,Standard,Idle,Google Pay,Lifetime,Payment in Advance,5094c72b-6c23-4ad4-b2a9-769253ac342b,2024-01-17 20:22:27
+4228,33f0e8fe-90e4-4b5e-880e-fee316899a0b,Platinum,Cancelled,Money Transfer,Weekly,Monthly Payment,40ad9fb1-0c57-4bc3-a4d3-50d4cfe58021,2024-01-17 20:22:27
+9320,7488db64-15bb-4182-bf35-19adb7e744fa,Standard,Active,Paypal,Monthly,Pay per Use,8ddeec69-b4fa-4246-acea-fc8f273b5c59,2024-01-17 20:22:27
+3592,c83e5608-691d-494c-b78a-3aabf21437e9,Platinum,Active,Paypal,Yearly,Pay per Use,148a912a-5c2e-49d7-a4cf-6502aad4db4f,2024-01-17 20:22:27
+6878,6451204d-b395-4998-877a-7716bd56e14b,Basic,Blocked,Credit Card,Quinquennal,Payment in Advance,60a8ef55-2666-407a-9d78-78b7e8c33e1f,2024-01-17 20:22:27
+1701,c3ddbdb4-9fd7-4c7b-b20f-d58528dfc60c,Basic,Active,Credit Card,Monthly,Full Subscription,1622a9a5-e094-4f61-be0a-43faf36506f6,2024-01-17 20:22:27
+2599,3eff0d84-1e2a-4ca9-8b5e-0a8539833dab,Gold,Cancelled,Credit Card,Yearly,Pay per Use,70dd62d3-0080-4b07-82dd-0a62628728bc,2024-01-17 20:22:27
+9478,80426b05-cdd2-4112-87f3-e32bc9504d3a,Bronze,Idle,Alipay,Lifetime,Monthly Payment,e9a94db2-c927-4093-b403-ab55cdd58ab0,2024-01-17 20:22:27
+4577,dd75f27c-952d-4aeb-bb7e-59027dca928f,Platinum,Cancelled,Alipay,Lifetime,Full Subscription,fb6756f5-672e-4d83-aee5-9bd5a765bea5,2024-01-17 20:22:27
+6074,1c267a3a-059e-4552-b168-081735438b67,Standard,Active,Google Pay,Yearly,Full Subscription,17bbbb39-be82-44ee-aadd-75ac699395f5,2024-01-17 20:22:27
+7832,7b68f129-a5f5-48b5-827b-9313a2d40413,Standard,Blocked,Google Pay,Yearly,Pay per Use,1c968d84-763e-42d5-99bb-9369b8996019,2024-01-17 20:22:27
+5488,f5e548c4-cc3a-47b6-a247-74b8d6bee885,Gold,Active,Bitcoins,Weekly,Pay per Use,9d5eb260-b0c9-4cfa-a3d8-adeabf043f39,2024-01-17 20:22:27
+4367,49ec380c-9b21-4a8c-b8d8-36df1cc76b7d,Platinum,Idle,Bitcoins,Quinquennal,Pay per Use,c016fba7-7053-4a25-b4b3-2e4c3a40ccc1,2024-01-17 20:22:27
+8968,77d0b7a9-86b1-415f-8b4f-0a40ef398790,Standard,Idle,Money Transfer,Monthly,Monthly Payment,152807b4-f8b8-4e1d-be76-2a45ef782659,2024-01-17 20:22:27
+1114,8837c85c-5613-4506-9684-eb96c541ee0a,Standard,Idle,Google Pay,Lifetime,Monthly Payment,a0358dca-2a1b-4f8e-bc69-6e01594f5f3d,2024-01-17 20:22:27
+7056,78eb163f-ec65-48b2-bb49-236542809ff5,Bronze,Idle,Bitcoins,Weekly,Monthly Payment,d2a41ccb-be09-4765-becd-a55074c13ef6,2024-01-17 20:22:27
+8342,17699f2b-e1c4-4b58-9380-1e5da7f9b303,Gold,Idle,Google Pay,Lifetime,Pay per Use,7186c85c-f2be-46ca-8065-98c4c0189bfe,2024-01-17 20:22:27
+2904,056e3acf-5daf-4c04-a1b3-fabb0ec13ad9,Basic,Cancelled,Paypal,Weekly,Monthly Payment,de1cb292-a6e7-4fd3-9038-9aaedef9b26d,2024-01-17 20:22:27
+9290,958de8dc-ac57-444d-91cd-ada558222b64,Platinum,Blocked,Paypal,Yearly,Pay per Use,8b1d07f9-c73d-4bbc-b3be-a0a1187fa94e,2024-01-17 20:22:27
+5019,66ef3a9e-aea7-4f61-9642-aa2c23ebfe7b,Standard,Idle,Money Transfer,Quinquennal,Full Subscription,5e157048-3d84-4221-9126-9e0edfccba75,2024-01-17 20:22:27
+2780,aae6d8f3-240c-48d7-a75b-76e39379135a,Platinum,Idle,Bitcoins,Monthly,Payment in Advance,9e88d0b8-563f-4575-bf3f-d0e3c3525348,2024-01-17 20:22:27
+4154,72d508d9-c210-4531-808f-95e45285465d,Platinum,Active,Money Transfer,Quinquennal,Pay per Use,74398328-a9b4-4c91-a205-8de841ba979f,2024-01-17 20:22:27
+1821,d6908196-2d97-4a8a-9350-813a3f85abfd,Bronze,Cancelled,Bitcoins,Weekly,Monthly Payment,bf26ba48-fb77-42d7-9023-773b00f2b855,2024-01-17 20:22:27
+4655,026a1318-e581-4d2b-928d-86bbaebea666,Standard,Blocked,Bitcoins,Lifetime,Monthly Payment,3178ff57-5bde-4212-a3f4-2bb42f730aec,2024-01-17 20:22:27
+6077,abcc0bdc-133f-46b5-97d6-7b03014502b9,Standard,Idle,Paypal,Lifetime,Payment in Advance,2d085a55-ed5b-477f-98ac-0ce5b00f79ba,2024-01-17 20:22:27
+8110,d81e3d9a-6640-4698-ac88-09e550a7fb0c,Bronze,Idle,Paypal,Lifetime,Pay per Use,90fc001c-7886-4dc5-8a36-a079890bf7df,2024-01-17 20:22:27
+8365,203f2228-4f76-4a53-bdb5-97d6faf144c1,Basic,Cancelled,Bitcoins,Monthly,Full Subscription,a8d84c09-9c27-49bc-a05b-da8b99b0f08a,2024-01-17 20:22:27
+7867,28f4e0b3-4bec-40a2-9ea1-b2a3bc50b905,Gold,Idle,Paypal,Quinquennal,Pay per Use,62798906-1543-416a-9483-cd43498c7a31,2024-01-17 20:22:27
+2481,8e1bae97-bf25-4e0f-bd22-bdc6026182a9,Bronze,Idle,Bitcoins,Monthly,Pay per Use,3dd043c1-59b3-40c8-b1c0-dc8c9e87b72d,2024-01-17 20:22:27
+4034,07fc410c-61cf-40bc-b1b8-82027eabf70a,Basic,Idle,Credit Card,Quinquennal,Pay per Use,8c172af4-3f12-4c2a-bac8-3bb6d3862a6d,2024-01-17 20:22:27
+2072,27ac746a-d0ee-467d-b2df-2284a8c53555,Gold,Active,Credit Card,Lifetime,Payment in Advance,dfbea2bf-8989-451b-abc6-eb56fb017b57,2024-01-17 20:22:27
+7459,10ef9029-08d7-4814-97ee-ac8e20fb4ea0,Bronze,Idle,Paypal,Weekly,Full Subscription,b2d9f349-e263-49a0-99c1-3d8bf0173543,2024-01-17 20:22:27
+3170,dd4bcc86-73b8-40c1-a28a-f4cb3d6ca89e,Bronze,Active,Alipay,Quinquennal,Full Subscription,3a95201e-16e9-4181-8fbe-46f511cad3d6,2024-01-17 20:22:27
+6040,90a32936-5e01-4428-b33b-c08ab264d9d2,Bronze,Cancelled,Bitcoins,Quinquennal,Monthly Payment,8a7bf245-4d02-497d-9426-d95045a92090,2024-01-17 20:22:27
+3983,cd8ea86c-9ed7-429f-b410-5507d3e60fd3,Gold,Cancelled,Money Transfer,Yearly,Full Subscription,370f629d-bde9-4b0d-81bf-03d39b7aa00f,2024-01-17 20:22:27
+9138,9649d73d-d93d-408c-bee2-c299760ec6dc,Basic,Blocked,Money Transfer,Lifetime,Monthly Payment,60aed699-92fb-4558-a465-52b33b271f83,2024-01-17 20:22:27
+2534,3616d7cd-d40c-4f1c-965d-dc4128642cad,Gold,Idle,Credit Card,Yearly,Payment in Advance,22c3a4be-010b-4201-b2c9-38b5730e7b92,2024-01-17 20:22:27
+1668,832ca4aa-45a0-49e6-b8fa-1334fb3121ef,Gold,Active,Credit Card,Yearly,Pay per Use,2e918cf3-1096-46bc-98b3-81ed9009e47e,2024-01-17 20:22:27
+2455,38e00334-5cc9-4d66-a5df-b5b0e7087618,Standard,Cancelled,Alipay,Weekly,Pay per Use,6cbcbff7-5f5a-49c9-ae14-824e3edd8356,2024-01-17 20:22:27
+1716,ed801ede-0805-4d37-9fb3-7df360a1aad5,Basic,Blocked,Credit Card,Quinquennal,Full Subscription,2deac742-3e4b-453c-985d-17a13b5927d5,2024-01-17 20:22:27
+6733,222ed341-20a9-4a3f-9d15-7939b0b0e48f,Platinum,Idle,Alipay,Lifetime,Full Subscription,dd7f50c0-3a1e-44a8-beee-67fe6d9e7ee1,2024-01-17 20:22:27
+1908,8476c14e-d3b6-45d4-9d61-7c1ad7225592,Basic,Active,Alipay,Monthly,Monthly Payment,eb138417-0e5b-4b50-b13f-1a4796a42839,2024-01-17 20:22:27
+8906,dbe21ab7-321e-452d-9692-14c82c4a3933,Basic,Cancelled,Paypal,Yearly,Pay per Use,28929484-47a3-4da4-bbe3-45bff8e48934,2024-01-17 20:22:27
+6330,a9ac2105-086b-443b-9a94-26bf51f5a49a,Bronze,Active,Money Transfer,Monthly,Payment in Advance,23fe3aba-d2d6-4ee6-8247-6dc7f6366655,2024-01-17 20:22:27
+6621,8c9f6dc2-dd62-4ee0-b697-054d40728066,Basic,Idle,Money Transfer,Quinquennal,Monthly Payment,420aca79-f3ab-4aae-9949-7e813a17e436,2024-01-17 20:22:27
+7367,e43cc09c-873c-4b76-8b94-f34c47f98404,Standard,Active,Bitcoins,Yearly,Monthly Payment,552bf07a-1c87-4741-97ce-fb1f3a9817e4,2024-01-17 20:22:27
+6515,4a3222f1-8292-4e7e-bd39-9d96c581839a,Standard,Idle,Paypal,Monthly,Payment in Advance,8faebdb2-92bf-46c6-becb-4b9cd5a3f014,2024-01-17 20:22:27
+7261,9676fa63-2a59-4eaf-88dc-a707e354e334,Gold,Idle,Alipay,Weekly,Monthly Payment,118d3683-ce10-4f5c-9789-6182b9bc9af7,2024-01-17 20:22:27
+9146,05fb1531-17fd-431e-9854-3c25b79432a9,Basic,Blocked,Bitcoins,Lifetime,Payment in Advance,d6b3062b-7710-450d-91bb-5e9ad1729bff,2024-01-17 20:22:27
+3250,36bdcb95-06ec-40f9-a3fb-9a5a9d937118,Gold,Blocked,Bitcoins,Yearly,Monthly Payment,cac78d65-1f64-4050-be5b-406bd3f52ae6,2024-01-17 20:22:27
+9023,ff028c5d-9f5f-48ed-b7f4-bf6aa91e6add,Platinum,Blocked,Alipay,Weekly,Full Subscription,123b4c17-f374-47f6-8727-6c7e0cc64d13,2024-01-17 20:22:27
+5088,b0ac36f7-6373-45c5-b1e0-c079f993b9a7,Bronze,Blocked,Money Transfer,Yearly,Full Subscription,b2174361-9414-4d6c-8547-345f293adce1,2024-01-17 20:22:27
+1307,aaec1b83-7bc5-4f70-9da1-fd4a6767be13,Bronze,Idle,Paypal,Monthly,Full Subscription,87862ed2-41ff-416f-b1ad-b8434593594b,2024-01-17 20:22:27
+4568,415a7b9e-5539-4593-8da0-c20407a9bc2b,Standard,Blocked,Paypal,Lifetime,Monthly Payment,0f9e3bb4-32d2-4acf-be57-40de486cbffb,2024-01-17 20:22:27
+8021,354c0300-5fc9-47bb-b232-c6c20bc96a45,Platinum,Idle,Bitcoins,Weekly,Payment in Advance,6dc989de-8986-4a12-8f2d-cc76815fe0ae,2024-01-17 20:22:27
+1545,930e45eb-6bc7-47b3-9b8a-ddde13699abd,Gold,Idle,Alipay,Monthly,Payment in Advance,80c52f1f-adf4-4e4f-8d3a-0b506347d4ff,2024-01-17 20:22:27
+2747,7d4b82bd-fdf9-488e-b3ba-026fc9f338ba,Basic,Idle,Credit Card,Quinquennal,Full Subscription,382d39f5-a06d-41dd-8ad3-597b635e8003,2024-01-17 20:22:27
+8606,7f74ee86-1ab9-4883-ac8b-99d41108c268,Gold,Active,Google Pay,Yearly,Monthly Payment,918ceef0-fc18-437e-9ed3-383868d70a78,2024-01-17 20:22:27
+6268,df3cb431-9f77-4dbd-9204-dde81eedff5f,Standard,Active,Bitcoins,Weekly,Monthly Payment,20d49bf1-f1cf-4a3b-acf1-f118d2dc621a,2024-01-17 20:22:27
+7525,882bf12f-ee4e-41b2-8d73-720557d90f35,Gold,Cancelled,Credit Card,Monthly,Full Subscription,e039023c-bb0a-4667-9c20-0d311c55dcf2,2024-01-17 20:22:27
+1939,60059ed1-ac7e-44e6-ba4b-a967b4b4b29e,Gold,Active,Paypal,Quinquennal,Pay per Use,6e709265-61be-48c8-8865-65f1a0bc98e4,2024-01-17 20:22:27
+4949,011ff33e-d9ac-4e24-bb84-16c2c0c1be2b,Bronze,Blocked,Bitcoins,Weekly,Payment in Advance,e73142f4-3906-464b-a64b-119cbe42a779,2024-01-17 20:22:27
+1899,095bd603-d85f-4d30-9010-b3f87b05e145,Bronze,Blocked,Google Pay,Yearly,Full Subscription,afae0514-9b98-4ede-a049-a129d6ab5eec,2024-01-17 20:22:27
+7832,9b5cf9b3-0d43-4a09-9776-a10da1809159,Gold,Active,Credit Card,Lifetime,Pay per Use,3836650b-9d84-4e8e-aba0-b80b51d06553,2024-01-17 20:22:27
+1757,44f88343-5cfd-42cb-9e31-4725f8f288ff,Bronze,Active,Paypal,Yearly,Pay per Use,ef17db95-619c-49a9-9657-1a51a3581e5d,2024-01-17 20:22:27
+7331,fddb0698-e836-443a-9694-2bbd01879f55,Standard,Blocked,Money Transfer,Lifetime,Monthly Payment,63f114ca-2c7d-4cae-9c95-c14263b9a5e2,2024-01-17 20:22:27
+9651,9808fe2e-816a-4d73-a39c-f8d2fdd6e6ad,Gold,Blocked,Google Pay,Yearly,Payment in Advance,05899654-638f-49e6-a9f7-2b3c4827eb73,2024-01-17 20:22:27
+8182,c7205c15-a869-4538-9598-430736b43338,Platinum,Idle,Bitcoins,Yearly,Monthly Payment,277d905e-3e5f-49ef-9ade-f73426c335eb,2024-01-17 20:22:27
+2106,d8134223-40cb-4cef-b9a3-1a6ee5c63ec6,Standard,Cancelled,Money Transfer,Yearly,Full Subscription,24e4edc4-ae4f-4a83-870e-79ebf3cfc4c4,2024-01-17 20:22:27
+8509,7c2cddb2-a66c-4e79-bf6d-23526086e891,Standard,Blocked,Google Pay,Lifetime,Monthly Payment,fb31505c-dfa5-4af1-8f92-773edf1ae8cb,2024-01-17 20:22:27

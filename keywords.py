@@ -1,0 +1,101 @@
+import os
+import json
+import csv
+import xml.etree.ElementTree as ET
+import random
+import uuid
+from datetime import datetime
+
+def random_keyword():
+    base_keywords = [
+        "independent film", "court", "courtroom drama", "mutant", "marvel comic",
+        "detective", "murder", "hip-hop", "terror", "corruption", "economic theory", "war on terror"
+    ]
+
+    # Créer une liste de mots-clés avec des id uniques
+    keywords = [{"id": random.randint(100, 9999), "name": name} for name in base_keywords]
+    return random.sample(keywords, random.randint(1, 3))
+
+# Fonctions pour lire les fichiers CSV, JSON et XML
+def read_csv_file(file_path):
+    with open(file_path, mode='r', newline='') as file:
+        reader = csv.DictReader(file)
+        return list(reader)
+
+def read_json_file(file_path):
+    with open(file_path, 'r') as file:
+        return json.load(file)
+
+def read_xml_file(file_path):
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+    records = []
+    for record in root:
+        record_data = {child.tag: child.text for child in record}
+        records.append(record_data)
+    return records
+
+def create_keywords_xml(companies, file_path):
+    root = ET.Element('Companies')
+    for company in companies:
+        company_elem = ET.SubElement(root, 'Computer')
+        for key, val in company.items():
+            child = ET.SubElement(company_elem, key)
+            child.text = str(val)
+    tree = ET.ElementTree(root)
+    tree.write(file_path)
+
+# Fonction pour écrire les données de mots-clés dans les fichiers correspondants
+def write_keywords_data(keywords_data, keywords_folder, file_type, original_filename):
+    output_folder = os.path.join(keywords_folder, file_type.strip('.'))
+    os.makedirs(output_folder, exist_ok=True)
+    output_path = os.path.join(output_folder, original_filename)
+
+    if file_type == '.csv':
+        with open(output_path, mode='w', newline='') as file:
+            writer = csv.DictWriter(file, fieldnames=["id", "uid", "keywords", "user_id", "dt_current_timestamp"])
+            writer.writeheader()
+            for data in keywords_data:
+                writer.writerow(data)
+    elif file_type == '.json':
+        with open(output_path, 'w') as file:
+            json.dump(keywords_data, file, indent=4)
+    elif file_type == '.xml':
+        create_keywords_xml(keywords_data, output_path)
+
+# Fonction pour traiter tous les fichiers dans un dossier pour les mots-clés
+def process_keywords_files(directory, file_type, keywords_folder):
+    for filename in os.listdir(directory):
+        if filename.endswith(file_type):
+            file_path = os.path.join(directory, filename)
+            if file_type == '.csv':
+                records = read_csv_file(file_path)
+            elif file_type == '.json':
+                records = read_json_file(file_path)
+            elif file_type == '.xml':
+                records = read_xml_file(file_path)
+
+            keywords_list = []
+            for record in records:
+                keywords_data = {
+                    "id": random.randint(1000, 9999),
+                    "uid": str(uuid.uuid4()),
+                    "keywords": json.dumps(random_keyword()),
+                    "user_id": record['user_id'],
+                    "dt_current_timestamp": datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                }
+                keywords_list.append(keywords_data)
+
+            write_keywords_data(keywords_list, keywords_folder, file_type, filename)
+
+keywords_folder = '/home/stefen/data/keywords'
+os.makedirs(keywords_folder, exist_ok=True)
+
+csv_dir = '/home/stefen/data/bank/csv'
+json_dir = '/home/stefen/data/bank/json'
+xml_dir = '/home/stefen/data/bank/xml'
+
+# Traitement des fichiers
+process_keywords_files(csv_dir, '.csv', keywords_folder)
+process_keywords_files(json_dir, '.json', keywords_folder)
+process_keywords_files(xml_dir, '.xml', keywords_folder)    

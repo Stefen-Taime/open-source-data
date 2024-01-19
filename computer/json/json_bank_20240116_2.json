@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 4452,
+        "uid": "63fc7e25-a1f0-46c6-b0a2-f27c78d1d3d9",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "CentOS 8",
+        "stack": "RHEL, Ubuntu",
+        "user_id": "6808a3b8-2230-4027-97d3-e2eb67a2d3e2",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3158,
+        "uid": "697ed325-ffb7-4cd7-ae4e-f859fff3deb5",
+        "platform": "Linux",
+        "type": "server",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Windows, macOS",
+        "user_id": "a94c130f-fc56-4f58-ac71-c7ef4b0a446a",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 4061,
+        "uid": "9271092b-72be-4669-9695-b9c6ddf0efeb",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "Windows, RHEL",
+        "user_id": "24cf2eea-b334-40f8-bd56-d5da6b6cf291",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7608,
+        "uid": "b30e6fd3-6582-451d-bc00-ab5831ed3935",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Linux, Ubuntu",
+        "user_id": "5db08085-3b32-4ad8-b5bf-de23d33db48a",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5910,
+        "uid": "c94dc9e8-d97a-4dfb-909a-94b9dad917df",
+        "platform": "Windows",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Windows, macOS",
+        "user_id": "6aae6fbf-1a35-428f-9d72-ed1f2378fcf5",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1296,
+        "uid": "e47f1c24-8656-4dbd-995f-a56ccb1e87f3",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "Windows, RHEL",
+        "user_id": "d4daf90e-92ec-411e-a8fd-cc67847b4c8b",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1624,
+        "uid": "7346d23f-ab44-4ae7-a2f9-01ff274d78c4",
+        "platform": "Linux",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Linux, RHEL",
+        "user_id": "1de5f09a-10c6-4bc1-a7fd-3f5fd4628e60",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5509,
+        "uid": "d3378e14-c4f6-42b3-b608-b567312e8f7b",
+        "platform": "macOS",
+        "type": "server",
+        "os": "Windows 10",
+        "stack": "macOS, RHEL",
+        "user_id": "83110bd1-8c45-4d58-a7a9-71c74a4bfdec",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9467,
+        "uid": "3da477ef-c458-456e-a92f-42066f04cd3e",
+        "platform": "Windows",
+        "type": "server",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "macOS, RHEL",
+        "user_id": "51266c9c-c77f-4afd-af22-4d3a14b7fa3f",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9026,
+        "uid": "be06f6b1-d6cb-448d-a02f-ca4ec286eb03",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "Linux, Windows",
+        "user_id": "ae22a074-813a-4a50-b3da-cb6f880c82a9",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5522,
+        "uid": "5e94bbf4-2054-4531-8cfc-70eba4003b6b",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "Windows, Ubuntu",
+        "user_id": "052acbd1-43f7-4d59-8213-f91fafc0bf98",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8691,
+        "uid": "e31449b8-5ba4-420b-94c4-234f98e182ef",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "RHEL, macOS",
+        "user_id": "c4c04ad5-18c7-4095-853e-0875496ee797",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8377,
+        "uid": "2fde8982-f307-4f11-9355-aef63358203a",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "RHEL, Ubuntu",
+        "user_id": "9d460064-ec5a-4881-a01b-ea4b2dd36bbf",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9960,
+        "uid": "dd525950-de26-4972-979f-18848cdc7e64",
+        "platform": "Linux",
+        "type": "server",
+        "os": "RHEL 7.7",
+        "stack": "Windows, Ubuntu",
+        "user_id": "ffbc1596-f012-4146-9161-0e26b261e429",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 6083,
+        "uid": "34fed3d5-ee75-4b2a-8b21-5bbafdcf5ba5",
+        "platform": "macOS",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "macOS, Ubuntu",
+        "user_id": "12012cfa-1418-443c-ba71-a2685df8f16d",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7037,
+        "uid": "57ac72ad-1298-43e5-a203-977f3931e021",
+        "platform": "Linux",
+        "type": "server",
+        "os": "RHEL 7.7",
+        "stack": "Windows, RHEL",
+        "user_id": "a4028cf7-f3fb-44f4-b4cb-eb3832b3a2fa",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3747,
+        "uid": "66028f52-d2c8-4242-95b1-628b20ad5ddf",
+        "platform": "Windows",
+        "type": "server",
+        "os": "RHEL 7.7",
+        "stack": "Windows, RHEL",
+        "user_id": "506020a3-79fd-444a-9c36-f6f9e9c41406",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8539,
+        "uid": "9af83716-6671-4fa9-ae65-e9ded6e37ff8",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "Ubuntu, Windows",
+        "user_id": "ba18e60c-ad21-4a5b-9d12-ddbe1301cc4f",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8151,
+        "uid": "d3badf58-b5f1-4700-9844-eb54628c2b36",
+        "platform": "Windows",
+        "type": "server",
+        "os": "Windows 10",
+        "stack": "RHEL, Windows",
+        "user_id": "46d228b2-a4f7-4d2b-954e-a34eda44265f",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2500,
+        "uid": "4344fe5b-fc5c-4b3c-be3f-9b28e57a9988",
+        "platform": "Windows",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Ubuntu, Linux",
+        "user_id": "b51214d0-e547-4fee-8d14-9edc6ad2f307",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7510,
+        "uid": "14ba8ae8-fc1d-4d35-86fc-843e3a070fa9",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "CentOS 8",
+        "stack": "Ubuntu, Windows",
+        "user_id": "d50468f0-b34d-4c9f-8967-b3c955d69f4d",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5590,
+        "uid": "9902a808-3855-4e03-95f7-47fb6699ec65",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "Linux, macOS",
+        "user_id": "ca5e9370-6fe5-4814-afea-9bdcc5e0f9c1",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1437,
+        "uid": "37359d73-71eb-4d2a-9281-e9af0e95c688",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "RHEL, Ubuntu",
+        "user_id": "45f283fc-589c-41a6-9e7a-493a6ce70ab9",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1572,
+        "uid": "c4060a95-1b60-4d6a-b8cd-a545278011ed",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "Windows, Linux",
+        "user_id": "835d9f2d-70ee-4636-8193-ac1567ccf3d6",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 4348,
+        "uid": "f9136cc3-be92-4f71-bea5-b4ded5959695",
+        "platform": "Windows",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "macOS, RHEL",
+        "user_id": "ce60ae86-6ba3-454e-8ee4-769c7b51b8f6",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 4815,
+        "uid": "a4bcd959-a659-4e29-bcf9-8ea5509458df",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "Linux, RHEL",
+        "user_id": "7590b474-617c-4de5-8340-c8d1ba524ead",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3628,
+        "uid": "32ac0d11-858c-43cb-843f-97f09ee6c896",
+        "platform": "macOS",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "Ubuntu, RHEL",
+        "user_id": "912510c3-b8d7-4ab3-8c47-1a27849c56a9",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5067,
+        "uid": "de19fa93-953f-4a67-b8e7-244faf88361a",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "CentOS 8",
+        "stack": "Windows, macOS",
+        "user_id": "cdb02f64-618c-4476-9312-ebba41c1af73",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 6340,
+        "uid": "19b81aee-69f0-4edb-bc05-15fab20444c3",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "Ubuntu, macOS",
+        "user_id": "82181457-bcfb-497e-b488-b389e03e0e7c",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9709,
+        "uid": "d5ce3a4a-1b5b-424d-8af6-abd9f9b7effb",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "Ubuntu, RHEL",
+        "user_id": "295245a7-995c-4d42-b999-73d8971430fd",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8691,
+        "uid": "ca2f0c67-cc8d-4080-91c0-3f062ec1a152",
+        "platform": "Windows",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "RHEL, macOS",
+        "user_id": "b15abf57-30b6-4ee1-810d-80da94102743",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3365,
+        "uid": "195cb8ca-31fe-44b6-bf44-5ce995e82ceb",
+        "platform": "Windows",
+        "type": "server",
+        "os": "Windows 10",
+        "stack": "Windows, Linux",
+        "user_id": "c26209a7-2fdc-451a-be7f-93e9f16c3ff6",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7574,
+        "uid": "ac1be097-ca12-4190-891c-826c6f1754fc",
+        "platform": "Windows",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Linux, Ubuntu",
+        "user_id": "016994b9-81b3-43bb-89c2-ad7b7ca618fb",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7316,
+        "uid": "6c0250ae-4c30-4dfd-8ef7-a2e14bf309f0",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Windows, Ubuntu",
+        "user_id": "fdeb734d-1d9f-4e6a-8b40-be31107058cc",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3354,
+        "uid": "1cc79493-ca8e-4273-8997-5815a5d925f1",
+        "platform": "macOS",
+        "type": "server",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Windows, macOS",
+        "user_id": "0923af98-d7fe-4c1f-a709-0277141ca13a",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7784,
+        "uid": "70434083-b9d9-4a09-be96-48dbb0b2e46e",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Linux, Ubuntu",
+        "user_id": "15f26fb1-7eb6-4e65-abac-237c7c3ad0ac",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8314,
+        "uid": "ae9788f2-3f8f-423c-9aac-05a6b5351aef",
+        "platform": "macOS",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Ubuntu, RHEL",
+        "user_id": "758a6310-8614-4f59-9840-1f6af29f1370",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8548,
+        "uid": "97b62d75-739c-447b-9a73-ccece3218add",
+        "platform": "Linux",
+        "type": "server",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Linux, macOS",
+        "user_id": "749ccb51-c9d5-4ac3-9f54-f48aad27e001",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9720,
+        "uid": "58cf5190-105a-483f-a32a-22d585d52275",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "macOS, Linux",
+        "user_id": "c3129008-781d-473a-ac4f-8e47a0187998",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3305,
+        "uid": "64a4e05e-a353-41fb-98e4-4d04d2964e78",
+        "platform": "Windows",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "Linux, Ubuntu",
+        "user_id": "71df473c-4fb2-4df8-9c8e-1842ed7920ef",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5216,
+        "uid": "bb8aa022-8e5b-4e27-bccd-7cb9b13013d3",
+        "platform": "Linux",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Ubuntu, Linux",
+        "user_id": "9e567f96-c066-47e6-b433-30b5e305e000",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7148,
+        "uid": "79a310be-637f-4232-aedf-52576ed59ddb",
+        "platform": "Windows",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "macOS, Windows",
+        "user_id": "6714133d-2bb6-4765-8db5-d4b8a4f091b7",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7094,
+        "uid": "100ab60b-5eac-406c-9b0c-be1089a8f3b6",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "CentOS 8",
+        "stack": "Windows, Linux",
+        "user_id": "81315103-c5af-4e06-be4c-3b3383dade3e",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2366,
+        "uid": "19a5ccbf-7117-431a-b750-15eadb2ac236",
+        "platform": "macOS",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "Windows, RHEL",
+        "user_id": "4c0c21d0-7127-4223-98d3-9880b7731f80",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2923,
+        "uid": "0cfbd51d-477f-45f1-a92c-b841d3b1bc0a",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "Ubuntu, Windows",
+        "user_id": "9966fa29-71c3-4e3a-87f2-1d31c63c6ba2",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7290,
+        "uid": "3211d573-6a1c-4da9-b88b-da7b213c0146",
+        "platform": "macOS",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Linux, RHEL",
+        "user_id": "0205c23e-4fac-4d32-a21c-38899666028c",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1914,
+        "uid": "99f8bb38-2d87-462b-9f61-3eb3c1790bfa",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Windows, RHEL",
+        "user_id": "65a72509-c9f4-466e-bee6-abb194f9bf41",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7709,
+        "uid": "a51f0b02-9335-4e20-a759-3de28e20cd3f",
+        "platform": "Windows",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Ubuntu, RHEL",
+        "user_id": "0db4e14a-1a61-47ba-9df7-05a0a1ea719a",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5881,
+        "uid": "a20c0532-f756-4d1e-9c1f-336c33558617",
+        "platform": "Windows",
+        "type": "server",
+        "os": "Windows 10",
+        "stack": "Ubuntu, macOS",
+        "user_id": "40071839-649d-4b22-b5d9-a84d02251bbc",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9673,
+        "uid": "bc5d2050-6b72-4396-90e4-30ee84e900cc",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "RHEL, Ubuntu",
+        "user_id": "78c5276f-b723-43ee-9d44-1761797e7db8",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9971,
+        "uid": "bb943af3-2861-4702-ac09-60d10fab676e",
+        "platform": "Windows",
+        "type": "server",
+        "os": "RHEL 7.7",
+        "stack": "Ubuntu, macOS",
+        "user_id": "0fc4aae2-1ea9-4820-8445-da1208e79f5c",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3019,
+        "uid": "1bddf6f2-b4ca-4d71-9d21-2e9e74f2e1f6",
+        "platform": "Linux",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "Windows, Ubuntu",
+        "user_id": "0c9549c3-22f4-409c-a05f-da17a50e59e6",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9296,
+        "uid": "075c387f-84b0-420f-85b6-df67ccefa334",
+        "platform": "Windows",
+        "type": "server",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "RHEL, Ubuntu",
+        "user_id": "bc757163-4d07-4fe0-b8ba-de2bbac81d6c",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 6248,
+        "uid": "fbeb7896-d13f-4333-885d-06975d0a31dd",
+        "platform": "macOS",
+        "type": "server",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Linux, Ubuntu",
+        "user_id": "f12dd834-74ac-4518-b14e-0936fbdd9b34",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1157,
+        "uid": "b6b982a6-adcd-46d0-a862-55d7abfa24dd",
+        "platform": "Linux",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "RHEL, macOS",
+        "user_id": "f4e640d8-8cf4-499d-bd2d-3e0bcd5221be",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7791,
+        "uid": "26e34ccf-c241-424a-aa9c-23bbdcf09f8b",
+        "platform": "Linux",
+        "type": "server",
+        "os": "RHEL 7.7",
+        "stack": "RHEL, macOS",
+        "user_id": "f6ad3044-8c62-482a-a58c-3a165a9370e3",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7585,
+        "uid": "75aed478-d283-481b-a4c4-8b18ebcaa5e9",
+        "platform": "Linux",
+        "type": "server",
+        "os": "Windows 10",
+        "stack": "Linux, Ubuntu",
+        "user_id": "490b6bfb-84cf-4995-9a2a-861f19ddac21",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1478,
+        "uid": "7fb249c5-225e-4bca-b741-b9fa9def62b6",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "Windows, RHEL",
+        "user_id": "2f727d96-92a5-4650-84a0-9ae566c51313",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2528,
+        "uid": "6c2890ef-0623-4f87-939a-37ca8ac2b688",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "CentOS 8",
+        "stack": "Linux, Ubuntu",
+        "user_id": "d8d7ec34-548e-4a39-bf85-3bd329592e70",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1537,
+        "uid": "0cbd8469-b65a-4735-a8df-586f5cf76e0c",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "RHEL, macOS",
+        "user_id": "b646d32b-2179-4c95-a15d-10af31296143",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3077,
+        "uid": "9b465da9-6503-4ad7-996c-f5a8b4dc4ef6",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "macOS, Windows",
+        "user_id": "da5ef7c1-5c6f-4de3-869b-733dd2ae6b40",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2357,
+        "uid": "59ca06ff-dd19-42c7-8b15-5466864b747a",
+        "platform": "macOS",
+        "type": "server",
+        "os": "RHEL 7.7",
+        "stack": "macOS, Windows",
+        "user_id": "a2326068-abed-4b99-b094-e157f9784528",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1160,
+        "uid": "d117fb3b-df7a-4704-82fd-647850d82882",
+        "platform": "Windows",
+        "type": "server",
+        "os": "Windows 10",
+        "stack": "RHEL, Windows",
+        "user_id": "ffcc2927-fe12-4ee9-af98-b5824ff74abc",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7881,
+        "uid": "42bc07d6-7000-4ee8-afb9-5ec00fceca65",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "RHEL, Linux",
+        "user_id": "643f6cb3-80db-4a6e-a986-7937e71bacf3",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2870,
+        "uid": "2648b7f5-1416-4d14-9407-4d8159609356",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "Ubuntu, macOS",
+        "user_id": "f30451be-fdde-448c-afc4-324a68325073",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8710,
+        "uid": "f781ba74-3ac9-4129-9c91-a2111a2b6974",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "Linux, macOS",
+        "user_id": "124b6452-24e0-46de-81c6-b3b8be0ecc10",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7150,
+        "uid": "0421132a-18a0-4ed0-9161-3df74566c47d",
+        "platform": "Windows",
+        "type": "server",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "macOS, Windows",
+        "user_id": "db112527-42d4-4f3f-b742-58a1b95659a1",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3073,
+        "uid": "072d3e7c-f7db-4173-91e3-1cd7061e3b40",
+        "platform": "Windows",
+        "type": "server",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Windows, Linux",
+        "user_id": "b0bb31fb-9f6b-4ecb-a619-305a3ebb9740",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9645,
+        "uid": "2f130489-8af9-4f47-b64e-d7e22e75d10b",
+        "platform": "Windows",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "Linux, Ubuntu",
+        "user_id": "3164f199-08ad-4f88-a64c-f5660ff52cc9",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9182,
+        "uid": "6d745a63-7eac-4473-b504-2d02a6551505",
+        "platform": "Windows",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Linux, Ubuntu",
+        "user_id": "e494f3a1-3d8c-4e9c-a935-92322f2f701b",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7824,
+        "uid": "eeef0871-5b0e-4937-8885-0399c8603b2a",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "CentOS 8",
+        "stack": "Ubuntu, macOS",
+        "user_id": "25a19485-8cd6-4a5a-9a86-a883d17c5a7d",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 4338,
+        "uid": "589fb25f-c480-4954-be06-13cd0ba11346",
+        "platform": "macOS",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "RHEL, macOS",
+        "user_id": "d109c1c2-15a1-4429-a833-97547e725e3c",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 6361,
+        "uid": "2e0d3b9e-0cef-4eb1-a066-9df836fe8796",
+        "platform": "Linux",
+        "type": "server",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Linux, Ubuntu",
+        "user_id": "589a5336-e401-4b95-ae4b-dc48f8003284",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2964,
+        "uid": "add2b25c-fbb1-4249-974f-796b93c68f48",
+        "platform": "macOS",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "macOS, Linux",
+        "user_id": "59e0c81a-f19b-40ce-a7b9-4b1eca38a622",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 4729,
+        "uid": "6492248a-7154-4fb0-b7aa-a8b753cccd3d",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Ubuntu, macOS",
+        "user_id": "1baf9859-87ea-4f52-9f29-d4da117c3ab6",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7857,
+        "uid": "ab0a8dd6-8adc-48c9-aa1e-93a29f5a14a8",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "Linux, Ubuntu",
+        "user_id": "62bd6333-219e-471a-a43a-ed770713e6e8",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2498,
+        "uid": "6ff06e5d-1c9b-44ba-ae59-371caebd9e96",
+        "platform": "Windows",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Linux, macOS",
+        "user_id": "f84dc086-79c4-447f-893e-9b4d2d3ba031",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9534,
+        "uid": "9577c0cc-42c6-46cd-8d95-85cdaa8734a3",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "Linux, RHEL",
+        "user_id": "3ac4508d-f00a-431a-a548-dde089a06c1f",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2227,
+        "uid": "49124ef8-8260-45d6-8a8e-09a10a80135d",
+        "platform": "macOS",
+        "type": "server",
+        "os": "Windows 10",
+        "stack": "Ubuntu, Linux",
+        "user_id": "9bb2b53c-6e07-466c-9202-2842e1999ad9",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3285,
+        "uid": "c7d43757-4495-4cf7-8613-e26ca95c88af",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "Windows, Ubuntu",
+        "user_id": "98f2fabc-f989-4bd1-af68-8456e04645ee",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8707,
+        "uid": "2ae20ed2-6c81-49f1-8e10-cf263559e242",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "Linux, Windows",
+        "user_id": "2af54acc-4cb4-47bc-9ee2-4070d95288ea",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3919,
+        "uid": "70b1f157-6826-4a6d-9ffc-8298bc7eaf99",
+        "platform": "Windows",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "RHEL, Ubuntu",
+        "user_id": "eb42f705-f065-403e-9318-9964ffd0021e",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1745,
+        "uid": "53350552-6590-4d3b-bc28-2426296d93b4",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "CentOS 8",
+        "stack": "Windows, Ubuntu",
+        "user_id": "1a1caa0f-05ef-42e2-85e1-eafa52943e62",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5160,
+        "uid": "5c437e31-5523-44dc-ba16-441441e70e5c",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "Linux, Ubuntu",
+        "user_id": "bee9ed1f-5f76-4978-9d63-862b95fa3b59",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3777,
+        "uid": "0e001011-5f9a-4a49-947e-768cdb69603e",
+        "platform": "Linux",
+        "type": "server",
+        "os": "RHEL 7.7",
+        "stack": "RHEL, macOS",
+        "user_id": "2d87a057-1c60-43ac-83ee-922f9dadb526",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9587,
+        "uid": "7217b8fd-b106-47bc-970d-69ca83a86ddf",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "RHEL, Windows",
+        "user_id": "c018a098-f916-41aa-aaa8-46145c9b969b",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2883,
+        "uid": "498b9d9e-581e-4377-b7cc-b7f36bd41354",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Windows 10",
+        "stack": "macOS, Linux",
+        "user_id": "5297fd80-457d-4287-b0ca-a2e319e0e36a",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 2632,
+        "uid": "5b157b12-79a1-4d81-9072-d887bab8efcc",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "CentOS 8",
+        "stack": "Windows, macOS",
+        "user_id": "265cfb47-fac9-454f-853c-b931fe336b17",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5700,
+        "uid": "ec87e175-4cfa-476b-8fc3-aee7e4c041d7",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "RHEL 7.7",
+        "stack": "macOS, Ubuntu",
+        "user_id": "47fcf337-c1a4-4fdd-8931-92b05329cc7f",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5307,
+        "uid": "add5e2b5-75f0-43b9-ba83-f20972ddd04f",
+        "platform": "macOS",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Linux, Windows",
+        "user_id": "186597e5-119c-4e99-9173-6b6781a2d864",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8946,
+        "uid": "299cb877-3598-40e3-997f-6cfa47687cb2",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "Ubuntu Desktop 18.04",
+        "stack": "RHEL, Ubuntu",
+        "user_id": "86d35c05-2901-4bca-a5ad-9c6658db9be0",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 9482,
+        "uid": "ab3d3803-34d1-4685-99bb-d0a08fbf0260",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "Linux, RHEL",
+        "user_id": "5473fcd7-03d6-4d3d-86e3-babddea68183",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 5404,
+        "uid": "cb6b41db-e41d-4923-bda9-920fae9f82a2",
+        "platform": "macOS",
+        "type": "workstation",
+        "os": "CentOS 8",
+        "stack": "Linux, RHEL",
+        "user_id": "d0f6cbf3-2829-43f7-a212-6479c44cc3fe",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 1073,
+        "uid": "de1512dc-72b9-406e-8f47-1b05b0b24361",
+        "platform": "Linux",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "Ubuntu, Linux",
+        "user_id": "89cde4a9-db65-46e1-a91a-640b4e166b65",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7785,
+        "uid": "49581441-01d3-455c-9fdb-a8f54e0ce367",
+        "platform": "macOS",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "RHEL, Windows",
+        "user_id": "710a1182-6028-45f3-956a-a7a83d3dde98",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 8435,
+        "uid": "d0aa8458-ca13-4299-ae04-5b0320a70c0a",
+        "platform": "macOS",
+        "type": "server",
+        "os": "High Sierra (10.13)",
+        "stack": "macOS, Ubuntu",
+        "user_id": "a10c5c14-daee-4a7f-9410-9aec06a7c2dc",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 4380,
+        "uid": "dd796271-d9af-4ff9-96a0-24414b320157",
+        "platform": "Windows",
+        "type": "workstation",
+        "os": "High Sierra (10.13)",
+        "stack": "Linux, Windows",
+        "user_id": "675ebb8d-2d88-4c4a-9513-75317300edce",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7678,
+        "uid": "208cc3cf-e773-4e60-8f08-488e22156904",
+        "platform": "macOS",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Ubuntu, Linux",
+        "user_id": "806b01bd-3742-489a-a371-17c4db386e5d",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 7886,
+        "uid": "1418cc17-6d75-4d42-8733-14a0fd246347",
+        "platform": "Windows",
+        "type": "server",
+        "os": "RHEL 7.7",
+        "stack": "macOS, Windows",
+        "user_id": "1364378e-9e97-4db0-8f8c-830bee169e0d",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    },
+    {
+        "id": 3581,
+        "uid": "b0344c25-2a32-4ad1-b26d-0035640e2e21",
+        "platform": "macOS",
+        "type": "server",
+        "os": "CentOS 8",
+        "stack": "Windows, Linux",
+        "user_id": "c2da8fc6-7caa-4af7-8e9b-8736ac9728bc",
+        "dt_current_timestamp": "2024-01-17 16:57:33"
+    }
+]

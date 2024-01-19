@@ -1,0 +1,902 @@
+[
+    {
+        "id": 7023,
+        "uid": "77060a8b-d1c4-41fb-969f-908e35927ff0",
+        "variety": "Cheesecake",
+        "topping": "Berry Compote",
+        "flavor": "Espresso",
+        "user_id": "057474b4-5433-4b0a-8db2-e9e6ec115d9c",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9939,
+        "uid": "bfe80574-0418-4842-880d-87e5f7168428",
+        "variety": "Cake",
+        "topping": "Toffee Bits",
+        "flavor": "Cherry",
+        "user_id": "e46d9355-3713-4304-9327-05d91829d2c2",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7004,
+        "uid": "5a0ef40a-9045-45bf-801e-e3fb335fe23c",
+        "variety": "Pudding",
+        "topping": "Berry Compote",
+        "flavor": "Butter Pecan",
+        "user_id": "972f2190-52d9-410e-8d45-71a0246c8669",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 4074,
+        "uid": "b2ef81a0-d3bc-4556-be55-88a27bfa6b34",
+        "variety": "Doughnut",
+        "topping": "Walnuts",
+        "flavor": "Peanut Butter",
+        "user_id": "3cf49b65-05f9-4f4e-95f8-4dd9a3d94485",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6301,
+        "uid": "00eceb25-ab72-4255-ac0c-9d4e8aedca22",
+        "variety": "Cookie",
+        "topping": "Berry Compote",
+        "flavor": "Peanut Butter",
+        "user_id": "1198471c-26ce-44a8-8f05-eb3094f719b8",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3561,
+        "uid": "b00c2aa5-6a8f-4b73-8840-f2965ac24566",
+        "variety": "Doughnut",
+        "topping": "Granola",
+        "flavor": "Chocolate",
+        "user_id": "bcdbc933-1555-4652-bbea-573877daad0e",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6558,
+        "uid": "4bfbbb1b-b576-4430-b904-919ff6f3cfe7",
+        "variety": "Cheesecake",
+        "topping": "Toffee Bits",
+        "flavor": "Peanut Butter",
+        "user_id": "18e0cec4-8fb9-410a-bea3-5a1ed590d3d5",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3414,
+        "uid": "dd0a1767-39fa-4bff-9a64-80a510d007fb",
+        "variety": "Pudding",
+        "topping": "Glaze",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "bf94f3db-0fe9-4433-be56-0f3b0dac4150",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 1776,
+        "uid": "d025ce37-723c-4698-b964-57918bcaac2b",
+        "variety": "Cake",
+        "topping": "Berry Compote",
+        "flavor": "Peanut Butter",
+        "user_id": "31eb4625-dcd0-496a-b478-c150a654d0a1",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6502,
+        "uid": "da30a596-9303-471c-b5a9-94765392f9b7",
+        "variety": "Pie",
+        "topping": "Glaze",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "c7d04d7a-7f50-47b6-86e8-60d6dc98cd93",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5909,
+        "uid": "ed71b98b-3d0e-4313-ac34-b0b48d27f5a0",
+        "variety": "Pudding",
+        "topping": "Granola",
+        "flavor": "Espresso",
+        "user_id": "b5cd83ef-e7e6-4ffb-8042-d3932c9a734c",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9187,
+        "uid": "717d6795-0482-4a2d-a244-f97fe0932206",
+        "variety": "Pudding",
+        "topping": "Granola",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "a2280dff-8e78-424b-8565-9cfe3a99e17a",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 4668,
+        "uid": "93da4385-4639-4bb5-b6d5-534fb58292e3",
+        "variety": "Pudding",
+        "topping": "Mocha Drizzle",
+        "flavor": "Cherry",
+        "user_id": "8f7d942e-7bed-4fcb-a642-9fb8cee76d0b",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3536,
+        "uid": "5b6fe093-4b55-4618-ac07-bcd627c836aa",
+        "variety": "Pie",
+        "topping": "Glaze",
+        "flavor": "Espresso",
+        "user_id": "25d4cb51-6e72-42b3-9f62-9153e345d84d",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 8799,
+        "uid": "45a9a40b-4a4d-40c0-b421-04eb97198754",
+        "variety": "Doughnut",
+        "topping": "Walnuts",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "1eb31594-5d59-405f-af3d-4bb0437fd513",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3590,
+        "uid": "381541a0-ca20-42c2-be10-0f5d44b3c94a",
+        "variety": "Cake",
+        "topping": "Walnuts",
+        "flavor": "Butter Pecan",
+        "user_id": "46ab8db9-5d23-4784-80e7-de7315f4f81b",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7620,
+        "uid": "47c62553-24c8-4655-b3c0-2ccb8061b9d4",
+        "variety": "Cookie",
+        "topping": "Toffee Bits",
+        "flavor": "Cherry",
+        "user_id": "cf387bfd-622c-4578-be17-5c47f111d85d",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 2439,
+        "uid": "4d3e7a6a-749a-4e41-87cb-b707a7ab0876",
+        "variety": "Pudding",
+        "topping": "Chocolate Chips",
+        "flavor": "Espresso",
+        "user_id": "5a58de8c-1c15-4291-b5e8-63522cfd7523",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5021,
+        "uid": "0577c558-28cb-488c-92de-6a8a35d599f0",
+        "variety": "Cake",
+        "topping": "Walnuts",
+        "flavor": "Butter Pecan",
+        "user_id": "e66262b8-469a-4885-8fd8-dbe6bdc30089",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7762,
+        "uid": "92625b66-1d0f-44db-aee0-2a326ea5305d",
+        "variety": "Cake",
+        "topping": "Granola",
+        "flavor": "Cherry",
+        "user_id": "2f5a079d-60ae-455a-8d92-353a4d77c32f",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9142,
+        "uid": "076d999a-6010-4191-ae7e-3cde9fb47af0",
+        "variety": "Cheesecake",
+        "topping": "Mocha Drizzle",
+        "flavor": "Cherry",
+        "user_id": "f6d0ef67-5bc0-4f0e-ae3a-0f1a74995912",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3240,
+        "uid": "85bba0db-2551-48af-99c3-842788952b98",
+        "variety": "Cookie",
+        "topping": "Granola",
+        "flavor": "Peanut Butter",
+        "user_id": "0c2718b3-cb8c-4bd6-8f47-631b5ed0b252",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7026,
+        "uid": "6eca778a-7eb4-4e79-a7f0-db4d4a4cb266",
+        "variety": "Doughnut",
+        "topping": "Glaze",
+        "flavor": "Cherry",
+        "user_id": "453438e3-862d-4ace-bfab-6c8f4aac9848",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7454,
+        "uid": "423f6d81-005b-4e53-a470-08c73ec4d285",
+        "variety": "Cheesecake",
+        "topping": "Glaze",
+        "flavor": "Butter Pecan",
+        "user_id": "4aee740a-b3ab-4fb4-ba91-3e1b6fce86d5",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5902,
+        "uid": "27e40b77-3864-4e2d-bc0b-d9e45d106ed1",
+        "variety": "Cake",
+        "topping": "Toffee Bits",
+        "flavor": "Peanut Butter",
+        "user_id": "2131b4a9-04b9-4991-999c-39fddd3d1009",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6654,
+        "uid": "a32df817-5e23-46da-967d-80c1f317fbc2",
+        "variety": "Cake",
+        "topping": "Berry Compote",
+        "flavor": "Cherry",
+        "user_id": "88a673ce-2454-47d1-958d-691d0ad2aa5c",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3934,
+        "uid": "1500a595-7cfe-4a49-9b81-ac777c893f27",
+        "variety": "Cookie",
+        "topping": "Glaze",
+        "flavor": "Espresso",
+        "user_id": "73e5adea-92cc-4d0a-bfba-99d3e37f920a",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 1659,
+        "uid": "e7213321-d906-4332-bd52-b77f5382d652",
+        "variety": "Pie",
+        "topping": "Walnuts",
+        "flavor": "Peanut Butter",
+        "user_id": "568bff29-540c-47b9-bf04-f312c690db9e",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7115,
+        "uid": "d715635e-d495-4aa0-bfb1-9f368b6b1948",
+        "variety": "Doughnut",
+        "topping": "Walnuts",
+        "flavor": "Espresso",
+        "user_id": "706f8888-eda7-4d14-b706-6a40babc726b",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5761,
+        "uid": "b6a4948d-5738-4cf5-b479-4cfc58e7f309",
+        "variety": "Doughnut",
+        "topping": "Walnuts",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "98388fe6-55e9-4ba9-865f-b8c2ca280e26",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9090,
+        "uid": "87313de7-c65e-4ede-abca-fd51d9fbee41",
+        "variety": "Cheesecake",
+        "topping": "Berry Compote",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "0de055a5-c768-496d-8eed-23d488ec24d3",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3864,
+        "uid": "04575fc5-c587-4f61-ad0a-5986f17dd7cd",
+        "variety": "Pie",
+        "topping": "Glaze",
+        "flavor": "Espresso",
+        "user_id": "5ed47a74-af32-487a-83b5-e53deb74e228",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 2304,
+        "uid": "0c1a1ed6-1cf7-4f7d-944c-34ec44e03252",
+        "variety": "Pudding",
+        "topping": "Mocha Drizzle",
+        "flavor": "Butter Pecan",
+        "user_id": "81ceee71-171e-4183-b14f-a085999b95cf",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 1992,
+        "uid": "049f8095-ca8a-438a-9829-5d033d4a871b",
+        "variety": "Cookie",
+        "topping": "Chocolate Chips",
+        "flavor": "Chocolate",
+        "user_id": "2961e5d3-bf91-40e6-807d-0bfa497bc25f",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 1126,
+        "uid": "62568379-f67c-445b-b465-c57338cb843e",
+        "variety": "Cake",
+        "topping": "Glaze",
+        "flavor": "Peanut Butter",
+        "user_id": "4086dfd4-02ef-4ba7-94ea-9dc879c99a99",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9456,
+        "uid": "c4460614-797b-442e-8392-7f4bacb0dbe1",
+        "variety": "Cake",
+        "topping": "Walnuts",
+        "flavor": "Chocolate",
+        "user_id": "704ec9e4-532c-4982-9cb5-1ee52d53043b",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9799,
+        "uid": "2cc369ef-3115-4438-aaa8-f4877d8a7454",
+        "variety": "Cheesecake",
+        "topping": "Glaze",
+        "flavor": "Peanut Butter",
+        "user_id": "7177d7de-ac7f-49cc-b215-06190d603c7e",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5586,
+        "uid": "c7dd50ac-e78d-4872-84fb-a7aa90d5deea",
+        "variety": "Pudding",
+        "topping": "Granola",
+        "flavor": "Chocolate",
+        "user_id": "c94bb83b-46f8-411f-b7eb-516121c47e44",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7317,
+        "uid": "aa91b8c4-7ef0-46d8-9164-6bad64e1297a",
+        "variety": "Cake",
+        "topping": "Toffee Bits",
+        "flavor": "Peanut Butter",
+        "user_id": "af7dccd9-1c2c-4c07-987a-5349ae6afd39",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6210,
+        "uid": "a2745571-91dd-41b5-a718-9e2ace0a047c",
+        "variety": "Cookie",
+        "topping": "Granola",
+        "flavor": "Chocolate",
+        "user_id": "6329ec56-4b89-482c-92c4-9309ab0bd1fe",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 1219,
+        "uid": "a2230eee-3f40-4643-ab8b-1c60ca14158b",
+        "variety": "Cake",
+        "topping": "Mocha Drizzle",
+        "flavor": "Cherry",
+        "user_id": "749247e9-a474-43ad-9025-b26324585d83",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7070,
+        "uid": "a9b22706-2546-4376-911b-f4b87194ccb1",
+        "variety": "Doughnut",
+        "topping": "Walnuts",
+        "flavor": "Espresso",
+        "user_id": "26b9e010-4a76-41a3-af42-580948c44418",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5517,
+        "uid": "c3ecae5b-997d-4999-bd47-0f634e9ef904",
+        "variety": "Cake",
+        "topping": "Walnuts",
+        "flavor": "Butter Pecan",
+        "user_id": "78705796-0489-4697-b513-0965f3602263",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3658,
+        "uid": "65216548-af93-40e8-a65a-0055fa10fc59",
+        "variety": "Cake",
+        "topping": "Walnuts",
+        "flavor": "Peanut Butter",
+        "user_id": "d5f2eb11-0713-4768-9d20-de503cbee934",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5019,
+        "uid": "3afaf11a-08f4-49f3-b804-f666a395bf0b",
+        "variety": "Doughnut",
+        "topping": "Mocha Drizzle",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "1fff39de-b264-4133-ae53-a3dc0427cbf5",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9417,
+        "uid": "845815c6-694b-43e4-a411-4fd017bcc7a0",
+        "variety": "Doughnut",
+        "topping": "Walnuts",
+        "flavor": "Chocolate",
+        "user_id": "a1372524-b62d-4702-b699-bea67cea9ec4",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6974,
+        "uid": "9f40053c-27d7-4658-8c9b-c79cdad1f008",
+        "variety": "Cheesecake",
+        "topping": "Berry Compote",
+        "flavor": "Cherry",
+        "user_id": "113eb2a1-0b23-414b-8a66-0c044d14c874",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 1153,
+        "uid": "872b43e7-b121-4392-9b42-e8d3dfccc7b7",
+        "variety": "Cheesecake",
+        "topping": "Walnuts",
+        "flavor": "Cherry",
+        "user_id": "bd715ea6-579e-4994-bf9a-9d385f8d2fc1",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6734,
+        "uid": "1ff361e0-bccc-4e21-9794-20bca133e4ec",
+        "variety": "Pie",
+        "topping": "Glaze",
+        "flavor": "Butter Pecan",
+        "user_id": "886c3c98-f5d1-4075-9a56-7bc26eff3175",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 8740,
+        "uid": "2bc6684b-9781-4c93-aae7-40b620ea745a",
+        "variety": "Cake",
+        "topping": "Mocha Drizzle",
+        "flavor": "Chocolate",
+        "user_id": "09f33338-6958-49fe-ac2d-873988b65737",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5788,
+        "uid": "1287c6f0-f3e0-4209-8ff7-365b3a777bb3",
+        "variety": "Pudding",
+        "topping": "Mocha Drizzle",
+        "flavor": "Peanut Butter",
+        "user_id": "6e196d9d-ce4e-4249-a92f-11b470ccb5bd",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 8703,
+        "uid": "a775d9fa-6ed1-4440-8c65-41b090893040",
+        "variety": "Doughnut",
+        "topping": "Chocolate Chips",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "8139f451-a0ae-4b44-b761-57b63d1edfb6",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6299,
+        "uid": "e0e44939-3173-4d9d-91eb-2116b7708670",
+        "variety": "Cake",
+        "topping": "Chocolate Chips",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "d9d7cc0e-602c-4c2b-9a31-6bd88181be44",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9271,
+        "uid": "333448c6-6d88-4c25-a0de-bf4355f82987",
+        "variety": "Doughnut",
+        "topping": "Mocha Drizzle",
+        "flavor": "Peanut Butter",
+        "user_id": "2990b7c1-a8b5-4183-839e-0decf8b2f005",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 4412,
+        "uid": "6f15d31d-41c8-43e9-8d0d-7dea65d36794",
+        "variety": "Pudding",
+        "topping": "Chocolate Chips",
+        "flavor": "Butter Pecan",
+        "user_id": "c21ad10f-9ac9-4293-a1e6-bb399a209537",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 4873,
+        "uid": "fcf0c360-add8-4759-b683-6b566ce200a6",
+        "variety": "Pie",
+        "topping": "Toffee Bits",
+        "flavor": "Chocolate",
+        "user_id": "1ca68ca4-56d5-4b56-bf78-c89044511b72",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9757,
+        "uid": "614dcd3c-3593-4e36-bd8e-3dd4148b29e4",
+        "variety": "Cheesecake",
+        "topping": "Glaze",
+        "flavor": "Butter Pecan",
+        "user_id": "ae5c5d83-c628-4d28-a7ab-a5e163ae3a67",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3525,
+        "uid": "9a942913-50f4-4782-8bc8-ef24a09c2f25",
+        "variety": "Cheesecake",
+        "topping": "Glaze",
+        "flavor": "Butter Pecan",
+        "user_id": "6f5a6928-5f8f-4a8c-a147-04721d24135b",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6049,
+        "uid": "6736762c-9711-4940-afe1-32fc6be1455b",
+        "variety": "Doughnut",
+        "topping": "Mocha Drizzle",
+        "flavor": "Peanut Butter",
+        "user_id": "703326fa-4ad9-459b-99e6-1508ae2b84c2",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7967,
+        "uid": "edfef47f-091f-42c3-a994-5e73551211b4",
+        "variety": "Cake",
+        "topping": "Glaze",
+        "flavor": "Peanut Butter",
+        "user_id": "bfa3979f-e22e-4535-92fc-247ba46ab491",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7033,
+        "uid": "8cb12a92-b80f-4b12-b3bd-1a32c6eace6e",
+        "variety": "Pie",
+        "topping": "Walnuts",
+        "flavor": "Chocolate",
+        "user_id": "4682679c-ce2d-470b-ace3-a6b88e9cae85",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3847,
+        "uid": "4c6fd79f-c8fa-402f-8a57-80c32b4cd214",
+        "variety": "Doughnut",
+        "topping": "Walnuts",
+        "flavor": "Cherry",
+        "user_id": "7067c51e-70a5-4840-840d-0c0ed4c392b2",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 8187,
+        "uid": "22028cd1-6acc-4c97-a1d4-b72c5ac10ee3",
+        "variety": "Cake",
+        "topping": "Granola",
+        "flavor": "Peanut Butter",
+        "user_id": "b0d6c280-7505-49ee-904d-d1092f21e766",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 1122,
+        "uid": "a6c9e61c-1d27-4b86-9dd1-a28ee42ce746",
+        "variety": "Pie",
+        "topping": "Mocha Drizzle",
+        "flavor": "Chocolate",
+        "user_id": "06bf4d3e-3176-499b-9bfd-f32740eda5bf",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 1177,
+        "uid": "b4787555-7bc6-45c5-bf12-e28407b09983",
+        "variety": "Pie",
+        "topping": "Chocolate Chips",
+        "flavor": "Cherry",
+        "user_id": "bde3ae6a-661c-4e4d-bfe5-8cd1c65bbde0",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 4295,
+        "uid": "31c526e1-d592-4f5a-a687-f974877f7dd7",
+        "variety": "Cookie",
+        "topping": "Mocha Drizzle",
+        "flavor": "Chocolate",
+        "user_id": "1bceb9cc-7374-4ffd-8a83-c38f0b086462",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 2219,
+        "uid": "7f955780-7dd8-4a91-948d-7e43ac3187dd",
+        "variety": "Cheesecake",
+        "topping": "Chocolate Chips",
+        "flavor": "Butter Pecan",
+        "user_id": "86e1ad83-5406-462a-a218-eb9c0387e389",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6182,
+        "uid": "4c7b0613-7f22-4592-83e4-4e1f9d36ebee",
+        "variety": "Cake",
+        "topping": "Toffee Bits",
+        "flavor": "Peanut Butter",
+        "user_id": "f900cc36-16a4-4ce0-8bc3-f2521b2de1a5",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7723,
+        "uid": "05e66d9a-1804-4800-9717-457e52951fa2",
+        "variety": "Pie",
+        "topping": "Walnuts",
+        "flavor": "Peanut Butter",
+        "user_id": "d5a98ca5-9a49-42bc-9fc8-41536275e817",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 2902,
+        "uid": "8f82ecb1-e11b-4ca6-bd81-2c4e84b482c6",
+        "variety": "Pudding",
+        "topping": "Chocolate Chips",
+        "flavor": "Cherry",
+        "user_id": "f60ab51b-b22e-4ee5-b6ea-d252deeb4aff",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 2647,
+        "uid": "3244583b-3d2c-4214-975e-d7e3d021659f",
+        "variety": "Cake",
+        "topping": "Granola",
+        "flavor": "Peanut Butter",
+        "user_id": "12368214-1070-4a9b-a0d1-fb75ef0643f5",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 2176,
+        "uid": "76e6757f-5789-4ecf-b543-33946bd6bdf4",
+        "variety": "Cheesecake",
+        "topping": "Walnuts",
+        "flavor": "Butter Pecan",
+        "user_id": "de77568f-9296-4715-ae5b-6eba3a403218",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 8879,
+        "uid": "2db407b3-9d6c-4d4b-853a-ae9da6cdbf00",
+        "variety": "Cake",
+        "topping": "Walnuts",
+        "flavor": "Espresso",
+        "user_id": "28050e9f-bc4c-4fd8-a6cf-b778c2f2a85e",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5395,
+        "uid": "ee9bb3d8-b688-478b-97e8-b7d3fb6f3d3a",
+        "variety": "Pie",
+        "topping": "Mocha Drizzle",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "dd3ff1e6-19a6-49c2-a6d4-2f77ca7fd338",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 4061,
+        "uid": "7a1a80c7-025e-42d6-804f-65a9070d9cf8",
+        "variety": "Doughnut",
+        "topping": "Chocolate Chips",
+        "flavor": "Chocolate",
+        "user_id": "edc8bb86-1c9f-4a4b-8441-5404e01b8f57",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9678,
+        "uid": "a6b4f2a7-aaa7-4ab7-af9d-b1f86e92def5",
+        "variety": "Cheesecake",
+        "topping": "Berry Compote",
+        "flavor": "Espresso",
+        "user_id": "477b42c2-0655-464b-9a5c-8cc89ee2f625",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7985,
+        "uid": "dbedbf9f-977b-4ff7-b268-1987d1465a19",
+        "variety": "Pie",
+        "topping": "Granola",
+        "flavor": "Peanut Butter",
+        "user_id": "56c5a893-1732-47a4-9c35-a900eaa216f9",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5271,
+        "uid": "f3470402-5620-4243-ab60-e6c64fab8fec",
+        "variety": "Doughnut",
+        "topping": "Mocha Drizzle",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "4b391fa1-534e-46d8-b736-79483ddaff5b",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3006,
+        "uid": "297971f6-a9c0-4d32-aabf-0e7ad5dd276e",
+        "variety": "Pudding",
+        "topping": "Toffee Bits",
+        "flavor": "Butter Pecan",
+        "user_id": "cd7bb2eb-2aa3-4389-ba1c-83615ea89a0e",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9529,
+        "uid": "f7874138-7e21-4000-a166-28f069f6e7ff",
+        "variety": "Doughnut",
+        "topping": "Walnuts",
+        "flavor": "Cherry",
+        "user_id": "a2680863-d510-41a2-b1ef-4d6d3321f983",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7252,
+        "uid": "8dde4ee2-6070-41c7-a34b-3f2bdd7cddd3",
+        "variety": "Cookie",
+        "topping": "Granola",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "5f219ad2-8173-444a-bcbc-3f08fa60501d",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9156,
+        "uid": "b24aec70-e0f9-4ef7-8a0f-932967882af5",
+        "variety": "Pie",
+        "topping": "Mocha Drizzle",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "523a8407-2604-4ad2-94d8-4cb25ea6344b",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7469,
+        "uid": "04ab6e7c-29d6-4fa8-a791-64ae4a552067",
+        "variety": "Cheesecake",
+        "topping": "Glaze",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "6eb0224a-a94b-43c0-8124-ec84b0d594f6",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 4045,
+        "uid": "0fc3bd2c-0dda-4a52-9438-f2844a923f95",
+        "variety": "Cookie",
+        "topping": "Chocolate Chips",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "f29f2ff3-6838-4ecc-8d0d-417180d24b57",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5000,
+        "uid": "a4cc4d01-4194-41c6-9b77-4d3df3eaf197",
+        "variety": "Pie",
+        "topping": "Toffee Bits",
+        "flavor": "Peanut Butter",
+        "user_id": "577a9b0a-b27b-4450-8112-d340761192d8",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6007,
+        "uid": "899f7c5b-136c-489c-b032-4b99a8a2b233",
+        "variety": "Cookie",
+        "topping": "Granola",
+        "flavor": "Butter Pecan",
+        "user_id": "408b9a52-345a-4c33-868c-c84b7c3e799c",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 2305,
+        "uid": "3839b2e0-e05f-416d-88d0-7900ded3f4c8",
+        "variety": "Doughnut",
+        "topping": "Mocha Drizzle",
+        "flavor": "Cherry",
+        "user_id": "5c188abc-cc87-45c0-b98e-bcfacb81944a",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 1945,
+        "uid": "4064fc4d-bcd8-47ca-81d4-21b33de04091",
+        "variety": "Cake",
+        "topping": "Toffee Bits",
+        "flavor": "Peanut Butter",
+        "user_id": "0337ec9f-f54a-4acd-86e6-7e43f46a1466",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 6105,
+        "uid": "6c5673dc-7b1d-41c0-a5b5-2d81d4f57c29",
+        "variety": "Cookie",
+        "topping": "Toffee Bits",
+        "flavor": "Cherry",
+        "user_id": "53415a3b-618b-40bb-8367-618695f619ed",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 5437,
+        "uid": "38077a4e-6a90-4dda-a5d3-b28c9fa3356f",
+        "variety": "Pudding",
+        "topping": "Granola",
+        "flavor": "Butter Pecan",
+        "user_id": "59c38f5d-a278-4410-b0cc-37d51f73184e",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 8748,
+        "uid": "f25676a4-8072-4fb2-b5f7-dc0776974d12",
+        "variety": "Pie",
+        "topping": "Mocha Drizzle",
+        "flavor": "Espresso",
+        "user_id": "978a7ad3-4268-41cc-beba-26e63da85531",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7489,
+        "uid": "82202a29-b485-46d8-b629-aebc2715af2e",
+        "variety": "Doughnut",
+        "topping": "Toffee Bits",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "f1f7fd25-5eb1-42aa-99fb-b4bc3e08a662",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 2637,
+        "uid": "c83f401f-f49c-4986-88e0-b9ae3b161b48",
+        "variety": "Pudding",
+        "topping": "Granola",
+        "flavor": "Cookies 'n Cream",
+        "user_id": "509db23e-1bbb-4896-b041-6d28e249f9c0",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7293,
+        "uid": "51693103-4fec-4de6-b02b-23ab71b8c4c4",
+        "variety": "Pudding",
+        "topping": "Granola",
+        "flavor": "Peanut Butter",
+        "user_id": "5456195f-f2f2-418a-83e0-69db714bb334",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 9751,
+        "uid": "9bd13c9e-c2b8-4f47-8189-56c857daee5c",
+        "variety": "Cake",
+        "topping": "Mocha Drizzle",
+        "flavor": "Peanut Butter",
+        "user_id": "19021fb4-ec44-42fc-b6f2-ea7c1ac7caab",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 7211,
+        "uid": "b6c6fc75-2202-4b72-81c1-50c11d4c1b74",
+        "variety": "Doughnut",
+        "topping": "Berry Compote",
+        "flavor": "Butter Pecan",
+        "user_id": "7c4d2d35-ac4f-4f41-9a03-427c8e66764b",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3703,
+        "uid": "633f5601-086c-4851-b0a5-27e94a06cba6",
+        "variety": "Doughnut",
+        "topping": "Glaze",
+        "flavor": "Espresso",
+        "user_id": "ba84ea30-88fc-4ffe-b7bb-93a646e1e30b",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3921,
+        "uid": "6065f66a-000d-475b-80f1-39543cd0f9aa",
+        "variety": "Cake",
+        "topping": "Berry Compote",
+        "flavor": "Butter Pecan",
+        "user_id": "9629a859-58c6-45a3-9bc1-04005ee967c0",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 3525,
+        "uid": "fe830cd8-ff43-42a4-adf5-7e4168c1fe6f",
+        "variety": "Doughnut",
+        "topping": "Mocha Drizzle",
+        "flavor": "Espresso",
+        "user_id": "a0db50a9-50b1-49ef-9970-8e3acebb5038",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    },
+    {
+        "id": 2786,
+        "uid": "0cc3d8df-97fa-4494-85af-1da440dafc06",
+        "variety": "Cheesecake",
+        "topping": "Toffee Bits",
+        "flavor": "Espresso",
+        "user_id": "9913c122-4d0a-4cf1-acf4-cf454bc47c67",
+        "dt_current_timestamp": "2024-01-17 17:03:45"
+    }
+]
