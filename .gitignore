@@ -24,7 +24,7 @@ env/
 Thumbs.db
 
 # Generated data (re-generate with: python generate_all.py)
-data/
+
 
 # Environment variables
 .env

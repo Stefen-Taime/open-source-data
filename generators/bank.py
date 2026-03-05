@@ -37,7 +37,7 @@ def random_swift_bic() -> str:
     )
 
 
-def generate(output_dir: str, num_files: int = 5, records_per_file: int = 100) -> None:
+def generate(output_dir: str, num_files: int = 5, records_per_file: int = 10_000) -> None:
     """Generate bank data files (CSV, JSON, XML)."""
     current_date = date_today()
     os.makedirs(output_dir, exist_ok=True)
